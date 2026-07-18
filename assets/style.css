@@ -81,6 +81,15 @@ a:hover { text-decoration: underline; }
 
 /* ===== Hero ===== */
 .hero { padding: 90px 0 70px; border-bottom: 1px solid var(--border); }
+.hero-inner { display: flex; align-items: center; gap: 56px; }
+.hero-text { flex: 1 1 auto; min-width: 0; }
+.hero-avatar { flex: 0 0 auto; }
+.hero-avatar img {
+  display: block; width: clamp(190px, 26vw, 300px); height: auto;
+  filter: drop-shadow(0 6px 26px rgba(229, 72, 77, 0.4));
+  animation: floaty 6s ease-in-out infinite;
+}
+@keyframes floaty { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
 .eyebrow { font-family: var(--mono); color: var(--accent); font-size: 14px; margin: 0 0 12px; }
 .hero h1 { font-size: clamp(2.4rem, 6vw, 3.6rem); margin: 0 0 10px; letter-spacing: -0.02em; }
 .typewriter {
@@ -189,6 +198,12 @@ a:hover { text-decoration: underline; }
 .footer-inner { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 14px; }
 .footer-quote { font-family: var(--mono); }
 
+@media (max-width: 760px) {
+  .hero-inner { flex-direction: column-reverse; text-align: center; gap: 30px; }
+  .hero-text .lead { margin-left: auto; margin-right: auto; }
+  .cta-row { justify-content: center; }
+}
+
 @media (max-width: 600px) {
   .site-nav nav { display: none; }
   .hero { padding: 60px 0 50px; }
@@ -198,4 +213,5 @@ a:hover { text-decoration: underline; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .caret { animation: none; }
+  .hero-avatar img { animation: none; }
 }
