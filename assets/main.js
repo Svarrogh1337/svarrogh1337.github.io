@@ -1,6 +1,27 @@
 // Footer year
 document.getElementById("year").textContent = new Date().getFullYear();
 
+// ===== Expired-certification ribbons =====
+// Any .badge[data-expires] whose date has passed gets a corner ribbon showing
+// the expiry date. Evaluated at page load, so ribbons appear on their own as
+// certs lapse - no rebuild needed.
+(function () {
+  const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const now = new Date();
+  document.querySelectorAll(".badge[data-expires]").forEach((el) => {
+    const raw = el.getAttribute("data-expires");
+    const expiry = new Date(raw + "T23:59:59");
+    if (isNaN(expiry) || expiry >= now) return;
+    el.classList.add("expired");
+    const date = `${expiry.getDate()} ${MONTHS[expiry.getMonth()]} ${expiry.getFullYear()}`;
+    const ribbon = document.createElement("span");
+    ribbon.className = "ribbon";
+    ribbon.innerHTML = `Expired<small>${date}</small>`;
+    el.setAttribute("aria-label", (el.getAttribute("title") || "") + " — expired " + date);
+    el.appendChild(ribbon);
+  });
+})();
+
 // ===== Theme toggle (respects OS default, remembers choice) =====
 (function () {
   const root = document.documentElement;
