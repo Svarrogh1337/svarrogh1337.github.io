@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-18T13:35:14.416Z",
+  "updated": "2026-07-18T15:19:21.561Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Everytime We Touch - TEKKNO Version",
+      "name": "No Glory",
+      "artist": "Skan, Drama B, M.I.M.E, Krale",
+      "url": "https://open.spotify.com/track/3xSyhYmk0s4ySQcluJWxp9",
+      "image": "https://i.scdn.co/image/ab67616d00004851124d7c978fdd3ebd0edf05ef",
+      "played_at": "2026-07-18T14:10:45.498Z"
+    },
+    {
+      "name": "E.T.",
+      "artist": "QUATTROTEQUE, Rayyea",
+      "url": "https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj",
+      "image": "https://i.scdn.co/image/ab67616d00004851581a6e14f32687ffeae2cac8",
+      "played_at": "2026-07-18T14:06:08.979Z"
+    },
+    {
+      "name": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      "image": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "played_at": "2026-07-18T14:04:11.107Z"
+    },
+    {
+      "name": "Bad Memories",
+      "artist": "MEDUZA, James Carter, Elley Duhé, FAST BOY",
+      "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U",
+      "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
+      "played_at": "2026-07-18T14:00:49.338Z"
+    },
+    {
+      "name": "Remenissions",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
+      "played_at": "2026-07-18T13:58:21.192Z"
+    },
+    {
+      "name": "Pump It",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
-      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
-      "played_at": "2026-07-18T13:34:56.003Z"
-    },
-    {
-      "name": "Unholy",
-      "artist": "Krmoni, Beutos, BassBears",
-      "url": "https://open.spotify.com/track/6dGOBiuCE89NypjojbnRQs",
-      "image": "https://i.scdn.co/image/ab67616d000048518137fe0ec3d1abd4dff85dc9",
-      "played_at": "2026-07-18T13:31:38.206Z"
-    },
-    {
-      "name": "Wild Eyes",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
-      "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
-      "played_at": "2026-07-18T13:29:28.904Z"
-    },
-    {
-      "name": "Makina Time",
-      "artist": "Dimitri Vegas & Like Mike, Marlon Hoffstadt, Dj Konik, Dimitri Vegas, Like Mike",
-      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg",
-      "image": "https://i.scdn.co/image/ab67616d000048519960bd6ef598fe5537e902ca",
-      "played_at": "2026-07-18T13:23:21.603Z"
-    },
-    {
-      "name": "Let's Get Loud",
-      "artist": "Jennifer Lopez",
-      "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73",
-      "image": "https://i.scdn.co/image/ab67616d000048519f8872d948b2f5ec7b7c830b",
-      "played_at": "2026-07-18T13:21:10.988Z"
-    },
-    {
-      "name": "Queen of Kings - Gabry Ponte Remix",
-      "artist": "Alessandra, Gabry Ponte",
-      "url": "https://open.spotify.com/track/6I0t9btY1MH0tdSj2qdTr3",
-      "image": "https://i.scdn.co/image/ab67616d000048518b0902dc66db63c2fb683ccd",
-      "played_at": "2026-07-18T12:04:09.663Z"
+      "url": "https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-18T13:52:14.002Z"
     }
   ]
 }
