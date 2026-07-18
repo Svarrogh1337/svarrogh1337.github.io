@@ -1,6 +1,6 @@
 # hhristov.info
 
-Personal website for Hristo Hristov — Platform Engineer, Project Capsule maintainer,
+Personal website for Hristo Hristov - Platform Engineer, Project Capsule maintainer,
 Kubestronaut. Static single-page site, no build step, deployed to GitHub Pages.
 
 ## Structure

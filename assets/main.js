@@ -17,7 +17,7 @@ document.getElementById("year").textContent = new Date().getFullYear();
     const ribbon = document.createElement("span");
     ribbon.className = "ribbon";
     ribbon.innerHTML = `Expired<small>${date}</small>`;
-    el.setAttribute("aria-label", (el.getAttribute("title") || "") + " — expired " + date);
+    el.setAttribute("aria-label", (el.getAttribute("title") || "") + " - expired " + date);
     el.appendChild(ribbon);
   });
 })();
