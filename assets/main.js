@@ -79,65 +79,131 @@ document.getElementById("year").textContent = new Date().getFullYear();
     if (clicks.length >= 6) ignite(); // ~5 clicks/sec
   });
 
-  function ensureLayer() {
-    if (!layer) { layer = document.createElement("div"); layer.id = "flame-layer"; document.body.appendChild(layer); }
-    return layer;
-  }
-
-  function spawnEmber(l) {
-    const e = document.createElement("div");
-    e.className = "ember";
-    const size = 4 + Math.random() * 8;
-    e.style.left = (Math.random() * 100).toFixed(1) + "vw";
-    e.style.width = e.style.height = size.toFixed(1) + "px";
-    e.style.setProperty("--rise", (58 + Math.random() * 40).toFixed(0) + "vh");
-    e.style.setProperty("--drift", (Math.random() * 90 - 45).toFixed(0) + "px");
-    e.style.setProperty("--dur", (2 + Math.random() * 2).toFixed(2) + "s");
-    l.appendChild(e);
-    e.addEventListener("animationend", () => e.remove());
-    setTimeout(() => e.remove(), 4600);
-  }
-
   function ignite() {
-    igniteUntil = performance.now() + 3200; // clicking more extends the blaze
+    igniteUntil = performance.now() + 3400; // clicking more extends the blaze
     if (igniting) return;
     igniting = true;
-    const l = ensureLayer();
-    l.innerHTML = '<div class="flame-glow"></div>';
-    l.classList.add("active");
-
-    if (reduce) { // gentle warm wash only - no shake, flames, or embers
-      setTimeout(stop, 2600);
-      return;
-    }
-
+    if (reduce) { igniteReduced(); return; }
     const main = document.getElementById("main");
     if (main) { main.classList.add("shake"); setTimeout(() => main.classList.remove("shake"), 600); }
-
-    const count = Math.min(20, Math.round(window.innerWidth / 65));
-    for (let i = 0; i < count; i++) {
-      const f = document.createElement("div");
-      f.className = "flame";
-      const w = 40 + Math.random() * 75;
-      f.style.left = ((i / count) * 100 + Math.random() * 3).toFixed(1) + "%";
-      f.style.width = w.toFixed(0) + "px";
-      f.style.height = (w * (1.7 + Math.random())).toFixed(0) + "px";
-      f.style.setProperty("--f", (0.28 + Math.random() * 0.3).toFixed(2) + "s");
-      f.style.animationDelay = (-Math.random() * 0.5).toFixed(2) + "s";
-      l.appendChild(f);
-    }
-
-    const timer = setInterval(() => {
-      if (performance.now() > igniteUntil) { clearInterval(timer); stop(); return; }
-      for (let i = 0; i < 3; i++) spawnEmber(l);
-    }, 90);
+    startFire();
   }
 
-  function stop() {
-    igniting = false;
-    if (!layer) return;
-    layer.classList.remove("active");
-    setTimeout(() => { if (!igniting && layer) layer.innerHTML = ""; }, 500);
+  // Reduced-motion: a gentle static warm wash - no particles or shake.
+  function igniteReduced() {
+    if (!layer) { layer = document.createElement("div"); layer.id = "flame-layer"; document.body.appendChild(layer); }
+    layer.innerHTML = '<div class="flame-glow"></div>';
+    layer.classList.add("active");
+    const check = setInterval(() => {
+      if (performance.now() > igniteUntil) {
+        clearInterval(check);
+        layer.classList.remove("active");
+        igniting = false;
+      }
+    }, 200);
+  }
+
+  // Canvas particle fire with additive ("lighter") blending: a white-hot base
+  // fading through yellow and orange to red at the tips, plus rising sparks.
+  function startFire() {
+    const canvas = document.createElement("canvas");
+    canvas.id = "fire-canvas";
+    document.body.appendChild(canvas);
+    const ctx = canvas.getContext("2d");
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    let W = 0, H = 0;
+    function resize() {
+      W = canvas.width = Math.floor(window.innerWidth * dpr);
+      H = canvas.height = Math.floor(window.innerHeight * dpr);
+      canvas.style.width = window.innerWidth + "px";
+      canvas.style.height = window.innerHeight + "px";
+    }
+    resize();
+    window.addEventListener("resize", resize);
+    requestAnimationFrame(() => canvas.classList.add("active"));
+
+    const flames = [];
+    const embers = [];
+    const MAX = 640;
+
+    // Hottest (white/yellow) when young at the base, cooling to red with age.
+    function tint(t) {
+      if (t < 0.22) return "255,250,214";
+      if (t < 0.45) return "255,214,108";
+      if (t < 0.72) return "255,122,26";
+      return "206,48,52";
+    }
+
+    function emit() {
+      if (performance.now() > igniteUntil) return;
+      for (let i = 0; i < 16 && flames.length < MAX; i++) {
+        flames.push({
+          x: (Math.random() * 0.6 + Math.random() * 0.4) * W, // slight center bias
+          y: H + Math.random() * 12 * dpr,
+          vx: (Math.random() - 0.5) * 0.9 * dpr,
+          vy: -(1.3 + Math.random() * 2.4) * dpr,
+          life: 0, max: 42 + Math.random() * 46,
+          size: (16 + Math.random() * 30) * dpr,
+        });
+      }
+      if (Math.random() < 0.7 && embers.length < 160) {
+        embers.push({
+          x: Math.random() * W, y: H,
+          vx: (Math.random() - 0.5) * 1.4 * dpr,
+          vy: -(2.6 + Math.random() * 3.4) * dpr,
+          life: 0, max: 90 + Math.random() * 90,
+          size: (1.3 + Math.random() * 2.4) * dpr,
+        });
+      }
+    }
+
+    let raf;
+    function frame() {
+      ctx.clearRect(0, 0, W, H);
+      ctx.globalCompositeOperation = "lighter";
+      emit();
+
+      for (let i = flames.length - 1; i >= 0; i--) {
+        const p = flames[i];
+        p.life++;
+        p.vx += (Math.random() - 0.5) * 0.5 * dpr; // turbulence
+        p.vy -= 0.03 * dpr;                        // buoyancy
+        p.vx *= 0.98;
+        p.x += p.vx; p.y += p.vy;
+        const t = p.life / p.max;
+        if (t >= 1) { flames.splice(i, 1); continue; }
+        const rgb = tint(t);
+        const a = (1 - t) * 0.42;
+        const size = p.size * (0.5 + (1 - t) * 0.9);
+        const grad = ctx.createRadialGradient(p.x, p.y, 0, p.x, p.y, size);
+        grad.addColorStop(0, `rgba(${rgb},${a})`);
+        grad.addColorStop(1, `rgba(${rgb},0)`);
+        ctx.fillStyle = grad;
+        ctx.beginPath(); ctx.arc(p.x, p.y, size, 0, 6.2832); ctx.fill();
+      }
+
+      for (let i = embers.length - 1; i >= 0; i--) {
+        const e = embers[i];
+        e.life++;
+        e.vx += (Math.random() - 0.5) * 0.4 * dpr;
+        e.vy *= 0.99;
+        e.x += e.vx; e.y += e.vy;
+        const t = e.life / e.max;
+        if (t >= 1 || e.y < -20) { embers.splice(i, 1); continue; }
+        ctx.fillStyle = `rgba(255,${Math.round(200 - t * 130)},90,${1 - t})`;
+        ctx.beginPath(); ctx.arc(e.x, e.y, e.size * (1 - t * 0.5), 0, 6.2832); ctx.fill();
+      }
+
+      if (flames.length || embers.length || performance.now() < igniteUntil) {
+        raf = requestAnimationFrame(frame);
+      } else {
+        window.removeEventListener("resize", resize);
+        canvas.classList.remove("active");
+        setTimeout(() => canvas.remove(), 450);
+        igniting = false;
+      }
+    }
+    raf = requestAnimationFrame(frame);
   }
 })();
 
