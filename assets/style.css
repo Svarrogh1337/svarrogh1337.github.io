@@ -198,6 +198,53 @@ a:hover { text-decoration: underline; }
 .footer-inner { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 14px; }
 .footer-quote { font-family: var(--mono); }
 
+/* ===== Svarog fire easter egg ===== */
+.hero-avatar img { cursor: pointer; -webkit-user-select: none; user-select: none; -webkit-user-drag: none; }
+#flame-layer {
+  position: fixed; inset: 0; z-index: 999; pointer-events: none;
+  opacity: 0; transition: opacity 0.35s ease;
+}
+#flame-layer.active { opacity: 1; }
+.flame-glow {
+  position: absolute; left: 0; right: 0; bottom: 0; height: 55vh;
+  background: radial-gradient(130% 100% at 50% 100%,
+    rgba(255, 190, 70, 0.55), rgba(229, 72, 77, 0.34) 42%, transparent 74%);
+  mix-blend-mode: screen;
+  animation: glow-pulse 0.5s ease-in-out infinite alternate;
+}
+@keyframes glow-pulse { from { opacity: 0.8; } to { opacity: 1; } }
+.flame {
+  position: absolute; bottom: -10px;
+  background: linear-gradient(to top, #ffd15c 0%, #ff7a1a 45%, #e5484d 78%, rgba(229, 72, 77, 0) 100%);
+  border-radius: 50% 50% 22% 22% / 62% 62% 38% 38%;
+  filter: blur(6px); mix-blend-mode: screen; transform-origin: bottom center;
+  animation: flicker var(--f, 0.4s) ease-in-out infinite alternate;
+}
+@keyframes flicker {
+  from { transform: scaleY(0.92) scaleX(1.05); opacity: 0.85; }
+  to { transform: scaleY(1.28) scaleX(0.82); opacity: 1; }
+}
+.ember {
+  position: absolute; bottom: -12px; border-radius: 50%;
+  background: radial-gradient(circle, #ffe08a, #ff6a2b 55%, rgba(255, 80, 20, 0) 72%);
+  animation: ember-rise var(--dur, 3s) ease-in forwards;
+}
+@keyframes ember-rise {
+  0% { transform: translateY(0) translateX(0) scale(1); opacity: 1; }
+  100% { transform: translateY(calc(-1 * var(--rise, 70vh))) translateX(var(--drift, 0)) scale(0.25); opacity: 0; }
+}
+#main.shake { animation: page-shake 0.5s ease-in-out; }
+@keyframes page-shake {
+  0%, 100% { transform: translate(0, 0); }
+  20% { transform: translate(-5px, 2px) rotate(-0.2deg); }
+  40% { transform: translate(5px, -2px) rotate(0.2deg); }
+  60% { transform: translate(-4px, -1px); }
+  80% { transform: translate(4px, 1px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .flame-glow, .flame { animation: none; }
+}
+
 @media (max-width: 760px) {
   .hero-inner { flex-direction: column-reverse; text-align: center; gap: 30px; }
   .hero-text .lead { margin-left: auto; margin-right: auto; }
