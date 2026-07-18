@@ -1,7 +1,7 @@
 /* ===== Theme tokens ===== */
 :root {
-  --accent: #4C7EF3;
-  --accent-soft: rgba(76, 126, 243, 0.14);
+  --accent: #E5484D;
+  --accent-soft: rgba(229, 72, 77, 0.15);
   --bg: #0d1117;
   --bg-alt: #111725;
   --surface: #161b26;
@@ -16,8 +16,8 @@
 }
 
 :root[data-theme="light"] {
-  --accent: #2f6fe4;
-  --accent-soft: rgba(47, 111, 228, 0.10);
+  --accent: #CC2E33;
+  --accent-soft: rgba(204, 46, 51, 0.10);
   --bg: #ffffff;
   --bg-alt: #f5f7fb;
   --surface: #ffffff;
