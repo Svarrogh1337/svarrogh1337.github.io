@@ -190,6 +190,10 @@ document.getElementById("year").textContent = new Date().getFullYear();
 
   // Reduced-motion: a gentle static warm wash - no particles or shake.
   function igniteReduced() {
+    const backdrop = document.createElement("div");
+    backdrop.id = "fire-backdrop";
+    document.body.appendChild(backdrop);
+    requestAnimationFrame(() => backdrop.classList.add("active"));
     if (!layer) { layer = document.createElement("div"); layer.id = "flame-layer"; document.body.appendChild(layer); }
     layer.innerHTML = '<div class="flame-glow"></div>';
     layer.classList.add("active");
@@ -197,6 +201,8 @@ document.getElementById("year").textContent = new Date().getFullYear();
       if (performance.now() > igniteUntil) {
         clearInterval(check);
         layer.classList.remove("active");
+        backdrop.classList.remove("active");
+        setTimeout(() => backdrop.remove(), 500);
         igniting = false;
       }
     }, 200);
@@ -205,6 +211,11 @@ document.getElementById("year").textContent = new Date().getFullYear();
   // Canvas particle fire with additive ("lighter") blending: a white-hot base
   // fading through yellow and orange to red at the tips, plus rising sparks.
   function startFire() {
+    const backdrop = document.createElement("div");
+    backdrop.id = "fire-backdrop";
+    document.body.appendChild(backdrop);
+    requestAnimationFrame(() => backdrop.classList.add("active"));
+
     const canvas = document.createElement("canvas");
     canvas.id = "fire-canvas";
     document.body.appendChild(canvas);
@@ -298,7 +309,8 @@ document.getElementById("year").textContent = new Date().getFullYear();
       } else {
         window.removeEventListener("resize", resize);
         canvas.classList.remove("active");
-        setTimeout(() => canvas.remove(), 450);
+        backdrop.classList.remove("active");
+        setTimeout(() => { canvas.remove(); backdrop.remove(); }, 500);
         igniting = false;
       }
     }

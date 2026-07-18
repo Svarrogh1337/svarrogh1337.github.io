@@ -278,6 +278,14 @@ a:hover { text-decoration: underline; }
   font-size: 17px; line-height: 1; cursor: pointer;
 }
 .avatar-hint-close:hover { color: var(--text); }
+/* Dark stage behind the flames so they stay visible in light theme too */
+#fire-backdrop {
+  position: fixed; inset: 0; z-index: 998; pointer-events: none;
+  opacity: 0; transition: opacity 0.45s ease;
+  background: linear-gradient(to top,
+    rgba(8, 4, 2, 0.85), rgba(8, 4, 2, 0.5) 26%, rgba(8, 4, 2, 0.14) 48%, transparent 64%);
+}
+#fire-backdrop.active { opacity: 1; }
 #fire-canvas {
   position: fixed; inset: 0; z-index: 999; pointer-events: none;
   mix-blend-mode: screen; opacity: 0; transition: opacity 0.4s ease;
