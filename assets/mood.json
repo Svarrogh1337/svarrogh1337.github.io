@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-18T15:19:21.561Z",
+  "updated": "2026-07-18T18:16:30.915Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Ferto",
+      "artist": "Akylas",
+      "url": "https://open.spotify.com/track/1w5c5tE1LEfE7kTSfY6Hbl",
+      "image": "https://i.scdn.co/image/ab67616d000048516c19fb1200763eeb537dd476",
+      "played_at": "2026-07-18T18:15:57.345Z"
+    },
+    {
+      "name": "On My Level (feat. Too $hort)",
+      "artist": "Wiz Khalifa, Too $hort",
+      "url": "https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C",
+      "image": "https://i.scdn.co/image/ab67616d00004851fe3cf32b1320e8ded39d8c74",
+      "played_at": "2026-07-18T18:13:06.221Z"
+    },
     {
       "name": "No Glory",
       "artist": "Skan, Drama B, M.I.M.E, Krale",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U",
       "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
       "played_at": "2026-07-18T14:00:49.338Z"
-    },
-    {
-      "name": "Remenissions",
-      "artist": "Avenged Sevenfold",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
-      "played_at": "2026-07-18T13:58:21.192Z"
-    },
-    {
-      "name": "Pump It",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp",
-      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-18T13:52:14.002Z"
     }
   ]
 }
