@@ -12,6 +12,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # to dispatch the Pages deploy after a commit
 
 concurrency:
   group: spotify-mood
@@ -33,7 +34,9 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: node scripts/update-spotify-mood.mjs
 
-      - name: Commit if changed
+      - name: Commit and deploy if changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -n "$(git status --porcelain assets/mood.json)" ]; then
             git config user.name  "github-actions[bot]"
@@ -41,6 +44,9 @@ jobs:
             git add assets/mood.json
             git commit -m "chore: sync Spotify mood"
             git push
+            # A GITHUB_TOKEN push does not trigger the Pages workflow, so
+            # dispatch it explicitly (workflow_dispatch is exempt from that guard).
+            gh workflow run "Deploy to GitHub Pages" --ref main
           else
             echo "No mood changes."
           fi
