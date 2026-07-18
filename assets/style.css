@@ -217,9 +217,22 @@ a:hover { text-decoration: underline; }
   border-radius: var(--radius); transition: .18s;
 }
 .stat:hover { border-color: var(--accent); transform: translateY(-3px); }
+.stat-icon { font-size: 1.7rem; line-height: 1; margin-bottom: 6px; }
 .stat-num { font-size: 2rem; font-weight: 800; line-height: 1; color: var(--text); font-family: var(--mono); }
 .stat-label { margin-top: 6px; font-size: 0.9rem; font-weight: 600; }
 .stat-quip { color: var(--muted); font-size: 0.8rem; }
+/* Steam-style circular level badge */
+.level-badge {
+  width: 58px; height: 58px; border-radius: 50%; margin-bottom: 4px;
+  display: grid; place-items: center;
+  background:
+    radial-gradient(circle at 50% 35%, rgba(229, 72, 77, 0.28), transparent 70%), var(--surface-2);
+  border: 3px solid var(--accent);
+  box-shadow: 0 0 0 3px var(--surface), 0 0 14px rgba(229, 72, 77, 0.4);
+}
+.level-badge span {
+  font-family: var(--mono); font-weight: 800; font-size: 1.2rem; color: var(--text);
+}
 .mini-h { margin: 30px 0 10px; font-size: 1.05rem; }
 .game-list { list-style: none; margin: 0; padding: 0; }
 .game-list li { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-top: 1px solid var(--border); }
