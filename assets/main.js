@@ -51,6 +51,31 @@ document.getElementById("year").textContent = new Date().getFullYear();
   let layer = null;
   const clicks = [];          // timestamps within the rolling window
 
+  // ----- Hint bubble -----
+  const hint = document.getElementById("avatar-hint");
+  let hintDismissed = false;
+  let hintAutoHide;
+  function showHint() {
+    if (!hint || hintDismissed || igniting) return;
+    hint.classList.add("show");
+    clearTimeout(hintAutoHide);
+    hintAutoHide = setTimeout(() => hint.classList.remove("show"), 11000);
+  }
+  function hideHint(permanent) {
+    if (!hint) return;
+    if (permanent) hintDismissed = true;
+    clearTimeout(hintAutoHide);
+    hint.classList.remove("show");
+  }
+  if (hint) {
+    setTimeout(showHint, 2800);                    // pop up shortly after load
+    avatar.addEventListener("mouseenter", showHint); // and remind on hover
+    hint.querySelector(".avatar-hint-close").addEventListener("click", (ev) => {
+      ev.stopPropagation();
+      hideHint(true);
+    });
+  }
+
   function applyHeat() {
     const h = Math.min(heat, 10) / 10; // normalized 0..1
     if (h <= 0) { avatar.style.filter = ""; avatar.style.transform = ""; return; }
@@ -64,6 +89,7 @@ document.getElementById("year").textContent = new Date().getFullYear();
   setInterval(() => { if (heat > 0) { heat = Math.max(0, heat - 0.6); applyHeat(); } }, 300);
 
   avatar.addEventListener("click", () => {
+    hideHint(true); // they found it - stop nagging
     const now = performance.now();
     clicks.push(now);
     while (clicks.length && now - clicks[0] > 1200) clicks.shift();

@@ -199,7 +199,33 @@ a:hover { text-decoration: underline; }
 .footer-quote { font-family: var(--mono); }
 
 /* ===== Svarog fire easter egg ===== */
+.hero-avatar { position: relative; }
 .hero-avatar img { cursor: pointer; -webkit-user-select: none; user-select: none; -webkit-user-drag: none; }
+
+/* Easter-egg hint speech bubble */
+.avatar-hint {
+  position: absolute; top: 8px; right: calc(100% + 20px); z-index: 6;
+  width: 244px; padding: 14px 30px 14px 16px;
+  background: var(--surface-2); color: var(--text);
+  border: 1px solid var(--border); border-left: 3px solid var(--accent);
+  border-radius: 12px; box-shadow: 0 12px 34px rgba(0, 0, 0, 0.4);
+  font-size: 13.5px; line-height: 1.45; text-align: left;
+  opacity: 0; transform: translateY(6px) scale(0.96); transform-origin: right center;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.32s cubic-bezier(0.2, 0.9, 0.3, 1.35);
+}
+.avatar-hint.show { opacity: 1; transform: translateY(0) scale(1); pointer-events: auto; }
+.avatar-hint strong { display: block; margin-bottom: 4px; color: var(--accent); }
+.avatar-hint::after {
+  content: ""; position: absolute; top: 20px; left: 100%;
+  border: 9px solid transparent; border-left-color: var(--surface-2);
+}
+.avatar-hint-close {
+  position: absolute; top: 5px; right: 8px; padding: 2px;
+  background: none; border: none; color: var(--muted);
+  font-size: 17px; line-height: 1; cursor: pointer;
+}
+.avatar-hint-close:hover { color: var(--text); }
 #fire-canvas {
   position: fixed; inset: 0; z-index: 999; pointer-events: none;
   mix-blend-mode: screen; opacity: 0; transition: opacity 0.4s ease;
@@ -230,6 +256,17 @@ a:hover { text-decoration: underline; }
   .hero-inner { flex-direction: column-reverse; text-align: center; gap: 30px; }
   .hero-text .lead { margin-left: auto; margin-right: auto; }
   .cta-row { justify-content: center; }
+  /* Hint bubble sits below the (now centered, top) avatar with an upward tail */
+  .avatar-hint {
+    top: calc(100% + 16px); right: auto; left: 50%;
+    transform: translate(-50%, 6px) scale(0.96); transform-origin: top center;
+  }
+  .avatar-hint.show { transform: translate(-50%, 0) scale(1); }
+  .avatar-hint::after {
+    top: auto; bottom: 100%; left: 50%;
+    border: 9px solid transparent; border-left-color: transparent; border-bottom-color: var(--surface-2);
+    transform: translateX(-50%);
+  }
 }
 
 @media (max-width: 600px) {
