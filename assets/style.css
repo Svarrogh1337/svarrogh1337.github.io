@@ -190,6 +190,39 @@ a:hover { text-decoration: underline; }
 }
 .ribbon small { display: block; font-size: 8px; font-weight: 600; letter-spacing: 0.02em; opacity: 0.95; }
 
+/* Mood (Spotify) */
+.mood-loading { color: var(--muted); font-family: var(--mono); }
+.mood-now {
+  display: flex; gap: 16px; align-items: center;
+  background: var(--surface); border: 1px solid var(--border);
+  border-left: 3px solid var(--accent); border-radius: var(--radius); padding: 18px;
+}
+.mood-art {
+  width: 76px; height: 76px; flex: 0 0 auto; border-radius: 8px; object-fit: cover;
+  background: var(--surface-2); display: grid; place-items: center; font-size: 28px; color: var(--muted);
+}
+.mood-now-body { min-width: 0; }
+.mood-quip {
+  margin: 0 0 4px; color: var(--accent); font-family: var(--mono);
+  font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;
+}
+.mood-now-body h3 { margin: 0 0 2px; font-size: 1.08rem; }
+.mood-now-body h3 a { color: var(--text); }
+.mood-artist { margin: 0; color: var(--muted); font-size: 0.95rem; }
+.mood-when { color: var(--accent); }
+.mood-list { list-style: none; margin: 18px 0 0; padding: 0; }
+.mood-track { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-top: 1px solid var(--border); }
+.mood-track .num { font-family: var(--mono); color: var(--muted); font-size: 12px; width: 18px; flex: 0 0 auto; }
+.mood-track .t { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.mood-track .t a { color: var(--text); }
+.mood-track .t span { color: var(--muted); }
+.mood-track .ago { margin-left: auto; color: var(--muted); font-size: 12px; font-family: var(--mono); flex: 0 0 auto; }
+.mood-foot { margin: 14px 0 0; color: var(--muted); font-size: 12px; }
+.mood-chip {
+  display: inline-block; margin-left: 8px; padding: 2px 8px; border-radius: 999px;
+  background: var(--accent-soft); color: var(--accent); font-size: 11px; font-weight: 700;
+}
+
 /* Contact */
 .contact-links { display: flex; flex-wrap: wrap; gap: 12px; }
 

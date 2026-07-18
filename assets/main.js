@@ -1,6 +1,79 @@
 // Footer year
 document.getElementById("year").textContent = new Date().getFullYear();
 
+// ===== Current Mood: recent Spotify tracks, rendered with attitude =====
+(function () {
+  const root = document.getElementById("mood-content");
+  if (!root) return;
+
+  const QUIPS = [
+    "Reconciling my feelings to",
+    "A healthy control plane sounds like",
+    "Fueling the commits with",
+    "Svarog headbangs to",
+    "Debugging RBAC to the sound of",
+    "On loop while the pipeline burns",
+    "Multi-tenant chaos, scored by",
+    "Currently possessed by",
+  ];
+
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const searchUrl = (t) => "https://open.spotify.com/search/" + encodeURIComponent(t.artist + " " + t.name);
+  const link = (t) => t.url || searchUrl(t);
+  const hash = (s) => { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0; return Math.abs(h); };
+
+  function ago(iso) {
+    if (!iso) return "on repeat";
+    const s = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+    if (s < 90) return "just now";
+    const m = s / 60; if (m < 60) return Math.round(m) + "m ago";
+    const h = m / 60; if (h < 24) return Math.round(h) + "h ago";
+    return Math.round(h / 24) + "d ago";
+  }
+
+  function render(data) {
+    const tracks = (data && data.tracks) || [];
+    if (!tracks.length) {
+      root.innerHTML = '<p class="mood-loading">The gods are between tracks. Svarog is picking the next banger - check back soon.</p>';
+      return;
+    }
+    const top = tracks[0];
+    const quip = QUIPS[hash(top.name + top.artist) % QUIPS.length];
+    const art = top.image
+      ? `<img class="mood-art" src="${esc(top.image)}" alt="" width="76" height="76" loading="lazy" />`
+      : '<div class="mood-art" aria-hidden="true">🎵</div>';
+
+    const rest = tracks.slice(1, 6).map((t, i) => `
+      <li class="mood-track">
+        <span class="num">${i + 2}</span>
+        <span class="t"><a href="${esc(link(t))}" target="_blank" rel="noopener">${esc(t.name)}</a> <span>&middot; ${esc(t.artist)}</span></span>
+        <span class="ago">${ago(t.played_at)}</span>
+      </li>`).join("");
+
+    const chip = data.sample ? '<span class="mood-chip">sample vibes</span>' : "";
+    const foot = data.sample
+      ? "Demo playlist until Spotify is connected."
+      : (data.updated ? "Synced from Spotify " + ago(data.updated) : "");
+
+    root.innerHTML = `
+      <div class="mood-now">
+        ${art}
+        <div class="mood-now-body">
+          <p class="mood-quip">${esc(quip)}</p>
+          <h3><a href="${esc(link(top))}" target="_blank" rel="noopener">${esc(top.name)}</a></h3>
+          <p class="mood-artist">${esc(top.artist)} &nbsp;·&nbsp; <span class="mood-when">${ago(top.played_at)}</span></p>
+        </div>
+      </div>
+      ${rest ? `<ul class="mood-list">${rest}</ul>` : ""}
+      <p class="mood-foot">${foot}${chip}</p>`;
+  }
+
+  fetch("./assets/mood.json", { cache: "no-store" })
+    .then((r) => (r.ok ? r.json() : null))
+    .then(render)
+    .catch(() => render(null));
+})();
+
 // ===== Expired-certification ribbons =====
 // Any .badge[data-expires] whose date has passed gets a corner ribbon showing
 // the expiry date. Evaluated at page load, so ribbons appear on their own as

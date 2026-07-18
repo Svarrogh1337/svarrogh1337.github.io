@@ -1,0 +1,46 @@
+name: Sync Spotify mood
+
+# Refreshes assets/mood.json with recently played tracks.
+# Needs three repo secrets: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET,
+# SPOTIFY_REFRESH_TOKEN (see scripts/spotify-auth.mjs). Until they are set the
+# script no-ops and the sample data stays in place.
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-mood
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch recent tracks
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node scripts/update-spotify-mood.mjs
+
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain assets/mood.json)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/mood.json
+            git commit -m "chore: sync Spotify mood"
+            git push
+          else
+            echo "No mood changes."
+          fi

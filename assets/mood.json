@@ -1,0 +1,11 @@
+{
+  "updated": null,
+  "sample": true,
+  "tracks": [
+    { "name": "Voluspá", "artist": "Wardruna", "url": null, "image": null, "played_at": null },
+    { "name": "Krigsgaldr", "artist": "Heilung", "url": null, "image": null, "played_at": null },
+    { "name": "Twilight of the Thunder God", "artist": "Amon Amarth", "url": null, "image": null, "played_at": null },
+    { "name": "Flying Whales", "artist": "Gojira", "url": null, "image": null, "played_at": null },
+    { "name": "The Summoning", "artist": "Sleep Token", "url": null, "image": null, "played_at": null }
+  ]
+}
