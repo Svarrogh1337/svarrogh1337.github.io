@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-18T21:15:08.311Z",
+  "updated": "2026-07-19T00:21:02.239Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Zombie Nation",
+      "artist": "BASS DRIFTER",
+      "url": "https://open.spotify.com/track/7AyIjrZUOfWtRLdQs6Uqun",
+      "image": "https://i.scdn.co/image/ab67616d00004851417db38bdbae03c7adf1ea36",
+      "played_at": "2026-07-18T21:17:07.127Z"
+    },
     {
       "name": "Played-A-Live (The Bongo Song) - Radio Edit",
       "artist": "Safri Duo",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb",
       "image": "https://i.scdn.co/image/ab67616d00004851c1d3b2dc6aac8d565acf7526",
       "played_at": "2026-07-18T20:58:44.597Z"
-    },
-    {
-      "name": "Lullaby",
-      "artist": "BENNETT",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU",
-      "image": "https://i.scdn.co/image/ab67616d00004851a6d7a585ed5699edd4d64b52",
-      "played_at": "2026-07-18T20:56:01.426Z"
     }
   ]
 }
