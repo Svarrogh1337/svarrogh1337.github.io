@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-19T12:15:36.441Z",
+  "updated": "2026-07-19T15:19:38.837Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me The Horizon, BABYMETAL",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
+      "played_at": "2026-07-19T12:48:07.489Z"
+    },
+    {
+      "name": "Everytime We Touch - TEKKNO Version",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
+      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
+      "played_at": "2026-07-19T12:44:26.977Z"
+    },
+    {
+      "name": "RATATATA",
+      "artist": "BABYMETAL, Electric Callboy",
+      "url": "https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb",
+      "image": "https://i.scdn.co/image/ab67616d000048514b0ed3119e27ff6e56298053",
+      "played_at": "2026-07-19T12:41:09.255Z"
+    },
+    {
+      "name": "We Got the Moves",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-19T12:37:31.766Z"
+    },
+    {
+      "name": "Close Eyes",
+      "artist": "DVRST",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh",
+      "image": "https://i.scdn.co/image/ab67616d0000485111447aead485afd7c57aa042",
+      "played_at": "2026-07-19T12:33:36.838Z"
+    },
     {
       "name": "Drop It",
       "artist": "Aero Chord",
       "url": "https://open.spotify.com/track/5o4MRKC6Y8idOvgEvpsx5P",
       "image": "https://i.scdn.co/image/ab67616d00004851f8e4faef5337956c2027e4c4",
       "played_at": "2026-07-19T11:48:52.038Z"
-    },
-    {
-      "name": "24-7",
-      "artist": "DJAANY",
-      "url": "https://open.spotify.com/track/6zGg6XwWlLt6KAiq418fgC",
-      "image": "https://i.scdn.co/image/ab67616d00004851123834fd14a3aa46ac11511e",
-      "played_at": "2026-07-19T11:45:43.721Z"
-    },
-    {
-      "name": "Blood",
-      "artist": "LIUFO",
-      "url": "https://open.spotify.com/track/1S1bkqImhTErVkifCITLUg",
-      "image": "https://i.scdn.co/image/ab67616d00004851eac7473c23bce787f0c82b88",
-      "played_at": "2026-07-19T11:42:20.031Z"
-    },
-    {
-      "name": "Dark Horse",
-      "artist": "Katy Perry, Juicy J",
-      "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6",
-      "image": "https://i.scdn.co/image/ab67616d000048511e9a057052d59004caf47e22",
-      "played_at": "2026-07-19T11:39:25.124Z"
-    },
-    {
-      "name": "Piece Of Your Heart",
-      "artist": "MEDUZA, Goodboys",
-      "url": "https://open.spotify.com/track/5RDUCbvwPZdmjFbhZ5EY4N",
-      "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
-      "played_at": "2026-07-19T11:35:48.968Z"
-    },
-    {
-      "name": "My Life",
-      "artist": "Imagine Dragons",
-      "url": "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At",
-      "image": "https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13",
-      "played_at": "2026-07-19T11:30:03.339Z"
     }
   ]
 }
