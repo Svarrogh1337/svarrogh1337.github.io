@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-19T06:48:19.418Z",
+  "updated": "2026-07-19T09:33:08.825Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Remenissions",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
+      "played_at": "2026-07-19T09:31:09.340Z"
+    },
+    {
+      "name": "Adagio for Strings",
+      "artist": "Tiësto",
+      "url": "https://open.spotify.com/track/6TnnyFi6wLxV74NFpgNX0r",
+      "image": "https://i.scdn.co/image/ab67616d000048510bcce148c9c4fd4ad709fdcc",
+      "played_at": "2026-07-18T22:56:21.787Z"
+    },
     {
       "name": "Zombie Nation",
       "artist": "BASS DRIFTER",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/76PbeC1mArAgs8pLCfItlY",
       "image": "https://i.scdn.co/image/ab67616d00004851aa7af3f4dbe621bc26551599",
       "played_at": "2026-07-18T21:07:47.934Z"
-    },
-    {
-      "name": "Young, Dumb & Broken",
-      "artist": "NASH",
-      "url": "https://open.spotify.com/track/56KhcGCMf0HLdZ20y8LH5e",
-      "image": "https://i.scdn.co/image/ab67616d00004851ff6ecdff5517680003f0484d",
-      "played_at": "2026-07-18T21:02:56.762Z"
-    },
-    {
-      "name": "Turn The Lights Off",
-      "artist": "Justė, Jaxstyle, Jon",
-      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb",
-      "image": "https://i.scdn.co/image/ab67616d00004851c1d3b2dc6aac8d565acf7526",
-      "played_at": "2026-07-18T20:58:44.597Z"
     }
   ]
 }
