@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-21T06:48:02.306Z",
+  "updated": "2026-07-21T09:48:15.576Z",
   "sample": false,
   "tracks": [
     {
-      "name": "We Got the Moves",
+      "name": "Just Dance",
+      "artist": "Sable",
+      "url": "https://open.spotify.com/track/4KDyFUGlYCv2hyG5YAAAXd",
+      "image": "https://i.scdn.co/image/ab67616d00004851ace707b997afff13bcda4266",
+      "played_at": "2026-07-21T08:03:08.718Z"
+    },
+    {
+      "name": "Trigger Warning",
+      "artist": "Falling In Reverse",
+      "url": "https://open.spotify.com/track/334409Qvmqf5tBqbA7PtxQ",
+      "image": "https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66",
+      "played_at": "2026-07-21T07:58:17.489Z"
+    },
+    {
+      "name": "Still Waiting",
+      "artist": "Electric Callboy, FRANK ZUMMO",
+      "url": "https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt",
+      "image": "https://i.scdn.co/image/ab67616d00004851fb1880aafc057ff980b5960b",
+      "played_at": "2026-07-21T07:55:55.003Z"
+    },
+    {
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me The Horizon, BABYMETAL",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
+      "played_at": "2026-07-21T07:53:14.194Z"
+    },
+    {
+      "name": "Tekkno Train",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
+      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9",
       "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-21T06:46:26.876Z"
+      "played_at": "2026-07-21T07:49:33.658Z"
     },
     {
-      "name": "Elevator Operator",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF",
-      "image": "https://i.scdn.co/image/ab67616d00004851dc11fa9339cc73bae18ad993",
-      "played_at": "2026-07-21T06:44:02.637Z"
-    },
-    {
-      "name": "new way out",
-      "artist": "Poppy",
-      "url": "https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM",
-      "image": "https://i.scdn.co/image/ab67616d00004851861d5b1470e2d95fe9aeba7c",
-      "played_at": "2026-07-21T06:40:53.409Z"
-    },
-    {
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "artist": "Electric Callboy, The Offspring",
-      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f",
-      "image": "https://i.scdn.co/image/ab67616d0000485129951d42e93f040a05c4c31e",
-      "played_at": "2026-07-21T06:14:33.331Z"
-    },
-    {
-      "name": "Castrop X Spandau",
-      "artist": "Kalle Koschinsky, Electric Callboy",
-      "url": "https://open.spotify.com/track/4cWyJbR7d9AkiHbAFNJVB2",
-      "image": "https://i.scdn.co/image/ab67616d0000485152e7662aacd11c3d7b1c5ef4",
-      "played_at": "2026-07-21T06:14:28.307Z"
-    },
-    {
-      "name": "RATATATA",
-      "artist": "BABYMETAL, Electric Callboy",
-      "url": "https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb",
-      "image": "https://i.scdn.co/image/ab67616d000048514b0ed3119e27ff6e56298053",
-      "played_at": "2026-07-21T06:11:01.975Z"
+      "name": "The Laugh Track",
+      "artist": "Ice Nine Kills",
+      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
+      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
+      "played_at": "2026-07-21T07:46:35.540Z"
     }
   ]
 }
