@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-21T09:48:15.576Z",
+  "updated": "2026-07-21T12:29:52.069Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Just Dance",
-      "artist": "Sable",
-      "url": "https://open.spotify.com/track/4KDyFUGlYCv2hyG5YAAAXd",
-      "image": "https://i.scdn.co/image/ab67616d00004851ace707b997afff13bcda4266",
-      "played_at": "2026-07-21T08:03:08.718Z"
+      "name": "where did you go?",
+      "artist": "We Came As Romans",
+      "url": "https://open.spotify.com/track/6dQSfhcwfcgT07q41uJDBO",
+      "image": "https://i.scdn.co/image/ab67616d000048510496a68266b92e90d8cd623e",
+      "played_at": "2026-07-21T12:28:27.379Z"
     },
     {
-      "name": "Trigger Warning",
-      "artist": "Falling In Reverse",
-      "url": "https://open.spotify.com/track/334409Qvmqf5tBqbA7PtxQ",
-      "image": "https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66",
-      "played_at": "2026-07-21T07:58:17.489Z"
+      "name": "My Own Grave",
+      "artist": "As I Lay Dying",
+      "url": "https://open.spotify.com/track/26ANXDR5NMNiSZG657PPd7",
+      "image": "https://i.scdn.co/image/ab67616d000048514a1752cc82c920dfb2adaa00",
+      "played_at": "2026-07-21T12:24:46.566Z"
     },
     {
-      "name": "Still Waiting",
-      "artist": "Electric Callboy, FRANK ZUMMO",
-      "url": "https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb1880aafc057ff980b5960b",
-      "played_at": "2026-07-21T07:55:55.003Z"
-    },
-    {
-      "name": "Kingslayer (feat. BABYMETAL)",
-      "artist": "Bring Me The Horizon, BABYMETAL",
-      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
-      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
-      "played_at": "2026-07-21T07:53:14.194Z"
-    },
-    {
-      "name": "Tekkno Train",
+      "name": "Pitch Blease",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9",
-      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-21T07:49:33.658Z"
+      "url": "https://open.spotify.com/track/5JtftURCbuYg4GXjrs5M4l",
+      "image": "https://i.scdn.co/image/ab67616d0000485127b70c63f2ac0057f2002685",
+      "played_at": "2026-07-21T12:20:38.299Z"
     },
     {
-      "name": "The Laugh Track",
-      "artist": "Ice Nine Kills",
-      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
-      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
-      "played_at": "2026-07-21T07:46:35.540Z"
+      "name": "Drop Dead Cynical",
+      "artist": "Amaranthe",
+      "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO",
+      "image": "https://i.scdn.co/image/ab67616d000048516080dc28cad2de1dcb629fb2",
+      "played_at": "2026-07-21T12:17:24.838Z"
+    },
+    {
+      "name": "Bad Guy",
+      "artist": "Falling In Reverse, Saraya",
+      "url": "https://open.spotify.com/track/7uAWPqXthO4pO2Exc8V90t",
+      "image": "https://i.scdn.co/image/ab67616d00004851cd850819595472eae0c06f66",
+      "played_at": "2026-07-21T12:14:11.966Z"
+    },
+    {
+      "name": "Arrow of Love",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/6IkcTpdDbL4OVg7skLdUyF",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-21T12:11:39.202Z"
     }
   ]
 }
