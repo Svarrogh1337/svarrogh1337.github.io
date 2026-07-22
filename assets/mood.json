@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-22T15:30:45.873Z",
+  "updated": "2026-07-22T18:23:32.360Z",
   "sample": false,
   "tracks": [
     {
-      "name": "On My Level (feat. Too $hort)",
-      "artist": "Wiz Khalifa, Too $hort",
-      "url": "https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C",
-      "image": "https://i.scdn.co/image/ab67616d00004851fe3cf32b1320e8ded39d8c74",
-      "played_at": "2026-07-22T15:08:49.773Z"
+      "name": "Spaceman (feat. FiNCH)",
+      "artist": "Electric Callboy, FiNCH",
+      "url": "https://open.spotify.com/track/2zNZ81rcbDUvOmKo0borJr",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-22T17:42:43.616Z"
     },
     {
-      "name": "No Glory",
-      "artist": "Skan, Drama B, M.I.M.E, Krale",
-      "url": "https://open.spotify.com/track/3xSyhYmk0s4ySQcluJWxp9",
-      "image": "https://i.scdn.co/image/ab67616d00004851124d7c978fdd3ebd0edf05ef",
-      "played_at": "2026-07-22T15:04:17.089Z"
+      "name": "Astronaut In The Ocean",
+      "artist": "Crystal Rock, Felix Schorn, NOTSOBAD",
+      "url": "https://open.spotify.com/track/2DN53pxcl1OlvGkNsfPM7m",
+      "image": "https://i.scdn.co/image/ab67616d00004851a54d46a0a5cc10cf940aee15",
+      "played_at": "2026-07-22T17:39:33.085Z"
     },
     {
-      "name": "E.T.",
-      "artist": "QUATTROTEQUE, Rayyea",
-      "url": "https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj",
-      "image": "https://i.scdn.co/image/ab67616d00004851581a6e14f32687ffeae2cac8",
-      "played_at": "2026-07-22T14:59:40.562Z"
+      "name": "Spin Me Around",
+      "artist": "Sunlike Brothers, NOISETIME, 2WYLD",
+      "url": "https://open.spotify.com/track/6oOVAU7MujcbqWKiXYRnXM",
+      "image": "https://i.scdn.co/image/ab67616d00004851d5555e73aa5cc7da06c16622",
+      "played_at": "2026-07-22T17:37:18.612Z"
     },
     {
-      "name": "Whatever It Takes",
+      "name": "Fast Lane",
+      "artist": "Bad Meets Evil",
+      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig",
+      "image": "https://i.scdn.co/image/ab67616d0000485159a1132f3cab22f80b2d2777",
+      "played_at": "2026-07-22T17:34:59.998Z"
+    },
+    {
+      "name": "One More Night",
+      "artist": "BROHM, KRSTF",
+      "url": "https://open.spotify.com/track/7eLTKfgiVfQTCWVtnZImau",
+      "image": "https://i.scdn.co/image/ab67616d00004851708f07bbf1ce605dd01ad0e5",
+      "played_at": "2026-07-22T17:30:49.915Z"
+    },
+    {
+      "name": "Believer",
       "artist": "Imagine Dragons",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP",
       "image": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
-      "played_at": "2026-07-22T14:57:42.684Z"
-    },
-    {
-      "name": "Bad Memories",
-      "artist": "MEDUZA, James Carter, Elley Duhé, FAST BOY",
-      "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U",
-      "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
-      "played_at": "2026-07-22T14:54:20.929Z"
-    },
-    {
-      "name": "Remenissions",
-      "artist": "Avenged Sevenfold",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
-      "played_at": "2026-07-22T14:51:52.783Z"
+      "played_at": "2026-07-22T17:27:58.119Z"
     }
   ]
 }
