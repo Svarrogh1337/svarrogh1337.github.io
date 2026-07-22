@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-21T21:25:21.561Z",
+  "updated": "2026-07-22T00:20:26.701Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Turn the Tide",
+      "artist": "Sylver",
+      "url": "https://open.spotify.com/track/5dRLF2IgfKRXI6wvc48465",
+      "image": "https://i.scdn.co/image/ab67616d00004851726197586622f3223a8b951d",
+      "played_at": "2026-07-21T21:42:35.414Z"
+    },
     {
       "name": "Kernkraft 400 - DJ Gius Mix, Radio Edit",
       "artist": "Zombie Nation",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/0eDI4488gNLeA7pssOZHOD",
       "image": "https://i.scdn.co/image/ab67616d00004851faa63ea176654ac7f8e30b4d",
       "played_at": "2026-07-21T19:42:29.152Z"
-    },
-    {
-      "name": "Boten Anna - Radio edit",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke",
-      "image": "https://i.scdn.co/image/ab67616d00004851c0627f093d0fd157f92eb477",
-      "played_at": "2026-07-21T19:39:36.525Z"
     }
   ]
 }
