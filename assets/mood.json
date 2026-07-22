@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-22T12:30:00.249Z",
+  "updated": "2026-07-22T15:30:45.873Z",
   "sample": false,
   "tracks": [
     {
-      "name": "7 Years",
-      "artist": "Lukas Graham",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk",
-      "image": "https://i.scdn.co/image/ab67616d000048512d94d0f04e9a58d1654b760b",
-      "played_at": "2026-07-22T11:26:54.159Z"
+      "name": "On My Level (feat. Too $hort)",
+      "artist": "Wiz Khalifa, Too $hort",
+      "url": "https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C",
+      "image": "https://i.scdn.co/image/ab67616d00004851fe3cf32b1320e8ded39d8c74",
+      "played_at": "2026-07-22T15:08:49.773Z"
     },
     {
-      "name": "Hey Brother",
-      "artist": "Avicii",
-      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk",
-      "image": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7",
-      "played_at": "2026-07-22T11:20:47.702Z"
+      "name": "No Glory",
+      "artist": "Skan, Drama B, M.I.M.E, Krale",
+      "url": "https://open.spotify.com/track/3xSyhYmk0s4ySQcluJWxp9",
+      "image": "https://i.scdn.co/image/ab67616d00004851124d7c978fdd3ebd0edf05ef",
+      "played_at": "2026-07-22T15:04:17.089Z"
     },
     {
-      "name": "Losing My Religion",
-      "artist": "R.E.M.",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx",
-      "image": "https://i.scdn.co/image/ab67616d00004851e2dd4e821bcc3f70dc0c8ffd",
-      "played_at": "2026-07-22T11:16:37.601Z"
+      "name": "E.T.",
+      "artist": "QUATTROTEQUE, Rayyea",
+      "url": "https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj",
+      "image": "https://i.scdn.co/image/ab67616d00004851581a6e14f32687ffeae2cac8",
+      "played_at": "2026-07-22T14:59:40.562Z"
     },
     {
-      "name": "Bad Romance",
-      "artist": "Lady Gaga",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn",
-      "image": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa",
-      "played_at": "2026-07-22T11:12:14.173Z"
+      "name": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb",
+      "image": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+      "played_at": "2026-07-22T14:57:42.684Z"
     },
     {
-      "name": "Pompeii",
-      "artist": "Bastille",
-      "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ",
-      "image": "https://i.scdn.co/image/ab67616d00004851b89cf022db28fa31376e0ed8",
-      "played_at": "2026-07-22T11:07:24.642Z"
+      "name": "Bad Memories",
+      "artist": "MEDUZA, James Carter, Elley Duhé, FAST BOY",
+      "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U",
+      "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
+      "played_at": "2026-07-22T14:54:20.929Z"
     },
     {
-      "name": "Hall of Fame (feat. will.i.am)",
-      "artist": "The Script, will.i.am",
-      "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX",
-      "image": "https://i.scdn.co/image/ab67616d000048512e3049fef96abebf336b7366",
-      "played_at": "2026-07-22T11:03:55.460Z"
+      "name": "Remenissions",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
+      "played_at": "2026-07-22T14:51:52.783Z"
     }
   ]
 }
