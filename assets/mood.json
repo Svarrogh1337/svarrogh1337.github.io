@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-22T21:27:54.992Z",
+  "updated": "2026-07-23T00:22:04.150Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "XTRA",
+      "artist": "Niki Kotich",
+      "url": "https://open.spotify.com/track/3IBFxwWSOqblzIABRBw3eu",
+      "image": "https://i.scdn.co/image/ab67616d00004851756836223bc32cc6b6768ecc",
+      "played_at": "2026-07-22T21:31:39.605Z"
+    },
     {
       "name": "V CIFRI",
       "artist": "Niki Kotich, RaibR, SIIMBAD",
@@ -20,7 +27,7 @@
       "name": "DotA - Radio Edit",
       "artist": "Basshunter",
       "url": "https://open.spotify.com/track/6HjtZWIo0bh0KLD8Tq4ujR",
-      "image": "https://i.scdn.co/image/ab67616d00004851c0627f093d0fd157f92eb477",
+      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
       "played_at": "2026-07-22T20:25:55.416Z"
     },
     {
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv",
       "image": "https://i.scdn.co/image/ab67616d00004851faa63ea176654ac7f8e30b4d",
       "played_at": "2026-07-22T20:19:06.820Z"
-    },
-    {
-      "name": "Turn The Lights Off",
-      "artist": "Justė, Jaxstyle, Jon",
-      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb",
-      "image": "https://i.scdn.co/image/ab67616d00004851c1d3b2dc6aac8d565acf7526",
-      "played_at": "2026-07-22T20:16:02.685Z"
     }
   ]
 }
