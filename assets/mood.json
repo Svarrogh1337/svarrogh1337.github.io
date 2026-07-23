@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-23T12:29:46.370Z",
+  "updated": "2026-07-23T15:37:09.701Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Undead",
+      "artist": "Hollywood Undead",
+      "url": "https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e",
+      "image": "https://i.scdn.co/image/ab67616d00004851e3a40a64f0473c111cf42b06",
+      "played_at": "2026-07-23T15:20:18.763Z"
+    },
+    {
+      "name": "A Work of Art",
+      "artist": "Ice Nine Kills, SHAVO",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
+      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
+      "played_at": "2026-07-23T14:23:04.234Z"
+    },
+    {
+      "name": "Bad Memories",
+      "artist": "MEDUZA, James Carter, Elley Duhé, FAST BOY",
+      "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U",
+      "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
+      "played_at": "2026-07-23T13:54:25.361Z"
+    },
     {
       "name": "Remenissions",
       "artist": "Avenged Sevenfold",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
       "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
       "played_at": "2026-07-23T11:22:04.817Z"
-    },
-    {
-      "name": "Lonely",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/69eAaXzU5gIbCzITirtGgr",
-      "image": "https://i.scdn.co/image/ab67616d0000485183b4c84932d8231c9748f9ba",
-      "played_at": "2026-07-23T11:14:34.651Z"
-    },
-    {
-      "name": "Everytime We Touch - TEKKNO Version",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
-      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
-      "played_at": "2026-07-23T11:06:37.003Z"
-    },
-    {
-      "name": "XTRA",
-      "artist": "Niki Kotich",
-      "url": "https://open.spotify.com/track/3IBFxwWSOqblzIABRBw3eu",
-      "image": "https://i.scdn.co/image/ab67616d00004851756836223bc32cc6b6768ecc",
-      "played_at": "2026-07-22T21:31:39.605Z"
     }
   ]
 }
