@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-24T12:27:10.729Z",
+  "updated": "2026-07-24T15:29:08.102Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Tekkno Train",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9",
-      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-24T11:53:47.367Z"
+      "name": "One More Night",
+      "artist": "BROHM, KRSTF",
+      "url": "https://open.spotify.com/track/7eLTKfgiVfQTCWVtnZImau",
+      "image": "https://i.scdn.co/image/ab67616d00004851708f07bbf1ce605dd01ad0e5",
+      "played_at": "2026-07-24T12:44:58.042Z"
+    },
+    {
+      "name": "Armee der Tristen",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/514GW1c9Jn21KgZmO6mZIE",
+      "image": "https://i.scdn.co/image/ab67616d000048511108fef87966d83948b6a037",
+      "played_at": "2026-07-24T12:40:47.678Z"
+    },
+    {
+      "name": "All Around The World (La La La)",
+      "artist": "R3HAB, A Touch Of Class",
+      "url": "https://open.spotify.com/track/0rbKrUWDIgUCzC3Pyn68Ph",
+      "image": "https://i.scdn.co/image/ab67616d000048515cce19f35d1b23a058de4afa",
+      "played_at": "2026-07-24T12:37:21.646Z"
+    },
+    {
+      "name": "Bones",
+      "artist": "Imagine Dragons",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr",
+      "image": "https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13",
+      "played_at": "2026-07-24T12:33:54.850Z"
     },
     {
       "name": "On My Level (feat. Too $hort)",
       "artist": "Wiz Khalifa, Too $hort",
       "url": "https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C",
       "image": "https://i.scdn.co/image/ab67616d00004851fe3cf32b1320e8ded39d8c74",
-      "played_at": "2026-07-24T11:48:04.151Z"
+      "played_at": "2026-07-24T12:31:08.864Z"
     },
     {
-      "name": "Remenissions",
-      "artist": "Avenged Sevenfold",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
-      "played_at": "2026-07-24T11:31:14.282Z"
-    },
-    {
-      "name": "We Got the Moves",
+      "name": "Tekkno Train",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
+      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9",
       "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-24T11:22:21.912Z"
-    },
-    {
-      "name": "Everytime We Touch - TEKKNO Version",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
-      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
-      "played_at": "2026-07-24T11:17:35.812Z"
-    },
-    {
-      "name": "Unholy",
-      "artist": "Krmoni, Beutos, BassBears",
-      "url": "https://open.spotify.com/track/6dGOBiuCE89NypjojbnRQs",
-      "image": "https://i.scdn.co/image/ab67616d000048518137fe0ec3d1abd4dff85dc9",
-      "played_at": "2026-07-24T11:13:22.380Z"
+      "played_at": "2026-07-24T11:53:47.367Z"
     }
   ]
 }
