@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-24T00:20:30.515Z",
+  "updated": "2026-07-24T04:01:51.724Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Undead",
-      "artist": "Hollywood Undead",
-      "url": "https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e",
-      "image": "https://i.scdn.co/image/ab67616d00004851e3a40a64f0473c111cf42b06",
-      "played_at": "2026-07-23T15:20:18.763Z"
+      "name": "Rip & Tear",
+      "artist": "Mick Gordon",
+      "url": "https://open.spotify.com/track/09VaRXynySDWbahfxioD14",
+      "image": "https://i.scdn.co/image/ab67616d000048519d83f8af506d83594dda66e8",
+      "played_at": "2026-07-24T03:47:43.321Z"
     },
     {
-      "name": "A Work of Art",
-      "artist": "Ice Nine Kills, SHAVO",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
-      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
-      "played_at": "2026-07-23T14:23:04.234Z"
+      "name": "Gethsemane",
+      "artist": "Sleep Token",
+      "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO",
+      "image": "https://i.scdn.co/image/ab67616d00004851882265cd9bdded9ea9a153b9",
+      "played_at": "2026-07-24T03:38:01.972Z"
     },
     {
-      "name": "Bad Memories",
-      "artist": "MEDUZA, James Carter, Elley Duhé, FAST BOY",
-      "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U",
-      "image": "https://i.scdn.co/image/ab67616d000048518d7f3300dd80d2704664ff16",
-      "played_at": "2026-07-23T13:54:25.361Z"
+      "name": "Twisting The Knife (feat. Mckenna Grace)",
+      "artist": "Ice Nine Kills, Mckenna Grace",
+      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C",
+      "image": "https://i.scdn.co/image/ab67616d00004851c6b4924a9b7692afc7aa239e",
+      "played_at": "2026-07-24T03:31:38.105Z"
     },
     {
-      "name": "Remenissions",
-      "artist": "Avenged Sevenfold",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
-      "played_at": "2026-07-23T11:33:39.422Z"
+      "name": "Idol - feat. Tech N9ne",
+      "artist": "Hollywood Undead, Tech N9ne",
+      "url": "https://open.spotify.com/track/6q1F8dDPA8z2iaTE4XW2gG",
+      "image": "https://i.scdn.co/image/ab67616d00004851c5c9f461ad3783aea78c04c4",
+      "played_at": "2026-07-24T03:28:16.272Z"
     },
     {
-      "name": "Unholy",
-      "artist": "Krmoni, Beutos, BassBears",
-      "url": "https://open.spotify.com/track/6dGOBiuCE89NypjojbnRQs",
-      "image": "https://i.scdn.co/image/ab67616d000048518137fe0ec3d1abd4dff85dc9",
-      "played_at": "2026-07-23T11:24:14.296Z"
+      "name": "Blow Me Away - Soundtrack Version",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
+      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
+      "played_at": "2026-07-24T03:23:47.472Z"
     },
     {
-      "name": "Wild Eyes",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
-      "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
-      "played_at": "2026-07-23T11:22:04.817Z"
+      "name": "Bring It",
+      "artist": "Trapt",
+      "url": "https://open.spotify.com/track/3fFaRemXBPX8Fg758ugCxd",
+      "image": "https://i.scdn.co/image/ab67616d0000485157d318ba56db19d37194ad85",
+      "played_at": "2026-07-24T02:55:51.696Z"
     }
   ]
 }
