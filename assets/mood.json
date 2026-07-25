@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-24T21:22:02.317Z",
+  "updated": "2026-07-25T00:23:05.041Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "On Broken Glass",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-07-24T21:52:43.542Z"
+    },
     {
       "name": "Danza Kuduro - Version MTO",
       "artist": "Lucenzo, Don Omar",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr",
       "image": "https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13",
       "played_at": "2026-07-24T12:33:54.850Z"
-    },
-    {
-      "name": "On My Level (feat. Too $hort)",
-      "artist": "Wiz Khalifa, Too $hort",
-      "url": "https://open.spotify.com/track/0osPX8TruIebOhKuG6GK8C",
-      "image": "https://i.scdn.co/image/ab67616d00004851fe3cf32b1320e8ded39d8c74",
-      "played_at": "2026-07-24T12:31:08.864Z"
     }
   ]
 }
