@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-25T06:43:37.065Z",
+  "updated": "2026-07-25T09:31:18.563Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Higher Place",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4nrUSPO6EjuUdV8GyVSVlO",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-07-25T08:57:23.021Z"
+    },
+    {
+      "name": "Silhouette",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
+      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
+      "played_at": "2026-07-25T08:50:15.084Z"
+    },
+    {
+      "name": "Karma",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/5mIoz71HRFnFX0SMGQ0mWH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-07-25T08:45:45.266Z"
+    },
+    {
+      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
+      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
+      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
+      "played_at": "2026-07-25T08:42:42.646Z"
+    },
+    {
+      "name": "Life Sentence",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-07-25T08:38:41.477Z"
+    },
     {
       "name": "On Broken Glass",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-07-24T21:52:43.542Z"
-    },
-    {
-      "name": "Danza Kuduro - Version MTO",
-      "artist": "Lucenzo, Don Omar",
-      "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP",
-      "image": "https://i.scdn.co/image/ab67616d00004851dd6b19d30e8b2531c625fbc4",
-      "played_at": "2026-07-24T16:01:51.279Z"
-    },
-    {
-      "name": "One More Night",
-      "artist": "BROHM, KRSTF",
-      "url": "https://open.spotify.com/track/7eLTKfgiVfQTCWVtnZImau",
-      "image": "https://i.scdn.co/image/ab67616d00004851708f07bbf1ce605dd01ad0e5",
-      "played_at": "2026-07-24T12:44:58.042Z"
-    },
-    {
-      "name": "Armee der Tristen",
-      "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/514GW1c9Jn21KgZmO6mZIE",
-      "image": "https://i.scdn.co/image/ab67616d000048511108fef87966d83948b6a037",
-      "played_at": "2026-07-24T12:40:47.678Z"
-    },
-    {
-      "name": "All Around The World (La La La)",
-      "artist": "R3HAB, A Touch Of Class",
-      "url": "https://open.spotify.com/track/0rbKrUWDIgUCzC3Pyn68Ph",
-      "image": "https://i.scdn.co/image/ab67616d000048515cce19f35d1b23a058de4afa",
-      "played_at": "2026-07-24T12:37:21.646Z"
-    },
-    {
-      "name": "Bones",
-      "artist": "Imagine Dragons",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr",
-      "image": "https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13",
-      "played_at": "2026-07-24T12:33:54.850Z"
+      "played_at": "2026-07-25T08:35:24.003Z"
     }
   ]
 }
