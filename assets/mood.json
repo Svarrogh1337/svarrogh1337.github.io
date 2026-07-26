@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-26T09:39:12.794Z",
+  "updated": "2026-07-26T12:20:35.694Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Suicide Messiah",
-      "artist": "Black Label Society",
-      "url": "https://open.spotify.com/track/7ex3AmxCTBz3zXLx6hWy5q",
-      "image": "https://i.scdn.co/image/ab67616d000048518c6e598d6428ea502379015a",
-      "played_at": "2026-07-26T07:43:29.629Z"
-    },
-    {
-      "name": "Stillborn",
-      "artist": "Black Label Society",
-      "url": "https://open.spotify.com/track/7s6Rk59SDllxPq5omrxJT4",
-      "image": "https://i.scdn.co/image/ab67616d0000485131dd2b5f0d7802fb0201a8ba",
-      "played_at": "2026-07-26T07:37:41.405Z"
-    },
-    {
-      "name": "Ded to Me",
-      "artist": "Vended",
-      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7",
-      "image": "https://i.scdn.co/image/ab67616d0000485118f02bc01ed8d81305a4400a",
-      "played_at": "2026-07-26T07:33:59.227Z"
-    },
-    {
-      "name": "The Fall",
-      "artist": "Her Last Sight",
-      "url": "https://open.spotify.com/track/3ZaXQi994D1GaMMd7m8xHa",
-      "image": "https://i.scdn.co/image/ab67616d000048513b9f97c8a9b3ce361f5793e7",
-      "played_at": "2026-07-26T07:28:12.322Z"
-    },
-    {
-      "name": "In Waves",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
-      "image": "https://i.scdn.co/image/ab67616d000048511f51def2ba7d8019d747bb32",
-      "played_at": "2026-07-26T07:24:23.183Z"
-    },
-    {
-      "name": "Revery",
+      "name": "We Got the Moves",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1",
-      "image": "https://i.scdn.co/image/ab67616d000048512053f70f1ecf6483e43928fe",
-      "played_at": "2026-07-26T07:19:20.024Z"
+      "url": "https://open.spotify.com/track/4EFb9FhLyFiDbYKwBwDZre",
+      "image": "https://i.scdn.co/image/ab67616d000048515b2b4dbf77863e065fdb99ea",
+      "played_at": "2026-07-26T11:41:11.653Z"
+    },
+    {
+      "name": "Spaceman (feat. FiNCH)",
+      "artist": "Electric Callboy, FiNCH",
+      "url": "https://open.spotify.com/track/2zNZ81rcbDUvOmKo0borJr",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-26T11:37:44.475Z"
+    },
+    {
+      "name": "Everytime We Touch - TEKKNO Version",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
+      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
+      "played_at": "2026-07-26T11:30:19.751Z"
+    },
+    {
+      "name": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
+      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
+      "played_at": "2026-07-26T11:25:25.590Z"
+    },
+    {
+      "name": "Hypa Hypa",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a",
+      "image": "https://i.scdn.co/image/ab67616d0000485192c9092dbe901151cb2784a5",
+      "played_at": "2026-07-26T11:00:17.114Z"
+    },
+    {
+      "name": "Tekkno Train",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/1XK0SrwnujLMZv22WjVQU9",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-26T10:56:43.608Z"
     }
   ]
 }
