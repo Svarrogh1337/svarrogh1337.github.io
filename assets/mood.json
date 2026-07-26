@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-26T06:52:15.135Z",
+  "updated": "2026-07-26T09:39:12.794Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Everytime We Touch - TEKKNO Version",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
-      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
-      "played_at": "2026-07-26T06:49:12.616Z"
+      "name": "Suicide Messiah",
+      "artist": "Black Label Society",
+      "url": "https://open.spotify.com/track/7ex3AmxCTBz3zXLx6hWy5q",
+      "image": "https://i.scdn.co/image/ab67616d000048518c6e598d6428ea502379015a",
+      "played_at": "2026-07-26T07:43:29.629Z"
     },
     {
-      "name": "Unholy",
-      "artist": "Krmoni, Beutos, BassBears",
-      "url": "https://open.spotify.com/track/6dGOBiuCE89NypjojbnRQs",
-      "image": "https://i.scdn.co/image/ab67616d000048518137fe0ec3d1abd4dff85dc9",
-      "played_at": "2026-07-26T06:45:54.838Z"
-    },
-    {
-      "name": "Wild Eyes",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
-      "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
-      "played_at": "2026-07-26T06:43:45.544Z"
-    },
-    {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-07-25T22:03:45.955Z"
-    },
-    {
-      "name": "Going Up",
-      "artist": "Vended",
-      "url": "https://open.spotify.com/track/3JBH3KneKI7cnwhMdBiwPk",
-      "image": "https://i.scdn.co/image/ab67616d00004851b22ad0cdf05efba5e7d954e0",
-      "played_at": "2026-07-25T21:52:53.537Z"
+      "name": "Stillborn",
+      "artist": "Black Label Society",
+      "url": "https://open.spotify.com/track/7s6Rk59SDllxPq5omrxJT4",
+      "image": "https://i.scdn.co/image/ab67616d0000485131dd2b5f0d7802fb0201a8ba",
+      "played_at": "2026-07-26T07:37:41.405Z"
     },
     {
       "name": "Ded to Me",
       "artist": "Vended",
       "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7",
       "image": "https://i.scdn.co/image/ab67616d0000485118f02bc01ed8d81305a4400a",
-      "played_at": "2026-07-25T21:50:29.654Z"
+      "played_at": "2026-07-26T07:33:59.227Z"
+    },
+    {
+      "name": "The Fall",
+      "artist": "Her Last Sight",
+      "url": "https://open.spotify.com/track/3ZaXQi994D1GaMMd7m8xHa",
+      "image": "https://i.scdn.co/image/ab67616d000048513b9f97c8a9b3ce361f5793e7",
+      "played_at": "2026-07-26T07:28:12.322Z"
+    },
+    {
+      "name": "In Waves",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
+      "image": "https://i.scdn.co/image/ab67616d000048511f51def2ba7d8019d747bb32",
+      "played_at": "2026-07-26T07:24:23.183Z"
+    },
+    {
+      "name": "Revery",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1",
+      "image": "https://i.scdn.co/image/ab67616d000048512053f70f1ecf6483e43928fe",
+      "played_at": "2026-07-26T07:19:20.024Z"
     }
   ]
 }
