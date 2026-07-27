@@ -1,13 +1,34 @@
 {
-  "updated": "2026-07-26T21:16:55.894Z",
+  "updated": "2026-07-27T00:23:41.639Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Hypa Hypa",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a",
+      "image": "https://i.scdn.co/image/ab67616d0000485192c9092dbe901151cb2784a5",
+      "played_at": "2026-07-26T22:13:58.533Z"
+    },
+    {
+      "name": "Everytime We Touch - TEKKNO Version",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
+      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
+      "played_at": "2026-07-26T22:10:25.049Z"
+    },
     {
       "name": "TANZNEID",
       "artist": "Electric Callboy",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
       "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-07-26T15:25:39.458Z"
+      "played_at": "2026-07-26T22:07:07.476Z"
+    },
+    {
+      "name": "Elevator Operator",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF",
+      "image": "https://i.scdn.co/image/ab67616d00004851dc11fa9339cc73bae18ad993",
+      "played_at": "2026-07-26T22:04:01.775Z"
     },
     {
       "name": "The Remedy",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
       "played_at": "2026-07-26T13:07:53.350Z"
-    },
-    {
-      "name": "We Got the Moves",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/4EFb9FhLyFiDbYKwBwDZre",
-      "image": "https://i.scdn.co/image/ab67616d000048515b2b4dbf77863e065fdb99ea",
-      "played_at": "2026-07-26T11:41:11.653Z"
-    },
-    {
-      "name": "Spaceman (feat. FiNCH)",
-      "artist": "Electric Callboy, FiNCH",
-      "url": "https://open.spotify.com/track/2zNZ81rcbDUvOmKo0borJr",
-      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-26T11:37:44.475Z"
-    },
-    {
-      "name": "Everytime We Touch - TEKKNO Version",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
-      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
-      "played_at": "2026-07-26T11:30:19.751Z"
     }
   ]
 }
