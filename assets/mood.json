@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-28T15:44:05.886Z",
+  "updated": "2026-07-28T18:26:47.930Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Life is Beautiful",
+      "artist": "Sixx:A.M.",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS",
+      "image": "https://i.scdn.co/image/ab67616d00004851ac6e97c33626ffc56594967e",
+      "played_at": "2026-07-28T17:26:21.128Z"
+    },
+    {
+      "name": "Like Napalm",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
+      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
+      "played_at": "2026-07-28T12:45:52.106Z"
+    },
     {
       "name": "RATATATA",
       "artist": "BABYMETAL, Electric Callboy",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF",
       "image": "https://i.scdn.co/image/ab67616d00004851dc11fa9339cc73bae18ad993",
       "played_at": "2026-07-28T10:44:16.712Z"
-    },
-    {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-07-28T10:22:16.794Z"
-    },
-    {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-07-28T09:41:46.129Z"
     }
   ]
 }
