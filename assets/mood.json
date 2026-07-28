@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-28T09:51:04.195Z",
+  "updated": "2026-07-28T12:33:06.995Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-07-28T09:41:46.129Z"
+      "name": "RATATATA",
+      "artist": "BABYMETAL, Electric Callboy",
+      "url": "https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb",
+      "image": "https://i.scdn.co/image/ab67616d000048514b0ed3119e27ff6e56298053",
+      "played_at": "2026-07-28T10:57:50.740Z"
+    },
+    {
+      "name": "We Got the Moves",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-28T10:54:18.715Z"
+    },
+    {
+      "name": "log_in//crash_out",
+      "artist": "Motionless In White",
+      "url": "https://open.spotify.com/track/0uiZyPaIQSGMrFq9S1MxIm",
+      "image": "https://i.scdn.co/image/ab67616d00004851312e4d88924cbfe1ba3ac24f",
+      "played_at": "2026-07-28T10:50:57.556Z"
+    },
+    {
+      "name": "Elevator Operator",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF",
+      "image": "https://i.scdn.co/image/ab67616d00004851dc11fa9339cc73bae18ad993",
+      "played_at": "2026-07-28T10:44:16.712Z"
     },
     {
       "name": "Left Outside Alone",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
       "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-07-28T09:28:24.833Z"
+      "played_at": "2026-07-28T10:22:16.794Z"
     },
     {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-07-28T09:13:17.114Z"
-    },
-    {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-07-28T09:03:53.507Z"
-    },
-    {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-07-28T08:59:52.499Z"
-    },
-    {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-07-28T08:56:34.826Z"
+      "name": "Under Your Scars",
+      "artist": "Godsmack",
+      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
+      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
+      "played_at": "2026-07-28T09:41:46.129Z"
     }
   ]
 }
