@@ -1,48 +1,41 @@
 {
-  "updated": "2026-07-29T12:37:15.677Z",
+  "updated": "2026-07-29T15:36:46.874Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Jenny",
-      "artist": "NOTHING MORE",
-      "url": "https://open.spotify.com/track/2CASGo9Wmd6Dxrq3ygnRjf",
-      "image": "https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f",
-      "played_at": "2026-07-29T12:24:59.867Z"
+      "name": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
+      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
+      "played_at": "2026-07-29T15:33:22.471Z"
     },
     {
-      "name": "The Unforgiven 2",
-      "artist": "Neo Acoustix",
-      "url": "https://open.spotify.com/track/1L0E6COtw5KFd7PEb0RC3X",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2b9a6d73ad1e3c4378dcb90",
-      "played_at": "2026-07-29T12:21:08.386Z"
+      "name": "Left Outside Alone",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
+      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
+      "played_at": "2026-07-29T15:30:16.851Z"
     },
     {
-      "name": "Catastrophist",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68",
-      "image": "https://i.scdn.co/image/ab67616d000048512380b2db4e8b8510d0074cc4",
-      "played_at": "2026-07-29T12:17:28.599Z"
+      "name": "No Love In LA",
+      "artist": "Palaye Royale",
+      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
+      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
+      "played_at": "2026-07-29T15:22:43.195Z"
     },
     {
-      "name": "A Work of Art",
-      "artist": "Ice Nine Kills, SHAVO",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
-      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
-      "played_at": "2026-07-29T12:11:05.580Z"
+      "name": "Under Your Scars",
+      "artist": "Godsmack",
+      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
+      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
+      "played_at": "2026-07-29T15:19:20.508Z"
     },
     {
-      "name": "Like Napalm",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-07-29T12:07:12.426Z"
-    },
-    {
-      "name": "To Hell and Back",
-      "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
-      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
-      "played_at": "2026-07-29T12:03:32.445Z"
+      "name": "Whiplash",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
+      "played_at": "2026-07-29T14:39:36.305Z"
     }
   ]
 }
