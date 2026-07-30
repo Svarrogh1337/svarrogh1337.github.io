@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-30T03:59:28.639Z",
+  "updated": "2026-07-30T06:49:30.606Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Hypa Hypa",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0E8eU8m4wP3Z4dx3UgXd7r",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7ee54e8a16894a3b2b01c66c2",
+      "played_at": "2026-07-30T06:49:01.195Z"
+    },
+    {
+      "name": "Tekkno Train",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/5UGEDhK0ZSCR1fLdjs7cXj",
+      "image": "https://i.scdn.co/image/ab6742d3000052b71c2871f8338a09d94de4e9cb",
+      "played_at": "2026-07-30T06:45:28.336Z"
+    },
+    {
+      "name": "Still Waiting",
+      "artist": "Electric Callboy, FRANK ZUMMO",
+      "url": "https://open.spotify.com/track/28Sk6cf8261SNYuPhZu4xw",
+      "image": "https://i.scdn.co/image/ab6742d3000052b707fbe5c6cfbaec8153fd794f",
+      "played_at": "2026-07-30T06:42:29.489Z"
+    },
+    {
+      "name": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0FaDaHN1rNfmHY3tQZM9FV",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7923d8134c39c5aaafc06f57f",
+      "played_at": "2026-07-30T06:39:41.940Z"
+    },
     {
       "name": "TANZNEID",
       "artist": "Electric Callboy",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
       "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-07-29T20:53:26.367Z"
+      "played_at": "2026-07-30T06:36:35.452Z"
     },
     {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-07-29T20:50:20.461Z"
-    },
-    {
-      "name": "Castles In The Sky - Radio Mix",
-      "artist": "Ian van Dahl, Marsha",
-      "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK",
-      "image": "https://i.scdn.co/image/ab67616d0000485174415980fa5475e219f25b68",
-      "played_at": "2026-07-29T20:43:14.602Z"
-    },
-    {
-      "name": "Is It Beautiful? (A State of Trance 2025 TRANSFORMATION Anthem)",
-      "artist": "Armin van Buuren, Ben Hemsley, Lucy Pullin",
-      "url": "https://open.spotify.com/track/4jLxalM0rn1reqjuxY0Umd",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd1ef9f9f092c7c59290023a",
-      "played_at": "2026-07-29T20:39:26.970Z"
-    },
-    {
-      "name": "My Beat Goes - Extended Mix",
-      "artist": "Ummet Ozcan",
-      "url": "https://open.spotify.com/track/4eQRtvsxvHoJcW3oEBxrcV",
-      "image": "https://i.scdn.co/image/ab67616d0000485109ddfb01aa9389ac893eb175",
-      "played_at": "2026-07-29T20:35:51.375Z"
-    },
-    {
-      "name": "DotA - Radio Edit",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/6HjtZWIo0bh0KLD8Tq4ujR",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-07-29T20:30:31.521Z"
+      "name": "Dragula",
+      "artist": "Rob Zombie",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
+      "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
+      "played_at": "2026-07-30T06:36:20.316Z"
     }
   ]
 }
