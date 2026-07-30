@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-30T09:48:23.135Z",
+  "updated": "2026-07-30T12:31:11.608Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-07-30T09:44:18.210Z"
+      "name": "Hypercharged",
+      "artist": "Electric Callboy, Brawl Stars",
+      "url": "https://open.spotify.com/track/4abYbJ5cjx1j4ZAHRpdoj2",
+      "image": "https://i.scdn.co/image/ab67616d00004851945e5f4cf83033998624a0ef",
+      "played_at": "2026-07-30T10:22:53.480Z"
     },
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-07-30T09:37:20.592Z"
+      "name": "Pump It",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/6emZMVNvIxW57fhxPlyxLp",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-30T10:19:46.628Z"
+    },
+    {
+      "name": "Hypa Hypa",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a",
+      "image": "https://i.scdn.co/image/ab67616d0000485192c9092dbe901151cb2784a5",
+      "played_at": "2026-07-30T10:16:53.845Z"
+    },
+    {
+      "name": "Everytime We Touch - TEKKNO Version",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
+      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
+      "played_at": "2026-07-30T10:13:20.386Z"
     },
     {
       "name": "TANZNEID",
       "artist": "Electric Callboy",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
       "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-07-30T09:33:29.131Z"
+      "played_at": "2026-07-30T10:10:02.651Z"
     },
     {
-      "name": "We Are the Mess",
+      "name": "Elevator Operator",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1GyK2GqlDPfdMToCxhzveB",
-      "image": "https://i.scdn.co/image/ab67616d00004851a3151c41f077351b88c81cd2",
-      "played_at": "2026-07-30T07:19:35.325Z"
-    },
-    {
-      "name": "Muffin Purper-Gurk",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5Iq3OUb0blL0GJmlobLEJT",
-      "image": "https://i.scdn.co/image/ab67616d00004851c371657808fb62051cf5f428",
-      "played_at": "2026-07-30T07:16:28.898Z"
-    },
-    {
-      "name": "Monsieur Moustache",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1iW1u32YAmDqd3br8hzyfy",
-      "image": "https://i.scdn.co/image/ab67616d0000485192c9092dbe901151cb2784a5",
-      "played_at": "2026-07-30T07:13:08.487Z"
+      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF",
+      "image": "https://i.scdn.co/image/ab67616d00004851dc11fa9339cc73bae18ad993",
+      "played_at": "2026-07-30T10:06:56.970Z"
     }
   ]
 }
