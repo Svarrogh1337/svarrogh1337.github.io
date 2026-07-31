@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-31T06:55:32.756Z",
+  "updated": "2026-07-31T09:53:20.808Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Crazy Bitch",
-      "artist": "Buckcherry",
-      "url": "https://open.spotify.com/track/3Lc65aYhtNRO19Fnq2oMb8",
-      "image": "https://i.scdn.co/image/ab67616d000048512935075362bd915384543963",
-      "played_at": "2026-07-30T16:02:37.138Z"
-    },
-    {
-      "name": "Blow Me Away - Soundtrack Version",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
-      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
-      "played_at": "2026-07-30T15:57:30.211Z"
-    },
-    {
-      "name": "Waiting On The Sky To Change",
-      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
-      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
-      "played_at": "2026-07-30T15:54:02.460Z"
-    },
-    {
-      "name": "A Work of Art",
-      "artist": "Ice Nine Kills, SHAVO",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
-      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
-      "played_at": "2026-07-30T15:43:54.583Z"
-    },
-    {
-      "name": "TANZNEID",
+      "name": "Elevator Operator",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-07-30T13:52:28.798Z"
+      "url": "https://open.spotify.com/track/2fRMGEz4x2xLHd9E8b2aNn",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7495c1340661365b243f576a0",
+      "played_at": "2026-07-31T09:53:13.089Z"
     },
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-07-30T13:45:19.951Z"
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "artist": "Electric Callboy, The Offspring",
+      "url": "https://open.spotify.com/track/4YNkB2bsqL2GSMqtVMWpXL",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7c71e4deb797a3b7c4f148822",
+      "played_at": "2026-07-31T09:49:55.088Z"
+    },
+    {
+      "name": "We Got the Moves",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/657jHh1ZSA9oT7RSXMuFx5",
+      "image": "https://i.scdn.co/image/ab6742d3000052b70b9b981f6694fec66897c34c",
+      "played_at": "2026-07-31T09:46:16.477Z"
+    },
+    {
+      "name": "We Got the Moves",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-07-31T09:42:43.834Z"
+    },
+    {
+      "name": "To Hell and Back",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
+      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
+      "played_at": "2026-07-31T09:28:20.909Z"
+    },
+    {
+      "name": "Beggin'",
+      "artist": "Måneskin",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+      "played_at": "2026-07-31T09:24:59.337Z"
     }
   ]
 }
