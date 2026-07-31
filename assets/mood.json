@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-31T09:53:20.808Z",
+  "updated": "2026-07-31T12:35:00.649Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Elevator Operator",
+      "name": "MC Thunder II (Dancing Like a Ninja)",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/2fRMGEz4x2xLHd9E8b2aNn",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7495c1340661365b243f576a0",
-      "played_at": "2026-07-31T09:53:13.089Z"
+      "url": "https://open.spotify.com/track/2nrj0UCsEDAJy679lgkWfR",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7435c5aee6d4336f3f1497635",
+      "played_at": "2026-07-31T11:58:24.177Z"
     },
     {
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "artist": "Electric Callboy, The Offspring",
-      "url": "https://open.spotify.com/track/4YNkB2bsqL2GSMqtVMWpXL",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7c71e4deb797a3b7c4f148822",
-      "played_at": "2026-07-31T09:49:55.088Z"
+      "name": "Unicorns",
+      "artist": "257ers, Electric Callboy",
+      "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu",
+      "image": "https://i.scdn.co/image/ab67616d000048515b97884ea2d2dcd0f26a769e",
+      "played_at": "2026-07-31T11:54:16.565Z"
     },
     {
-      "name": "We Got the Moves",
+      "name": "Spaceman (feat. FiNCH)",
+      "artist": "Electric Callboy, FiNCH",
+      "url": "https://open.spotify.com/track/6DyWM56APzl3qotsS475zu",
+      "image": "https://i.scdn.co/image/ab6742d3000052b74f8428590429a3c4eee1fc02",
+      "played_at": "2026-07-31T11:50:41.682Z"
+    },
+    {
+      "name": "Hate/Love",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/657jHh1ZSA9oT7RSXMuFx5",
-      "image": "https://i.scdn.co/image/ab6742d3000052b70b9b981f6694fec66897c34c",
-      "played_at": "2026-07-31T09:46:16.477Z"
+      "url": "https://open.spotify.com/track/40XmHqM8oGQQeSlmd3fEYJ",
+      "image": "https://i.scdn.co/image/ab6742d3000052b782156969c165f41c653a9095",
+      "played_at": "2026-07-31T11:47:02.778Z"
     },
     {
-      "name": "We Got the Moves",
+      "name": "MC Thunder",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
-      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
-      "played_at": "2026-07-31T09:42:43.834Z"
+      "url": "https://open.spotify.com/track/1SnQnmucTJLT6l6xMs7EYD",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7e01671fe5fb8b7f2822f7cc3",
+      "played_at": "2026-07-31T11:43:53.573Z"
     },
     {
-      "name": "To Hell and Back",
-      "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
-      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
-      "played_at": "2026-07-31T09:28:20.909Z"
-    },
-    {
-      "name": "Beggin'",
-      "artist": "Måneskin",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
-      "played_at": "2026-07-31T09:24:59.337Z"
+      "name": "Revery",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0GK1IB6qmzAmpW50duIfpM",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7d63b3593756429816599cae1",
+      "played_at": "2026-07-31T11:39:24.410Z"
     }
   ]
 }
