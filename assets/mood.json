@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-31T18:28:37.426Z",
+  "updated": "2026-07-31T21:22:38.327Z",
   "sample": false,
   "tracks": [
     {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-07-31T18:28:12.715Z"
+      "name": "Ded to Me",
+      "artist": "Vended",
+      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7",
+      "image": "https://i.scdn.co/image/ab67616d0000485118f02bc01ed8d81305a4400a",
+      "played_at": "2026-07-31T19:13:54.578Z"
     },
     {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-07-31T18:23:36.906Z"
+      "name": "We Got the Moves - Rooler Remix",
+      "artist": "Electric Bassboy, Rooler",
+      "url": "https://open.spotify.com/track/0aEs5Kpau9j4wgr0Uot03D",
+      "image": "https://i.scdn.co/image/ab67616d000048512b87481fc5a0a7ebe89e0a72",
+      "played_at": "2026-07-31T18:59:40.928Z"
+    },
+    {
+      "name": "Elevator Operator - STVW Remix",
+      "artist": "Electric Bassboy, STVW",
+      "url": "https://open.spotify.com/track/2faF108muc7FuJ3nfLehOF",
+      "image": "https://i.scdn.co/image/ab67616d00004851738ef52e95def27e3fe69bbd",
+      "played_at": "2026-07-31T18:56:17.235Z"
+    },
+    {
+      "name": "Pump It - Harris & Ford Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Harris & Ford",
+      "url": "https://open.spotify.com/track/2nOQgWpDJ3AV9CGrQXZTmH",
+      "image": "https://i.scdn.co/image/ab67616d00004851b1001d9c62abad3789a6a500",
+      "played_at": "2026-07-31T18:50:58.538Z"
     },
     {
       "name": "Iris",
       "artist": "DIAMANTE, Breaking Benjamin",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
       "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-07-31T18:18:44.041Z"
+      "played_at": "2026-07-31T18:39:12.659Z"
     },
     {
       "name": "No Love In LA",
       "artist": "Palaye Royale",
       "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
       "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-07-31T17:46:40.898Z"
-    },
-    {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-07-31T17:42:34.841Z"
-    },
-    {
-      "name": "Pump It - Velvet Remix",
-      "artist": "Electric Callboy, Electric Bassboy",
-      "url": "https://open.spotify.com/track/0ADQw85g0lWRnBA7EOr8pZ",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7d79260d98d58b6675c40ae44",
-      "played_at": "2026-07-31T14:43:07.426Z"
+      "played_at": "2026-07-31T18:35:27.251Z"
     }
   ]
 }
