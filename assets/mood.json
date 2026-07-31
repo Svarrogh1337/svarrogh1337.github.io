@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-31T12:35:00.649Z",
+  "updated": "2026-07-31T15:40:43.380Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Elevator Operator - STVW Remix",
+      "artist": "Electric Bassboy, STVW",
+      "url": "https://open.spotify.com/track/2faF108muc7FuJ3nfLehOF",
+      "image": "https://i.scdn.co/image/ab67616d00004851738ef52e95def27e3fe69bbd",
+      "played_at": "2026-07-31T13:07:01.603Z"
+    },
+    {
+      "name": "We Got the Moves - RIOT Remix",
+      "artist": "Electric Bassboy, RIOT",
+      "url": "https://open.spotify.com/track/0gm0QMvhuN1tKaBdPs3E78",
+      "image": "https://i.scdn.co/image/ab67616d00004851d44a0e703a59c818ea72bd9f",
+      "played_at": "2026-07-31T13:03:34.103Z"
+    },
+    {
+      "name": "Pump It - Velvet Remix",
+      "artist": "Electric Callboy, Electric Bassboy",
+      "url": "https://open.spotify.com/track/5IpXLGVFDsQGXNyaJNbwIh",
+      "image": "https://i.scdn.co/image/ab67616d00004851b1001d9c62abad3789a6a500",
+      "played_at": "2026-07-31T13:00:15.131Z"
+    },
+    {
+      "name": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
+      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
+      "played_at": "2026-07-31T12:54:51.692Z"
+    },
+    {
+      "name": "Left Outside Alone",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
+      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
+      "played_at": "2026-07-31T12:51:01.836Z"
+    },
     {
       "name": "MC Thunder II (Dancing Like a Ninja)",
       "artist": "Electric Callboy",
       "url": "https://open.spotify.com/track/2nrj0UCsEDAJy679lgkWfR",
       "image": "https://i.scdn.co/image/ab6742d3000052b7435c5aee6d4336f3f1497635",
       "played_at": "2026-07-31T11:58:24.177Z"
-    },
-    {
-      "name": "Unicorns",
-      "artist": "257ers, Electric Callboy",
-      "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu",
-      "image": "https://i.scdn.co/image/ab67616d000048515b97884ea2d2dcd0f26a769e",
-      "played_at": "2026-07-31T11:54:16.565Z"
-    },
-    {
-      "name": "Spaceman (feat. FiNCH)",
-      "artist": "Electric Callboy, FiNCH",
-      "url": "https://open.spotify.com/track/6DyWM56APzl3qotsS475zu",
-      "image": "https://i.scdn.co/image/ab6742d3000052b74f8428590429a3c4eee1fc02",
-      "played_at": "2026-07-31T11:50:41.682Z"
-    },
-    {
-      "name": "Hate/Love",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/40XmHqM8oGQQeSlmd3fEYJ",
-      "image": "https://i.scdn.co/image/ab6742d3000052b782156969c165f41c653a9095",
-      "played_at": "2026-07-31T11:47:02.778Z"
-    },
-    {
-      "name": "MC Thunder",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1SnQnmucTJLT6l6xMs7EYD",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7e01671fe5fb8b7f2822f7cc3",
-      "played_at": "2026-07-31T11:43:53.573Z"
-    },
-    {
-      "name": "Revery",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/0GK1IB6qmzAmpW50duIfpM",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7d63b3593756429816599cae1",
-      "played_at": "2026-07-31T11:39:24.410Z"
     }
   ]
 }
