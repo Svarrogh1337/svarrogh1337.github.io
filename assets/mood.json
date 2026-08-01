@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-01T04:06:23.368Z",
+  "updated": "2026-08-01T06:47:04.242Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-08-01T06:43:45.369Z"
+    },
+    {
+      "name": "Arma-goddamn-motherf**kin-geddon",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/7jT7U6kED6EvBlSRH3OeyN",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7db23c35831667bd05dc2dcdb",
+      "played_at": "2026-08-01T06:43:45.369Z"
+    },
     {
       "name": "Ded to Me",
       "artist": "Vended",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/2nOQgWpDJ3AV9CGrQXZTmH",
       "image": "https://i.scdn.co/image/ab67616d00004851b1001d9c62abad3789a6a500",
       "played_at": "2026-07-31T18:50:58.538Z"
-    },
-    {
-      "name": "Iris",
-      "artist": "DIAMANTE, Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
-      "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-07-31T18:39:12.659Z"
-    },
-    {
-      "name": "No Love In LA",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-07-31T18:35:27.251Z"
     }
   ]
 }
