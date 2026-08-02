@@ -1,20 +1,41 @@
 {
-  "updated": "2026-08-02T12:19:32.679Z",
+  "updated": "2026-08-02T15:22:10.546Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Dragula",
-      "artist": "Rob Zombie",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
-      "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
-      "played_at": "2026-08-02T06:01:42.599Z"
+      "name": "On Broken Glass",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-02T15:19:53.212Z"
+    },
+    {
+      "name": "Personal Jesus",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/6SyutgkQfLKfcsWvmh02k2",
+      "image": "https://i.scdn.co/image/ab67616d000048513e2c4ed336c6b4ebb1a4bde9",
+      "played_at": "2026-08-02T15:12:54.357Z"
+    },
+    {
+      "name": "Tainted Love",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-08-02T15:02:43.639Z"
     },
     {
       "name": "This Is The New Shit",
       "artist": "Marilyn Manson",
       "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
       "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-08-01T06:43:45.369Z"
+      "played_at": "2026-08-02T14:59:22.509Z"
+    },
+    {
+      "name": "Dragula",
+      "artist": "Rob Zombie",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
+      "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
+      "played_at": "2026-08-02T14:58:20.144Z"
     },
     {
       "name": "Arma-goddamn-motherf**kin-geddon",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/7jT7U6kED6EvBlSRH3OeyN",
       "image": "https://i.scdn.co/image/ab6742d3000052b7db23c35831667bd05dc2dcdb",
       "played_at": "2026-08-01T06:43:45.369Z"
-    },
-    {
-      "name": "Ded to Me",
-      "artist": "Vended",
-      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7",
-      "image": "https://i.scdn.co/image/ab67616d0000485118f02bc01ed8d81305a4400a",
-      "played_at": "2026-07-31T19:13:54.578Z"
-    },
-    {
-      "name": "We Got the Moves - Rooler Remix",
-      "artist": "Electric Bassboy, Rooler",
-      "url": "https://open.spotify.com/track/0aEs5Kpau9j4wgr0Uot03D",
-      "image": "https://i.scdn.co/image/ab67616d000048512b87481fc5a0a7ebe89e0a72",
-      "played_at": "2026-07-31T18:59:40.928Z"
-    },
-    {
-      "name": "Elevator Operator - STVW Remix",
-      "artist": "Electric Bassboy, STVW",
-      "url": "https://open.spotify.com/track/2faF108muc7FuJ3nfLehOF",
-      "image": "https://i.scdn.co/image/ab67616d00004851738ef52e95def27e3fe69bbd",
-      "played_at": "2026-07-31T18:56:17.235Z"
     }
   ]
 }
