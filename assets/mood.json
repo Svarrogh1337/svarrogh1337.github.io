@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-03T12:59:30.621Z",
+  "updated": "2026-08-03T15:52:07.188Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Under Your Scars",
+      "artist": "Godsmack",
+      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
+      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
+      "played_at": "2026-08-03T15:38:01.212Z"
+    },
+    {
+      "name": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
+      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
+      "played_at": "2026-08-03T15:34:09.387Z"
+    },
+    {
+      "name": "Unicorns",
+      "artist": "257ers, Electric Callboy",
+      "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu",
+      "image": "https://i.scdn.co/image/ab67616d000048515b97884ea2d2dcd0f26a769e",
+      "played_at": "2026-08-03T15:31:58.279Z"
+    },
+    {
+      "name": "Left Outside Alone",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
+      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
+      "played_at": "2026-08-03T15:28:31.504Z"
+    },
+    {
+      "name": "Crystals",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/1kYpsMzcvy0MtmG3QcPFs1",
+      "image": "https://i.scdn.co/image/ab67616d0000485127b70c63f2ac0057f2002685",
+      "played_at": "2026-08-03T12:59:45.201Z"
+    },
     {
       "name": "Hate/Love",
       "artist": "Electric Callboy",
       "url": "https://open.spotify.com/track/40XmHqM8oGQQeSlmd3fEYJ",
       "image": "https://i.scdn.co/image/ab6742d3000052b782156969c165f41c653a9095",
       "played_at": "2026-08-03T12:56:06.280Z"
-    },
-    {
-      "name": "MC Thunder",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1SnQnmucTJLT6l6xMs7EYD",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7e01671fe5fb8b7f2822f7cc3",
-      "played_at": "2026-08-03T12:52:58.326Z"
-    },
-    {
-      "name": "Revery",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/0GK1IB6qmzAmpW50duIfpM",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7d63b3593756429816599cae1",
-      "played_at": "2026-08-03T12:48:29.218Z"
-    },
-    {
-      "name": "Still Waiting",
-      "artist": "Electric Callboy, FRANK ZUMMO",
-      "url": "https://open.spotify.com/track/28Sk6cf8261SNYuPhZu4xw",
-      "image": "https://i.scdn.co/image/ab6742d3000052b707fbe5c6cfbaec8153fd794f",
-      "played_at": "2026-08-03T12:44:50.369Z"
-    },
-    {
-      "name": "The Way You Are",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/2qTKS8KjuRkTy627XIePzJ",
-      "image": "https://i.scdn.co/image/ab6742d3000052b715a837c48b9c690fd9f3efe2",
-      "played_at": "2026-08-03T12:42:02.390Z"
-    },
-    {
-      "name": "Tekkno Train",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5UGEDhK0ZSCR1fLdjs7cXj",
-      "image": "https://i.scdn.co/image/ab6742d3000052b71c2871f8338a09d94de4e9cb",
-      "played_at": "2026-08-03T12:39:22.226Z"
     }
   ]
 }
