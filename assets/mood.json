@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-03T18:32:38.422Z",
+  "updated": "2026-08-03T21:22:49.248Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "No Love In LA",
+      "artist": "Palaye Royale",
+      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
+      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
+      "played_at": "2026-08-03T20:09:59.372Z"
+    },
     {
       "name": "Under Your Scars",
       "artist": "Godsmack",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/1kYpsMzcvy0MtmG3QcPFs1",
       "image": "https://i.scdn.co/image/ab67616d0000485127b70c63f2ac0057f2002685",
       "played_at": "2026-08-03T12:59:45.201Z"
-    },
-    {
-      "name": "Hate/Love",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/40XmHqM8oGQQeSlmd3fEYJ",
-      "image": "https://i.scdn.co/image/ab6742d3000052b782156969c165f41c653a9095",
-      "played_at": "2026-08-03T12:56:06.280Z"
     }
   ]
 }
