@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-05T05:36:11.562Z",
+  "updated": "2026-08-05T08:15:19.215Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
+      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
+      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
+      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
+      "played_at": "2026-08-05T06:15:59.553Z"
+    },
+    {
+      "name": "Life Sentence",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-05T06:11:58.512Z"
+    },
+    {
+      "name": "On Broken Glass",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-05T06:08:40.808Z"
+    },
+    {
+      "name": "The Fight Song",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/6pfdW2NouUI3ZnugM7r0G0",
+      "image": "https://i.scdn.co/image/ab67616d0000485197ce10b4cfeb26d2a93cc409",
+      "played_at": "2026-08-05T06:03:28.396Z"
+    },
+    {
+      "name": "Killing Strangers",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/1f9cwoa5wB8m4ynUPHL5rc",
+      "image": "https://i.scdn.co/image/ab67616d00004851f5d701d9f4d2b3d02e4dea9d",
+      "played_at": "2026-08-05T05:59:31.303Z"
+    },
     {
       "name": "Tainted Love",
       "artist": "Marilyn Manson",
       "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
       "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
       "played_at": "2026-08-05T05:32:21.678Z"
-    },
-    {
-      "name": "This Is The New Shit",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-08-05T05:28:58.938Z"
-    },
-    {
-      "name": "Whiplash",
-      "artist": "Architects",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
-      "played_at": "2026-08-04T20:50:14.581Z"
-    },
-    {
-      "name": "Iris",
-      "artist": "DIAMANTE, Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
-      "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-08-04T18:05:33.759Z"
-    },
-    {
-      "name": "No Love In LA",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-08-04T18:01:48.442Z"
-    },
-    {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-08-04T17:58:25.765Z"
     }
   ]
 }
