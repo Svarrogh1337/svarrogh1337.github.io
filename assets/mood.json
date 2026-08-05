@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-05T01:30:11.702Z",
+  "updated": "2026-08-05T05:36:11.562Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Tainted Love",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-08-05T05:32:21.678Z"
+    },
+    {
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-08-05T05:28:58.938Z"
+    },
+    {
+      "name": "Whiplash",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
+      "played_at": "2026-08-04T20:50:14.581Z"
+    },
     {
       "name": "Iris",
       "artist": "DIAMANTE, Breaking Benjamin",
@@ -22,20 +43,6 @@
       "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
       "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
       "played_at": "2026-08-04T17:58:25.765Z"
-    },
-    {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-08-04T17:54:34.198Z"
-    },
-    {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-08-04T17:51:28.579Z"
     }
   ]
 }
