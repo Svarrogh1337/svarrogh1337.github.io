@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-05T08:15:19.215Z",
+  "updated": "2026-08-05T11:11:30.360Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "On Broken Glass",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-05T08:49:14.217Z"
+    },
+    {
+      "name": "Karma",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/5mIoz71HRFnFX0SMGQ0mWH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-05T08:42:59.620Z"
+    },
     {
       "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
       "artist": "Lamb of God, Kublai Khan TX, Malevolence",
@@ -17,13 +31,6 @@
       "played_at": "2026-08-05T06:11:58.512Z"
     },
     {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-05T06:08:40.808Z"
-    },
-    {
       "name": "The Fight Song",
       "artist": "Marilyn Manson",
       "url": "https://open.spotify.com/track/6pfdW2NouUI3ZnugM7r0G0",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/1f9cwoa5wB8m4ynUPHL5rc",
       "image": "https://i.scdn.co/image/ab67616d00004851f5d701d9f4d2b3d02e4dea9d",
       "played_at": "2026-08-05T05:59:31.303Z"
-    },
-    {
-      "name": "Tainted Love",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-08-05T05:32:21.678Z"
     }
   ]
 }
