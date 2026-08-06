@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-06T05:38:46.864Z",
+  "updated": "2026-08-06T08:14:18.072Z",
   "sample": false,
   "tracks": [
     {
-      "name": "The Laugh Track",
-      "artist": "Ice Nine Kills",
-      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
-      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
-      "played_at": "2026-08-05T13:31:35.312Z"
+      "name": "Hypa Hypa",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/0E8eU8m4wP3Z4dx3UgXd7r",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7ee54e8a16894a3b2b01c66c2",
+      "played_at": "2026-08-06T06:27:25.070Z"
     },
     {
-      "name": "Whiplash",
-      "artist": "Architects",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
-      "played_at": "2026-08-05T13:28:24.845Z"
-    },
-    {
-      "name": "Iris",
-      "artist": "DIAMANTE, Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
-      "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-08-05T13:24:43.695Z"
-    },
-    {
-      "name": "No Love In LA",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-08-05T13:21:03.756Z"
-    },
-    {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-08-05T13:17:46.600Z"
+      "name": "Everytime We Touch - TEKKNO Version",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/06MHgSlgpe3aoNKVRGVwLK",
+      "image": "https://i.scdn.co/image/ab6742d3000052b717eb88a5c7884c0871d7c623",
+      "played_at": "2026-08-06T06:23:52.413Z"
     },
     {
       "name": "TANZNEID",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-08-05T12:31:24.679Z"
+      "url": "https://open.spotify.com/track/0FaDaHN1rNfmHY3tQZM9FV",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7923d8134c39c5aaafc06f57f",
+      "played_at": "2026-08-06T06:20:14.576Z"
+    },
+    {
+      "name": "Elevator Operator",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2fRMGEz4x2xLHd9E8b2aNn",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7495c1340661365b243f576a0",
+      "played_at": "2026-08-06T06:16:50.952Z"
+    },
+    {
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "artist": "Electric Callboy, The Offspring",
+      "url": "https://open.spotify.com/track/4YNkB2bsqL2GSMqtVMWpXL",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7c71e4deb797a3b7c4f148822",
+      "played_at": "2026-08-06T06:13:33.320Z"
+    },
+    {
+      "name": "We Got the Moves",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/657jHh1ZSA9oT7RSXMuFx5",
+      "image": "https://i.scdn.co/image/ab6742d3000052b70b9b981f6694fec66897c34c",
+      "played_at": "2026-08-06T06:09:53.961Z"
     }
   ]
 }
