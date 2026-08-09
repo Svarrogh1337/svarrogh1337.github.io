@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-09T18:24:00.082Z",
+  "updated": "2026-08-09T21:21:17.782Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Turn The Lights Off",
-      "artist": "Justė, Jaxstyle, Jon",
-      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb",
-      "image": "https://i.scdn.co/image/ab67616d00004851c1d3b2dc6aac8d565acf7526",
-      "played_at": "2026-08-09T18:22:44.339Z"
+      "name": "When We Were Young (The Logical Song)",
+      "artist": "David Guetta, Kim Petras",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq",
+      "image": "https://i.scdn.co/image/ab67616d00004851debb9f22652c1898801adf01",
+      "played_at": "2026-08-09T20:32:32.882Z"
     },
     {
-      "name": "Posse (I Need You On The Floor)",
+      "name": "Turn the Tide",
+      "artist": "Sylver",
+      "url": "https://open.spotify.com/track/5dRLF2IgfKRXI6wvc48465",
+      "image": "https://i.scdn.co/image/ab67616d00004851726197586622f3223a8b951d",
+      "played_at": "2026-08-09T20:30:04.994Z"
+    },
+    {
+      "name": "НАРОД",
+      "artist": "DJ 89",
+      "url": "https://open.spotify.com/track/31UgQjlLTeLopgCQNnu4et",
+      "image": "https://i.scdn.co/image/ab67616d00004851d6fc6390d027a76157dfea9b",
+      "played_at": "2026-08-09T20:19:10.042Z"
+    },
+    {
+      "name": "Boten Anna - Radio edit",
+      "artist": "Basshunter",
+      "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke",
+      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
+      "played_at": "2026-08-09T20:16:14.652Z"
+    },
+    {
+      "name": "Dernière danse - Techno Mix",
+      "artist": "Indila, BENNETT",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG",
+      "image": "https://i.scdn.co/image/ab67616d00004851d691a8f53f6b487ecbe27cbf",
+      "played_at": "2026-08-09T19:21:16.307Z"
+    },
+    {
+      "name": "The Age Of Love",
       "artist": "Scooter",
-      "url": "https://open.spotify.com/track/4DVtF4xCkNDQtnYtAFWDNS",
-      "image": "https://i.scdn.co/image/ab67616d0000485129c9a0fcc7bd760fc78e9b97",
-      "played_at": "2026-08-09T18:19:48.822Z"
-    },
-    {
-      "name": "Ray Of Solar - Tiësto Remix",
-      "artist": "Swedish House Mafia, Tiësto",
-      "url": "https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW",
-      "image": "https://i.scdn.co/image/ab67616d0000485193e80a0a2aba6e4653608aec",
-      "played_at": "2026-08-09T18:15:51.765Z"
-    },
-    {
-      "name": "Boom, Boom, Boom, Boom!!",
-      "artist": "Vengaboys",
-      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW",
-      "image": "https://i.scdn.co/image/ab67616d0000485150fcab12b2e2e0ee0019ac53",
-      "played_at": "2026-08-09T18:12:06.242Z"
-    },
-    {
-      "name": "My Beat Goes - Extended Mix",
-      "artist": "Ummet Ozcan",
-      "url": "https://open.spotify.com/track/4eQRtvsxvHoJcW3oEBxrcV",
-      "image": "https://i.scdn.co/image/ab67616d0000485109ddfb01aa9389ac893eb175",
-      "played_at": "2026-08-09T18:08:43.134Z"
-    },
-    {
-      "name": "Operation Blade (Bass In The Place) (7\" Radio Mix)",
-      "artist": "Public Domain",
-      "url": "https://open.spotify.com/track/0tIh6OrkYVIH3LrurhXqjB",
-      "image": "https://i.scdn.co/image/ab67616d000048513d3bba70da116d14e36b9947",
-      "played_at": "2026-08-09T18:03:23.230Z"
+      "url": "https://open.spotify.com/track/3XaldidWKmurYGmhk1lwRe",
+      "image": "https://i.scdn.co/image/ab67616d000048514999e3bdfabb08acf1f0c6bf",
+      "played_at": "2026-08-09T19:17:58.689Z"
     }
   ]
 }
