@@ -1,48 +1,41 @@
 {
-  "updated": "2026-08-11T12:39:44.072Z",
+  "updated": "2026-08-11T15:50:08.427Z",
   "sample": false,
   "tracks": [
     {
-      "name": "DOWN (Feat. Malevolence)",
-      "artist": "While She Sleeps, Malevolence",
-      "url": "https://open.spotify.com/track/7pGzo8w97odhO8t5du5HZe",
-      "image": "https://i.scdn.co/image/ab67616d000048514e65d0f25d6ed99fb1714e37",
-      "played_at": "2026-08-11T12:39:20.224Z"
+      "name": "If It's All The Same To You",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-08-11T14:58:19.941Z"
     },
     {
-      "name": "Higher Place",
+      "name": "On Broken Glass",
       "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4nrUSPO6EjuUdV8GyVSVlO",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-11T12:35:30.616Z"
+      "played_at": "2026-08-11T14:37:02.305Z"
     },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
       "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-11T12:30:49.719Z"
+      "played_at": "2026-08-11T14:32:29.423Z"
     },
     {
-      "name": "Karma",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/5mIoz71HRFnFX0SMGQ0mWH",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-11T12:26:25.442Z"
+      "name": "Revery - Sullivan King Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
+      "url": "https://open.spotify.com/track/5fknPsHmF73gnlLHWAvync",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-11T14:32:21.015Z"
     },
     {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-08-11T12:23:28.399Z"
-    },
-    {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-11T12:19:32.847Z"
+      "name": "EXIT WOUNDS",
+      "artist": "Lionheart, Malevolence",
+      "url": "https://open.spotify.com/track/3T0zwdXYA9f0Bhabkw23he",
+      "image": "https://i.scdn.co/image/ab67616d000048513547b9f9973deda656e18350",
+      "played_at": "2026-08-11T12:58:43.971Z"
     }
   ]
 }
