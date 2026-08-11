@@ -1,41 +1,48 @@
 {
-  "updated": "2026-08-11T15:50:08.427Z",
+  "updated": "2026-08-11T18:45:25.934Z",
   "sample": false,
   "tracks": [
     {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-11T14:58:19.941Z"
+      "name": "Still Waiting",
+      "artist": "Electric Callboy, FRANK ZUMMO",
+      "url": "https://open.spotify.com/track/5K9UAFf91W5NK6sNVq7V4u",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-11T17:23:53.544Z"
     },
     {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-11T14:37:02.305Z"
+      "name": "No Love In LA",
+      "artist": "Palaye Royale",
+      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
+      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
+      "played_at": "2026-08-11T17:12:52.635Z"
+    },
+    {
+      "name": "Under Your Scars",
+      "artist": "Godsmack",
+      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
+      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
+      "played_at": "2026-08-11T17:09:29.848Z"
     },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
       "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-11T14:32:29.423Z"
+      "played_at": "2026-08-11T17:03:50.274Z"
     },
     {
-      "name": "Revery - Sullivan King Remix",
-      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
-      "url": "https://open.spotify.com/track/5fknPsHmF73gnlLHWAvync",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-11T14:32:21.015Z"
+      "name": "If It's All The Same To You",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-08-11T16:53:45.176Z"
     },
     {
-      "name": "EXIT WOUNDS",
-      "artist": "Lionheart, Malevolence",
-      "url": "https://open.spotify.com/track/3T0zwdXYA9f0Bhabkw23he",
-      "image": "https://i.scdn.co/image/ab67616d000048513547b9f9973deda656e18350",
-      "played_at": "2026-08-11T12:58:43.971Z"
+      "name": "Life Sentence",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-11T16:47:21.643Z"
     }
   ]
 }
