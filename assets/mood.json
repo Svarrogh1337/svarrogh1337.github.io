@@ -1,48 +1,34 @@
 {
-  "updated": "2026-08-12T07:07:01.421Z",
+  "updated": "2026-08-12T09:52:48.267Z",
   "sample": false,
   "tracks": [
-    {
-      "name": "Silhouette",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
-      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-12T07:05:11.460Z"
-    },
-    {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-12T06:20:49.928Z"
-    },
-    {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-12T06:14:04.878Z"
-    },
     {
       "name": "If It's All The Same To You",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
       "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-12T06:10:47.208Z"
+      "played_at": "2026-08-12T08:11:51.408Z"
     },
     {
       "name": "On Broken Glass",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-12T06:06:31.914Z"
+      "played_at": "2026-08-12T07:41:05.496Z"
     },
     {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-08-12T06:01:57.133Z"
+      "name": "RATATATA",
+      "artist": "BABYMETAL, Electric Callboy",
+      "url": "https://open.spotify.com/track/4aFAacIs5qaxxWY3A7yKFw",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-12T07:18:07.366Z"
+    },
+    {
+      "name": "Silhouette",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
+      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
+      "played_at": "2026-08-12T07:14:00.094Z"
     }
   ]
 }
