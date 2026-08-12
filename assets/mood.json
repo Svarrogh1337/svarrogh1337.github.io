@@ -1,34 +1,48 @@
 {
-  "updated": "2026-08-12T15:49:36.822Z",
+  "updated": "2026-08-12T18:46:40.416Z",
   "sample": false,
   "tracks": [
     {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-12T14:43:35.121Z"
+      "name": "Durch den Monsun",
+      "artist": "VINTA",
+      "url": "https://open.spotify.com/track/4tTi7nU912t0CyEM9CPQi9",
+      "image": "https://i.scdn.co/image/ab67616d00004851e404194ebbe42a07b5529ac5",
+      "played_at": "2026-08-12T18:05:03.265Z"
     },
     {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-12T07:41:05.496Z"
+      "name": "Waiting On The Sky To Change",
+      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
+      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
+      "played_at": "2026-08-12T17:57:18.434Z"
     },
     {
-      "name": "RATATATA",
-      "artist": "BABYMETAL, Electric Callboy",
-      "url": "https://open.spotify.com/track/4aFAacIs5qaxxWY3A7yKFw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-12T07:18:07.366Z"
+      "name": "Life is Beautiful",
+      "artist": "Sixx:A.M.",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS",
+      "image": "https://i.scdn.co/image/ab67616d00004851ac6e97c33626ffc56594967e",
+      "played_at": "2026-08-12T17:50:52.216Z"
     },
     {
-      "name": "Silhouette",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
-      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-12T07:14:00.094Z"
+      "name": "Child in Time - 1995 Remaster",
+      "artist": "Deep Purple",
+      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr",
+      "image": "https://i.scdn.co/image/ab67616d00004851914d1e0ea2784475c457b7dc",
+      "played_at": "2026-08-12T17:46:08.562Z"
+    },
+    {
+      "name": "A Work of Art",
+      "artist": "Ice Nine Kills, SHAVO",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
+      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
+      "played_at": "2026-08-12T17:30:49.869Z"
+    },
+    {
+      "name": "Mockingbird",
+      "artist": "Eminem",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
+      "image": "https://i.scdn.co/image/ab67616d000048511bec21e57fff76db49e15a70",
+      "played_at": "2026-08-12T17:19:09.513Z"
     }
   ]
 }
