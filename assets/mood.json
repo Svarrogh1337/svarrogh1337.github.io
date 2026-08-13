@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-13T07:11:13.367Z",
+  "updated": "2026-08-13T09:53:07.557Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Life Sentence",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-13T09:31:25.150Z"
+    },
+    {
+      "name": "If It's All The Same To You",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-08-13T09:28:12.914Z"
+    },
+    {
+      "name": "Still Waiting",
+      "artist": "Electric Callboy, FRANK ZUMMO",
+      "url": "https://open.spotify.com/track/5K9UAFf91W5NK6sNVq7V4u",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-13T07:14:17.062Z"
+    },
+    {
+      "name": "The Way You Are",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2zVghrvsC9DWkz3wu6TmrJ",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-13T07:11:36.744Z"
+    },
     {
       "name": "Heartclub",
       "artist": "Electric Callboy",
@@ -15,34 +43,6 @@
       "url": "https://open.spotify.com/track/7IMdcXJviU07tjoU7OlObD",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
       "played_at": "2026-08-13T07:06:02.609Z"
-    },
-    {
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "artist": "Electric Callboy, The Offspring",
-      "url": "https://open.spotify.com/track/3Y9brMHuHhXmvXN1xjUle6",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-13T07:02:53.504Z"
-    },
-    {
-      "name": "Hypercharged",
-      "artist": "Electric Callboy, Brawl Stars",
-      "url": "https://open.spotify.com/track/1RKEQFc0HbPLRUxGKiTZ6x",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-13T06:59:22.632Z"
-    },
-    {
-      "name": "RATATATA",
-      "artist": "BABYMETAL, Electric Callboy",
-      "url": "https://open.spotify.com/track/4aFAacIs5qaxxWY3A7yKFw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-13T06:56:16.281Z"
-    },
-    {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-13T06:52:36.339Z"
     }
   ]
 }
