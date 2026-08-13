@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T18:46:49.332Z",
+  "updated": "2026-08-13T21:33:55.506Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Left Outside Alone",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
+      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
+      "played_at": "2026-08-13T20:02:20.448Z"
+    },
     {
       "name": "On Broken Glass",
       "artist": "Malevolence",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
       "played_at": "2026-08-13T10:53:07.449Z"
-    },
-    {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-13T10:49:49.480Z"
     }
   ]
 }
