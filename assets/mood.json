@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T12:44:02.514Z",
+  "updated": "2026-08-13T15:49:01.150Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "DOWN (Feat. Malevolence)",
+      "artist": "While She Sleeps, Malevolence",
+      "url": "https://open.spotify.com/track/7pGzo8w97odhO8t5du5HZe",
+      "image": "https://i.scdn.co/image/ab67616d000048514e65d0f25d6ed99fb1714e37",
+      "played_at": "2026-08-13T12:12:18.393Z"
+    },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/1RKEQFc0HbPLRUxGKiTZ6x",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
       "played_at": "2026-08-13T10:39:18.811Z"
-    },
-    {
-      "name": "RATATATA",
-      "artist": "BABYMETAL, Electric Callboy",
-      "url": "https://open.spotify.com/track/4aFAacIs5qaxxWY3A7yKFw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-13T10:31:05.321Z"
     }
   ]
 }
