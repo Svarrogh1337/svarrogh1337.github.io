@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-13T15:49:01.150Z",
+  "updated": "2026-08-13T18:46:49.332Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "On Broken Glass",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-13T17:20:55.576Z"
+    },
+    {
+      "name": "Keep Your Distance",
+      "artist": "Malevolence, Bryan Garris",
+      "url": "https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY",
+      "image": "https://i.scdn.co/image/ab67616d00004851c1b33eba2ce45b691e1c79fc",
+      "played_at": "2026-08-13T17:08:29.568Z"
+    },
     {
       "name": "DOWN (Feat. Malevolence)",
       "artist": "While She Sleeps, Malevolence",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
       "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
       "played_at": "2026-08-13T10:49:49.480Z"
-    },
-    {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-13T10:45:07.286Z"
-    },
-    {
-      "name": "Hypercharged",
-      "artist": "Electric Callboy, Brawl Stars",
-      "url": "https://open.spotify.com/track/1RKEQFc0HbPLRUxGKiTZ6x",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-13T10:39:18.811Z"
     }
   ]
 }
