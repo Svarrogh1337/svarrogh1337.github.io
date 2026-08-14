@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-14T15:41:00.890Z",
+  "updated": "2026-08-14T18:40:07.167Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "If It's All The Same To You",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-08-14T17:38:44.940Z"
+    },
+    {
+      "name": "Life Sentence",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/1GQn0U0EaolEjKUoPSKXtV",
+      "image": "https://i.scdn.co/image/ab6742d3000052b763d47ffb4ab7666e1d673113",
+      "played_at": "2026-08-14T17:38:44.940Z"
+    },
+    {
+      "name": "Silhouette",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
+      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
+      "played_at": "2026-08-14T16:20:02.250Z"
+    },
     {
       "name": "Karma",
       "artist": "Malevolence",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
       "played_at": "2026-08-14T15:27:02.495Z"
-    },
-    {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-14T15:23:44.896Z"
-    },
-    {
-      "name": "On Broken Glass",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-14T15:19:29.196Z"
-    },
-    {
-      "name": "The Fight Song",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/6pfdW2NouUI3ZnugM7r0G0",
-      "image": "https://i.scdn.co/image/ab67616d0000485197ce10b4cfeb26d2a93cc409",
-      "played_at": "2026-08-14T15:14:49.888Z"
     }
   ]
 }
