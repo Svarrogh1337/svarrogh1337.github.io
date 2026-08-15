@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-15T15:10:21.847Z",
+  "updated": "2026-08-15T18:13:26.471Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artist": "Metallica",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "image": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
+      "played_at": "2026-08-15T15:25:55.050Z"
+    },
     {
       "name": "Tainted Love",
       "artist": "Marilyn Manson",
@@ -22,13 +29,6 @@
       "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
       "image": "https://i.scdn.co/image/ab67616d00004851fe896727e3db1027ed72d885",
       "played_at": "2026-08-15T09:56:25.809Z"
-    },
-    {
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artist": "Metallica",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "image": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
-      "played_at": "2026-08-15T08:53:36.883Z"
     },
     {
       "name": "We Got the Moves - Sullivan King Remix",
