@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-15T18:13:26.471Z",
+  "updated": "2026-08-15T21:11:25.953Z",
   "sample": false,
   "tracks": [
-    {
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artist": "Metallica",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "image": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
-      "played_at": "2026-08-15T15:25:55.050Z"
-    },
-    {
-      "name": "Tainted Love",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-08-15T10:04:25.854Z"
-    },
-    {
-      "name": "This Is The New Shit",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-08-15T10:01:05.025Z"
-    },
-    {
-      "name": "One",
-      "artist": "Metallica",
-      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
-      "image": "https://i.scdn.co/image/ab67616d00004851fe896727e3db1027ed72d885",
-      "played_at": "2026-08-15T09:56:25.809Z"
-    },
-    {
-      "name": "We Got the Moves - Sullivan King Remix",
-      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
-      "url": "https://open.spotify.com/track/0Bpn6E0Vuy3jckWu7UZcWr",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-15T08:40:47.337Z"
-    },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
       "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-15T07:41:00.129Z"
+      "played_at": "2026-08-15T20:37:40.445Z"
+    },
+    {
+      "name": "On Broken Glass",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-15T20:29:30.878Z"
+    },
+    {
+      "name": "Afterlife",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n",
+      "image": "https://i.scdn.co/image/ab67616d0000485133c52ca8309741c6999ca742",
+      "played_at": "2026-08-15T20:25:00.532Z"
+    },
+    {
+      "name": "Enter Sandman - Remastered 2021",
+      "artist": "Metallica",
+      "url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
+      "image": "https://i.scdn.co/image/ab67616d00004851c1a13209dfe146aef3296e34",
+      "played_at": "2026-08-15T20:19:07.613Z"
+    },
+    {
+      "name": "Deutschland",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0",
+      "image": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
+      "played_at": "2026-08-15T20:13:35.253Z"
+    },
+    {
+      "name": "Given Up",
+      "artist": "Linkin Park",
+      "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5",
+      "image": "https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213",
+      "played_at": "2026-08-15T20:08:12.450Z"
     }
   ]
 }
