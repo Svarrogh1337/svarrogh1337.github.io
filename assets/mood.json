@@ -1,48 +1,27 @@
 {
-  "updated": "2026-08-15T06:19:30.664Z",
+  "updated": "2026-08-15T09:15:49.622Z",
   "sample": false,
   "tracks": [
     {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-14T22:26:00.853Z"
+      "name": "For Whom The Bell Tolls - Remastered",
+      "artist": "Metallica",
+      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
+      "image": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
+      "played_at": "2026-08-15T08:53:36.883Z"
     },
     {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/1GQn0U0EaolEjKUoPSKXtV",
-      "image": "https://i.scdn.co/image/ab6742d3000052b763d47ffb4ab7666e1d673113",
-      "played_at": "2026-08-14T17:38:44.940Z"
+      "name": "We Got the Moves - Sullivan King Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
+      "url": "https://open.spotify.com/track/0Bpn6E0Vuy3jckWu7UZcWr",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-15T08:40:47.337Z"
     },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
       "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-14T16:20:02.250Z"
-    },
-    {
-      "name": "Karma",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/5mIoz71HRFnFX0SMGQ0mWH",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-14T15:34:06.119Z"
-    },
-    {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-08-14T15:31:03.619Z"
-    },
-    {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-14T15:27:02.495Z"
+      "played_at": "2026-08-15T07:41:00.129Z"
     }
   ]
 }
