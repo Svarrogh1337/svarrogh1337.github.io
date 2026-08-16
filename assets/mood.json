@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-16T06:21:49.563Z",
+  "updated": "2026-08-16T09:17:21.100Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Higher Place",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4nrUSPO6EjuUdV8GyVSVlO",
+      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
+      "played_at": "2026-08-15T22:28:31.129Z"
+    },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0",
       "image": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
       "played_at": "2026-08-15T20:13:35.253Z"
-    },
-    {
-      "name": "Given Up",
-      "artist": "Linkin Park",
-      "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5",
-      "image": "https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213",
-      "played_at": "2026-08-15T20:08:12.450Z"
     }
   ]
 }
