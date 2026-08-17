@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-17T09:30:04.520Z",
+  "updated": "2026-08-17T12:21:11.472Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "No Love In LA",
+      "artist": "Palaye Royale",
+      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
+      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
+      "played_at": "2026-08-17T11:54:14.748Z"
+    },
+    {
+      "name": "Silhouette",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
+      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
+      "played_at": "2026-08-17T11:45:28.681Z"
+    },
+    {
+      "name": "The Savior",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/7A08XBHpKOn1eW5K61Axut",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-17T10:58:01.059Z"
+    },
+    {
+      "name": "Still Waiting",
+      "artist": "Electric Callboy, FRANK ZUMMO",
+      "url": "https://open.spotify.com/track/5K9UAFf91W5NK6sNVq7V4u",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-17T10:54:48.473Z"
+    },
+    {
+      "name": "The Way You Are",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2zVghrvsC9DWkz3wu6TmrJ",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-17T10:52:07.949Z"
+    },
     {
       "name": "If It's All The Same To You",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
       "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
       "played_at": "2026-08-17T09:24:19.457Z"
-    },
-    {
-      "name": "Heartclub",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-17T09:23:34.542Z"
-    },
-    {
-      "name": "We Got the Moves - Sullivan King Remix",
-      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
-      "url": "https://open.spotify.com/track/0Bpn6E0Vuy3jckWu7UZcWr",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-17T09:15:19.621Z"
-    },
-    {
-      "name": "Hypercharged",
-      "artist": "Electric Callboy, Brawl Stars",
-      "url": "https://open.spotify.com/track/1RKEQFc0HbPLRUxGKiTZ6x",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-17T06:28:54.732Z"
-    },
-    {
-      "name": "RATATATA",
-      "artist": "BABYMETAL, Electric Callboy",
-      "url": "https://open.spotify.com/track/4aFAacIs5qaxxWY3A7yKFw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-17T06:25:48.332Z"
-    },
-    {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-17T06:22:12.023Z"
     }
   ]
 }
