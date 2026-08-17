@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-17T06:32:34.828Z",
+  "updated": "2026-08-17T09:30:04.520Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "If It's All The Same To You",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-08-17T09:24:19.457Z"
+    },
+    {
+      "name": "Heartclub",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-17T09:23:34.542Z"
+    },
+    {
+      "name": "We Got the Moves - Sullivan King Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
+      "url": "https://open.spotify.com/track/0Bpn6E0Vuy3jckWu7UZcWr",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-17T09:15:19.621Z"
+    },
     {
       "name": "Hypercharged",
       "artist": "Electric Callboy, Brawl Stars",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
       "played_at": "2026-08-17T06:22:12.023Z"
-    },
-    {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-17T06:09:11.956Z"
-    },
-    {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-08-17T06:05:54.336Z"
-    },
-    {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-17T06:01:53.362Z"
     }
   ]
 }
