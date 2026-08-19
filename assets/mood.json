@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T21:13:16.290Z",
+  "updated": "2026-08-19T00:37:17.098Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Silence - DJ Tiësto's In Search Of Sunrise Edit",
+      "artist": "Delerium, Tiësto, Sarah McLachlan",
+      "url": "https://open.spotify.com/track/2jAjkmZIKwV5VOBiZ3qUUL",
+      "image": "https://i.scdn.co/image/ab67616d000048518e2d682b09d54a6172a77407",
+      "played_at": "2026-08-18T21:49:29.074Z"
+    },
     {
       "name": "Black Betty",
       "artist": "Braaheim",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf",
       "image": "https://i.scdn.co/image/ab67616d000048511af2eb71f5fbd41d89a038f9",
       "played_at": "2026-08-18T20:30:52.664Z"
-    },
-    {
-      "name": "The Legacy - Alphazone Remix",
-      "artist": "Saltwater, Alphazone",
-      "url": "https://open.spotify.com/track/6ZUbY0f6xNPFBW18Nlg7xB",
-      "image": "https://i.scdn.co/image/ab67616d000048514dbafabce1ae97466691aefb",
-      "played_at": "2026-08-18T20:28:00.671Z"
     }
   ]
 }
