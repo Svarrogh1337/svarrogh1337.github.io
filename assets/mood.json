@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T12:22:33.805Z",
+  "updated": "2026-08-19T15:20:19.247Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Revery",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/41Vdu3AtZbUc5YbX9x1oM8",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-19T12:25:16.858Z"
+    },
     {
       "name": "The Savior",
       "artist": "Electric Callboy",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/7IMdcXJviU07tjoU7OlObD",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
       "played_at": "2026-08-19T12:10:22.426Z"
-    },
-    {
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "artist": "Electric Callboy, The Offspring",
-      "url": "https://open.spotify.com/track/3Y9brMHuHhXmvXN1xjUle6",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-19T12:07:13.409Z"
     }
   ]
 }
