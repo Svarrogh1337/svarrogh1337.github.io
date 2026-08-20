@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T21:15:48.720Z",
+  "updated": "2026-08-20T00:37:02.302Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Child in Time - 1995 Remaster",
+      "artist": "Deep Purple",
+      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr",
+      "image": "https://i.scdn.co/image/ab67616d00004851914d1e0ea2784475c457b7dc",
+      "played_at": "2026-08-19T21:10:19.272Z"
+    },
     {
       "name": "Jenny",
       "artist": "NOTHING MORE",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
       "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
       "played_at": "2026-08-19T19:35:58.735Z"
-    },
-    {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-08-19T19:30:42.882Z"
     }
   ]
 }
