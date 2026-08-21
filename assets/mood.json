@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-21T15:22:57.011Z",
+  "updated": "2026-08-21T18:21:10.013Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Everytime We Touch - TEKKNO Version",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
-      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
-      "played_at": "2026-08-21T13:53:14.703Z"
-    },
-    {
-      "name": "Unicorns",
-      "artist": "257ers, Electric Callboy",
-      "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu",
-      "image": "https://i.scdn.co/image/ab67616d000048515b97884ea2d2dcd0f26a769e",
-      "played_at": "2026-08-21T13:49:56.871Z"
-    },
-    {
-      "name": "Sacred",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
-      "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
-      "played_at": "2026-08-21T13:44:46.067Z"
-    },
-    {
-      "name": "We Got the Moves - Sullivan King Remix",
-      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
-      "url": "https://open.spotify.com/track/0Bpn6E0Vuy3jckWu7UZcWr",
+      "name": "Hypercharged",
+      "artist": "Electric Callboy, Brawl Stars",
+      "url": "https://open.spotify.com/track/1RKEQFc0HbPLRUxGKiTZ6x",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-21T12:44:08.954Z"
+      "played_at": "2026-08-21T17:14:02.423Z"
     },
     {
-      "name": "Revery",
+      "name": "TANZNEID",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/41Vdu3AtZbUc5YbX9x1oM8",
+      "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-21T12:41:05.593Z"
+      "played_at": "2026-08-21T17:06:53.946Z"
+    },
+    {
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-08-21T17:01:06.655Z"
+    },
+    {
+      "name": "Sweet Dreams (Are Made Of This)",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/2302lUwfZ4S4dVyPOCDFnQ",
+      "image": "https://i.scdn.co/image/ab67616d0000485154585a427218bf9bddbd6a3f",
+      "played_at": "2026-08-21T16:56:39.348Z"
+    },
+    {
+      "name": "The Beautiful People",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR",
+      "image": "https://i.scdn.co/image/ab67616d00004851c61d3a663bd18fe8cd97c947",
+      "played_at": "2026-08-21T16:51:34.434Z"
     },
     {
       "name": "Elevator Operator",
       "artist": "Electric Callboy",
       "url": "https://open.spotify.com/track/7IMdcXJviU07tjoU7OlObD",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-21T12:37:17.719Z"
+      "played_at": "2026-08-21T16:51:34.135Z"
     }
   ]
 }
