@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-21T06:27:03.358Z",
+  "updated": "2026-08-21T09:25:28.160Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Blood Brothers",
-      "artist": "Papa Roach",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M",
-      "image": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
-      "played_at": "2026-08-21T06:19:32.512Z"
-    },
-    {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
-      "image": "https://i.scdn.co/image/ab67616d000048511bec21e57fff76db49e15a70",
-      "played_at": "2026-08-21T06:15:58.182Z"
-    },
-    {
-      "name": "The Laugh Track",
+      "name": "Play Dead",
       "artist": "Ice Nine Kills",
-      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
-      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
-      "played_at": "2026-08-21T06:11:46.968Z"
+      "url": "https://open.spotify.com/track/2x8VDgoRlOvLEApaVYtnm9",
+      "image": "https://i.scdn.co/image/ab6742d3000052b74b4ac9588a971e4af95c8e93",
+      "played_at": "2026-08-21T09:03:46.334Z"
     },
     {
-      "name": "TANZNEID",
+      "name": "Glitch",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/0BX0oEnDc2IPTwPvydgKOr",
+      "image": "https://i.scdn.co/image/ab6742d3000052b71b88111c1e59985f1ba82b12",
+      "played_at": "2026-08-21T08:59:36.568Z"
+    },
+    {
+      "name": "Mindreader",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-08-21T06:07:49.146Z"
+      "url": "https://open.spotify.com/track/3hd6I73yBbQAC7oU3ZTpsB",
+      "image": "https://i.scdn.co/image/ab6742d3000052b71ba4618913693895b07ea48c",
+      "played_at": "2026-08-21T08:11:19.824Z"
     },
     {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-08-21T05:58:55.642Z"
+      "name": "Revery - Sullivan King Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Sullivan King",
+      "url": "https://open.spotify.com/track/5fknPsHmF73gnlLHWAvync",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-21T08:07:28.191Z"
     },
     {
-      "name": "My Beat Goes",
-      "artist": "Ummet Ozcan",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK",
-      "image": "https://i.scdn.co/image/ab67616d00004851b507bdd7e32bb56468a457ce",
-      "played_at": "2026-08-20T21:33:16.048Z"
+      "name": "Hypercharged - Paul Elstak Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Paul Elstak",
+      "url": "https://open.spotify.com/track/15iwBAhfHwLarCteRfBpy8",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-21T08:04:23.586Z"
+    },
+    {
+      "name": "TANZNEID - Paolo Ferrara Remix",
+      "artist": "Electric Callboy, Electric Bassboy, Paolo Ferrara",
+      "url": "https://open.spotify.com/track/6lBBMxHmbieN6P98DUUO5r",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-21T08:01:06.330Z"
     }
   ]
 }
