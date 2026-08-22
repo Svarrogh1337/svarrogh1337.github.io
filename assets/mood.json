@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-22T06:20:49.771Z",
+  "updated": "2026-08-22T09:17:05.783Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "artist": "Electric Callboy, The Offspring",
+      "url": "https://open.spotify.com/track/3Y9brMHuHhXmvXN1xjUle6",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-08-22T07:00:02.790Z"
+    },
     {
       "name": "Hypercharged",
       "artist": "Electric Callboy, Brawl Stars",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR",
       "image": "https://i.scdn.co/image/ab67616d00004851c61d3a663bd18fe8cd97c947",
       "played_at": "2026-08-21T16:51:34.434Z"
-    },
-    {
-      "name": "Elevator Operator",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7IMdcXJviU07tjoU7OlObD",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-21T16:51:34.135Z"
     }
   ]
 }
