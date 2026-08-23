@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-23T09:17:45.422Z",
+  "updated": "2026-08-23T12:18:04.095Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-23T09:14:22.986Z"
-    },
-    {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-08-23T09:10:20.576Z"
-    },
-    {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-23T09:06:19.815Z"
-    },
-    {
-      "name": "Boten Anna - Radio edit",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-08-23T08:39:36.591Z"
-    },
-    {
-      "name": "Heartclub",
+      "name": "Everytime We Touch - TEKKNO Version",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-23T08:30:47.668Z"
+      "url": "https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk",
+      "image": "https://i.scdn.co/image/ab67616d00004851daca8e2b1ab1a5d84109a491",
+      "played_at": "2026-08-23T11:21:45.850Z"
     },
     {
-      "name": "Elevator Operator",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7IMdcXJviU07tjoU7OlObD",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-08-23T08:02:51.810Z"
+      "name": "Welcome To Horrorwood",
+      "artist": "Ice Nine Kills",
+      "url": "https://open.spotify.com/track/584YRYWhvXFXCFrktLNCpG",
+      "image": "https://i.scdn.co/image/ab67616d00004851eb2826b3e23703d6e1d1bd0a",
+      "played_at": "2026-08-23T10:25:46.556Z"
+    },
+    {
+      "name": "Spaceman (feat. FiNCH)",
+      "artist": "Electric Callboy, FiNCH",
+      "url": "https://open.spotify.com/track/2zNZ81rcbDUvOmKo0borJr",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-08-23T10:14:41.993Z"
+    },
+    {
+      "name": "The Greatest Fear",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK",
+      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
+      "played_at": "2026-08-23T10:11:31.336Z"
+    },
+    {
+      "name": "tear gas",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW",
+      "image": "https://i.scdn.co/image/ab67616d00004851e390f0d497f2efe9d48b653a",
+      "played_at": "2026-08-23T10:06:01.963Z"
+    },
+    {
+      "name": "Crazy Frog - Axel F",
+      "artist": "The Butcher Sisters",
+      "url": "https://open.spotify.com/track/31O0OYNBVsw58u3AgQqYPO",
+      "image": "https://i.scdn.co/image/ab67616d00004851f51be342327a4fe01d2af0cc",
+      "played_at": "2026-08-23T10:01:43.473Z"
     }
   ]
 }
