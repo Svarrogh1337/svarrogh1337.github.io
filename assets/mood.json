@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-23T15:12:02.035Z",
+  "updated": "2026-08-23T18:14:09.089Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "The Days - NOTION Remix",
+      "artist": "Chrystal, NOTION",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8",
+      "image": "https://i.scdn.co/image/ab67616d000048519041b9965925059507fb44af",
+      "played_at": "2026-08-23T18:12:25.527Z"
+    },
+    {
+      "name": "Boten Anna - Radio edit",
+      "artist": "Basshunter",
+      "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke",
+      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
+      "played_at": "2026-08-23T18:08:31.570Z"
+    },
     {
       "name": "Everytime We Touch - TEKKNO Version",
       "artist": "Electric Callboy",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/2ijbU93XOTRIqoOzPGPNiK",
       "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
       "played_at": "2026-08-23T10:11:31.336Z"
-    },
-    {
-      "name": "tear gas",
-      "artist": "Architects",
-      "url": "https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW",
-      "image": "https://i.scdn.co/image/ab67616d00004851e390f0d497f2efe9d48b653a",
-      "played_at": "2026-08-23T10:06:01.963Z"
-    },
-    {
-      "name": "Crazy Frog - Axel F",
-      "artist": "The Butcher Sisters",
-      "url": "https://open.spotify.com/track/31O0OYNBVsw58u3AgQqYPO",
-      "image": "https://i.scdn.co/image/ab67616d00004851f51be342327a4fe01d2af0cc",
-      "played_at": "2026-08-23T10:01:43.473Z"
     }
   ]
 }
