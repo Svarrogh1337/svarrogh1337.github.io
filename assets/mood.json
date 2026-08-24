@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-24T03:44:05.048Z",
+  "updated": "2026-08-24T06:35:03.320Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Part Goddess Part Gangster",
+      "artist": "Madalen Duke",
+      "url": "https://open.spotify.com/track/5vYjNmtqotKluPXvQGrvYe",
+      "image": "https://i.scdn.co/image/ab67616d000048516242ea074ead3ea436fb36fb",
+      "played_at": "2026-08-24T06:22:42.303Z"
+    },
+    {
+      "name": "Glitter & Gold",
+      "artist": "Henri Werner, EHLE",
+      "url": "https://open.spotify.com/track/2xlkRtT39XugS9k0iuGSYt",
+      "image": "https://i.scdn.co/image/ab67616d00004851b51c64a01a59997cbd7070c4",
+      "played_at": "2026-08-24T06:19:15.515Z"
+    },
+    {
+      "name": "Release",
+      "artist": "Pagan Wiccan Folk",
+      "url": "https://open.spotify.com/track/2Zb4HcH6Ofnunxd1oTYFxn",
+      "image": "https://i.scdn.co/image/ab67616d00004851bbb62cf77b11b196e6a80001",
+      "played_at": "2026-08-24T06:16:34.468Z"
+    },
+    {
+      "name": "Everyone Wants a Piece of the Queen",
+      "artist": "Manifested Dreams",
+      "url": "https://open.spotify.com/track/0DejC053JcT2z2nG59KEjE",
+      "image": "https://i.scdn.co/image/ab67616d00004851b2becea59a1239b36e8d961c",
+      "played_at": "2026-08-24T06:13:59.557Z"
+    },
     {
       "name": "Russia Privjet",
       "artist": "Basshunter",
@@ -15,34 +43,6 @@
       "url": "https://open.spotify.com/track/22VV39gpNin4W1adNjx2kg",
       "image": "https://i.scdn.co/image/ab67616d00004851653f842b52b60da1b350394b",
       "played_at": "2026-08-23T20:53:55.391Z"
-    },
-    {
-      "name": "On The Move",
-      "artist": "Barthezz",
-      "url": "https://open.spotify.com/track/4YVhEkXMT3vMWmXYHpRZ3Q",
-      "image": "https://i.scdn.co/image/ab67616d00004851ba34e4db0949e7ffea5a2e01",
-      "played_at": "2026-08-23T20:52:04.997Z"
-    },
-    {
-      "name": "Vois sur ton chemin - Techno Mix",
-      "artist": "BENNETT",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5",
-      "image": "https://i.scdn.co/image/ab67616d000048511c4b40593176f9b7b7be23b8",
-      "played_at": "2026-08-23T20:48:28.065Z"
-    },
-    {
-      "name": "Weekend!",
-      "artist": "Scooter",
-      "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea1e62b7a1715722aa1e13e8",
-      "played_at": "2026-08-23T20:45:29.457Z"
-    },
-    {
-      "name": "Blah Blah Blah - Bassjackers Remix",
-      "artist": "Armin van Buuren, Bassjackers",
-      "url": "https://open.spotify.com/track/2wxs5sF8JzScf1CV8u9tNU",
-      "image": "https://i.scdn.co/image/ab67616d00004851f8a6530d6bd7babab90e8615",
-      "played_at": "2026-08-23T20:41:56.287Z"
     }
   ]
 }
