@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-25T03:39:25.790Z",
+  "updated": "2026-08-25T06:26:36.891Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Iris",
-      "artist": "DIAMANTE, Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
-      "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-08-24T17:15:49.303Z"
+      "name": "Operation Blade (7\" Radio Edit)",
+      "artist": "Public Domain",
+      "url": "https://open.spotify.com/track/6ADAzUAhMuf8hbBn94NejT",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7e03680f09bc9977dea89ac53",
+      "played_at": "2026-08-25T06:25:29.971Z"
     },
     {
-      "name": "No Love In LA",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-08-24T17:12:03.957Z"
+      "name": "Remenissions",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
+      "played_at": "2026-08-25T06:24:37.657Z"
     },
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-08-24T17:08:41.303Z"
+      "name": "Operation Blade (7\" Radio Edit)",
+      "artist": "Public Domain",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS",
+      "image": "https://i.scdn.co/image/ab67616d00004851cbb25db4dc0a49cb658c667d",
+      "played_at": "2026-08-25T06:16:16.719Z"
     },
     {
-      "name": "TANZNEID",
+      "name": "The Scarlet Dawn",
+      "artist": "Varien",
+      "url": "https://open.spotify.com/track/5Pu3GXMzlNuabTTlC8G6fj",
+      "image": "https://i.scdn.co/image/ab67616d0000485103011aad03737e5511cfe11b",
+      "played_at": "2026-08-25T06:10:56.005Z"
+    },
+    {
+      "name": "Strife",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
+      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
+      "played_at": "2026-08-25T06:07:30.306Z"
+    },
+    {
+      "name": "We Got the Moves",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-08-24T17:04:49.672Z"
-    },
-    {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-08-24T17:01:44.020Z"
-    },
-    {
-      "name": "Operation Blade 2009 (Bass in the Place) [Dean Newton Remix]",
-      "artist": "Public Domain, Dean Newton",
-      "url": "https://open.spotify.com/track/7o8fY0PdQxuVdxTKXU4IVE",
-      "image": "https://i.scdn.co/image/ab67616d00004851fda97b88cd9bb005b2e3188a",
-      "played_at": "2026-08-24T16:53:37.723Z"
+      "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-08-25T06:03:00.468Z"
     }
   ]
 }
