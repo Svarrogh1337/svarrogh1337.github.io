@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-25T21:17:36.228Z",
+  "updated": "2026-08-26T00:39:04.453Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Ecuador - Original Radio Edit",
+      "artist": "Sash!",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV",
+      "image": "https://i.scdn.co/image/ab67616d00004851481ecf6365d84be80cad59d7",
+      "played_at": "2026-08-25T22:02:16.049Z"
+    },
     {
       "name": "Adagio For Strings - Radio Edit",
       "artist": "Tiësto",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS",
       "image": "https://i.scdn.co/image/ab67616d000048517a3d77a6bd0814a5998f7749",
       "played_at": "2026-08-25T14:08:08.242Z"
-    },
-    {
-      "name": "Going Under",
-      "artist": "Evanescence",
-      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i",
-      "image": "https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432",
-      "played_at": "2026-08-25T14:03:08.875Z"
     }
   ]
 }
