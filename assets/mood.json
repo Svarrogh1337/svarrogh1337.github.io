@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-27T00:20:10.421Z",
+  "updated": "2026-08-27T13:18:20.699Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Konye",
+      "name": "Adagio For Strings - Radio Edit",
+      "artist": "Tiësto",
+      "url": "https://open.spotify.com/track/76uTbKqlADkTPQ1bXHMBww",
+      "image": "https://i.scdn.co/image/ab67616d00004851ec780f509496f9a2eed6c7d0",
+      "played_at": "2026-08-27T07:58:44.685Z"
+    },
+    {
+      "name": "How Much Is The Fish?",
+      "artist": "Scooter",
+      "url": "https://open.spotify.com/track/73aOM4jyU3begiIYxYUd89",
+      "image": "https://i.scdn.co/image/ab67616d00004851dad3539832612d6ed91a24f5",
+      "played_at": "2026-08-27T07:55:24.613Z"
+    },
+    {
+      "name": "Sweat",
       "artist": "DJSM",
-      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg",
-      "image": "https://i.scdn.co/image/ab67616d0000485166444beed09a03b28ea27d7c",
-      "played_at": "2026-08-26T20:58:56.117Z"
+      "url": "https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC",
+      "image": "https://i.scdn.co/image/ab67616d000048512d254555cbf2c5e87b39c1a0",
+      "played_at": "2026-08-27T07:51:42.653Z"
     },
     {
-      "name": "My Beat Goes",
-      "artist": "Ummet Ozcan",
-      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK",
-      "image": "https://i.scdn.co/image/ab67616d00004851b507bdd7e32bb56468a457ce",
-      "played_at": "2026-08-26T20:56:10.597Z"
+      "name": "Levels - Skrillex Remix",
+      "artist": "Avicii, Skrillex",
+      "url": "https://open.spotify.com/track/5f6igUw1asUL4AGXSvgTW8",
+      "image": "https://i.scdn.co/image/ab67616d0000485198b2942df06b3ec74223920c",
+      "played_at": "2026-08-27T07:49:29.524Z"
     },
     {
-      "name": "My Beat Goes - Extended Mix",
-      "artist": "Ummet Ozcan",
-      "url": "https://open.spotify.com/track/4eQRtvsxvHoJcW3oEBxrcV",
-      "image": "https://i.scdn.co/image/ab67616d0000485109ddfb01aa9389ac893eb175",
-      "played_at": "2026-08-26T20:52:16.566Z"
+      "name": "Creepin'",
+      "artist": "SP3CTRUM, Beau James",
+      "url": "https://open.spotify.com/track/5r2uftQ7dU1fFOQcSNjWPl",
+      "image": "https://i.scdn.co/image/ab67616d00004851391b47cf1a30371a59ebe8ee",
+      "played_at": "2026-08-27T06:46:30.377Z"
     },
     {
-      "name": "My Immortal",
-      "artist": "Daniela Presta, Winterborn",
-      "url": "https://open.spotify.com/track/5yd0SGfGZ4mknJVUdtzUts",
-      "image": "https://i.scdn.co/image/ab67616d000048510f4f5dd627333869f37e46ba",
-      "played_at": "2026-08-26T20:25:36.112Z"
-    },
-    {
-      "name": "The Scarlet Dawn",
-      "artist": "Varien",
-      "url": "https://open.spotify.com/track/5Pu3GXMzlNuabTTlC8G6fj",
-      "image": "https://i.scdn.co/image/ab67616d0000485103011aad03737e5511cfe11b",
-      "played_at": "2026-08-26T20:20:53.640Z"
-    },
-    {
-      "name": "Blah Blah Blah",
-      "artist": "Armin van Buuren",
-      "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv",
-      "image": "https://i.scdn.co/image/ab67616d00004851faa63ea176654ac7f8e30b4d",
-      "played_at": "2026-08-26T20:17:27.684Z"
+      "name": "This Is How We Rock! - Single Edit",
+      "artist": "Brooklyn Bounce",
+      "url": "https://open.spotify.com/track/0cqTQzsx21ftriowoRTDPJ",
+      "image": "https://i.scdn.co/image/ab67616d000048513d3803929d3547f53c9b36c1",
+      "played_at": "2026-08-27T06:43:49.434Z"
     }
   ]
 }
