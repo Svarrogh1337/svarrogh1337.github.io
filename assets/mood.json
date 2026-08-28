@@ -1,48 +1,48 @@
 {
-  "updated": "2026-08-28T00:08:57.698Z",
+  "updated": "2026-08-28T14:41:36.187Z",
   "sample": false,
   "tracks": [
-    {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-08-27T16:59:59.651Z"
-    },
-    {
-      "name": "Born Slippy (Nuxx) - Radio Edit",
-      "artist": "Underworld",
-      "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa",
-      "image": "https://i.scdn.co/image/ab67616d000048516bd880c441d4811f2f571645",
-      "played_at": "2026-08-27T16:56:14.934Z"
-    },
-    {
-      "name": "So Help Me God",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-27T16:54:34.089Z"
-    },
-    {
-      "name": "Silhouette",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
-      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-08-27T16:49:31.672Z"
-    },
-    {
-      "name": "If It's All The Same To You",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/2cueoLZf8lb1QUmEoyGRkj",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-08-27T16:44:46.036Z"
-    },
     {
       "name": "On Broken Glass",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-08-27T16:40:30.538Z"
+      "played_at": "2026-08-28T13:25:50.678Z"
+    },
+    {
+      "name": "Jenny",
+      "artist": "NOTHING MORE",
+      "url": "https://open.spotify.com/track/2CASGo9Wmd6Dxrq3ygnRjf",
+      "image": "https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f",
+      "played_at": "2026-08-28T10:27:23.363Z"
+    },
+    {
+      "name": "Catastrophist",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68",
+      "image": "https://i.scdn.co/image/ab67616d000048512380b2db4e8b8510d0074cc4",
+      "played_at": "2026-08-28T10:16:29.044Z"
+    },
+    {
+      "name": "A Work of Art",
+      "artist": "Ice Nine Kills, SHAVO",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
+      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
+      "played_at": "2026-08-28T10:09:25.869Z"
+    },
+    {
+      "name": "Like Napalm",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
+      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
+      "played_at": "2026-08-28T10:05:27.216Z"
+    },
+    {
+      "name": "To Hell and Back",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
+      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
+      "played_at": "2026-08-28T10:01:41.762Z"
     }
   ]
 }
