@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-31T18:24:03.427Z",
+  "updated": "2026-09-01T00:11:00.882Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Fuckboi (feat. Conquer Divide)",
+      "artist": "Electric Callboy, Conquer Divide",
+      "url": "https://open.spotify.com/track/1YO1vzBy6y44sosMHviv0S",
+      "image": "https://i.scdn.co/image/ab67616d000048517bd2dd6afff86e07b4fef398",
+      "played_at": "2026-08-31T19:27:17.577Z"
+    },
     {
       "name": "Kingslayer (feat. BABYMETAL)",
       "artist": "Bring Me The Horizon, BABYMETAL",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD",
       "image": "https://i.scdn.co/image/ab67616d00004851824207fb156732596c59ea7e",
       "played_at": "2026-08-31T16:52:05.882Z"
-    },
-    {
-      "name": "This Is The New Shit",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-08-31T16:45:07.360Z"
     }
   ]
 }
