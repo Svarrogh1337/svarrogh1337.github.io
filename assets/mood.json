@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-01T08:05:26.970Z",
+  "updated": "2026-09-01T13:46:55.470Z",
   "sample": false,
   "tracks": [
     {
-      "name": "The Monster",
-      "artist": "Eminem, Rihanna",
-      "url": "https://open.spotify.com/track/0kclmy0UUg7z613yXUwDOf",
-      "image": "https://i.scdn.co/image/ab6742d3000052b76e198f74b977d113a660130a",
-      "played_at": "2026-09-01T07:50:51.543Z"
+      "name": "Ich will",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6PaBUMaOuWYJGR7xqkisxP",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7f04daf5e8b0fe0629161cd36",
+      "played_at": "2026-09-01T13:44:20.990Z"
     },
     {
-      "name": "The Real Slim Shady",
-      "artist": "Eminem",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR",
-      "image": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
-      "played_at": "2026-09-01T07:45:28.707Z"
+      "name": "Dicke Titten",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/5qQI79aITlaNpyeZWbp8Lk",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7793c3efc801fac59f4ec97a0",
+      "played_at": "2026-09-01T13:40:14.810Z"
     },
     {
-      "name": "Smack That",
-      "artist": "Akon, Eminem",
-      "url": "https://open.spotify.com/track/0uW62wwULSVtZreSXZxOWu",
-      "image": "https://i.scdn.co/image/ab6742d3000052b76860f73af0f9bc0ad18dcbb2",
-      "played_at": "2026-09-01T07:40:44.323Z"
+      "name": "Du hast",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6Tjk8h4UFQxUoAh8GK6phb",
+      "image": "https://i.scdn.co/image/ab6742d3000052b717e5c432edbc4b84612e0dfe",
+      "played_at": "2026-09-01T13:34:27.276Z"
     },
     {
-      "name": "Without Me",
-      "artist": "Eminem",
-      "url": "https://open.spotify.com/track/4y63pzHs68vkArqAdTu6CZ",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7a08915ffc8e04fde792cb109",
-      "played_at": "2026-09-01T07:36:31.793Z"
+      "name": "Deutschland",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/40G2DRf83OIUuVYA5h4cRX",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7dd3e32bcc772537ce46124b9",
+      "played_at": "2026-09-01T13:30:20.118Z"
     },
     {
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "url": "https://open.spotify.com/track/3f5ZDmO8MaphDDPWW7ky2U",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7ddadfc3f1ff4857c89109fb7",
-      "played_at": "2026-09-01T07:31:33.037Z"
+      "name": "Sonne",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6Ov6rVRUmyZ3jcACU50WRY",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7f6df7ce6587e3ce5f76f5cbc",
+      "played_at": "2026-09-01T13:20:55.876Z"
     },
     {
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
-      "image": "https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100",
-      "played_at": "2026-09-01T07:27:04.047Z"
+      "name": "Sonne",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
+      "image": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "played_at": "2026-09-01T13:17:21.090Z"
     }
   ]
 }
