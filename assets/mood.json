@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-02T01:54:09.276Z",
+  "updated": "2026-09-02T07:24:59.452Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Puppe",
-      "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F",
-      "image": "https://i.scdn.co/image/ab67616d0000485102add2c77fb6999e311a3248",
-      "played_at": "2026-09-01T17:50:42.757Z"
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "artist": "Electric Callboy, The Offspring",
+      "url": "https://open.spotify.com/track/4YNkB2bsqL2GSMqtVMWpXL",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7c71e4deb797a3b7c4f148822",
+      "played_at": "2026-09-02T07:02:38.751Z"
     },
     {
-      "name": "Whiplash",
-      "artist": "Architects",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
-      "played_at": "2026-09-01T17:50:39.656Z"
+      "name": "Hypercharged",
+      "artist": "Electric Callboy, Brawl Stars",
+      "url": "https://open.spotify.com/track/4h8HMOOU8ruNykMjJdQRWL",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7010e21b29761ec758d020345",
+      "played_at": "2026-09-02T06:59:00.287Z"
     },
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-09-01T17:46:10.069Z"
+      "name": "RATATATA",
+      "artist": "BABYMETAL, Electric Callboy",
+      "url": "https://open.spotify.com/track/77Q04KFGQn2pJtfmqspsiC",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7fa20e0ff252f5f9fe775d294",
+      "played_at": "2026-09-02T06:55:52.824Z"
     },
     {
       "name": "TANZNEID",
       "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-09-01T17:42:18.520Z"
+      "url": "https://open.spotify.com/track/0FaDaHN1rNfmHY3tQZM9FV",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7923d8134c39c5aaafc06f57f",
+      "played_at": "2026-09-02T06:52:17.312Z"
     },
     {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-09-01T17:39:12.884Z"
-    },
-    {
-      "name": "Haifisch",
+      "name": "Deutschland",
       "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/4pjcEJDioS8rUaI9UXmPtw",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7e967ed4f23c02583ba413b2f",
-      "played_at": "2026-09-01T15:44:29.758Z"
+      "url": "https://open.spotify.com/track/40G2DRf83OIUuVYA5h4cRX",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7dd3e32bcc772537ce46124b9",
+      "played_at": "2026-09-02T06:27:42.223Z"
+    },
+    {
+      "name": "Sonne",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6Ov6rVRUmyZ3jcACU50WRY",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7f6df7ce6587e3ce5f76f5cbc",
+      "played_at": "2026-09-02T06:18:17.524Z"
     }
   ]
 }
