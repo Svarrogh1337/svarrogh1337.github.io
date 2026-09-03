@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-03T07:28:21.216Z",
+  "updated": "2026-09-03T13:06:02.575Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Catastrophist",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68",
-      "image": "https://i.scdn.co/image/ab67616d000048512380b2db4e8b8510d0074cc4",
-      "played_at": "2026-09-03T07:25:54.017Z"
+      "name": "TANZNEID",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
+      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
+      "played_at": "2026-09-03T10:06:49.265Z"
     },
     {
-      "name": "A Work of Art",
-      "artist": "Ice Nine Kills, SHAVO",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
-      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
-      "played_at": "2026-09-03T07:19:31.014Z"
-    },
-    {
-      "name": "Like Napalm",
+      "name": "Sacred",
       "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-09-03T07:15:37.823Z"
+      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
+      "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
+      "played_at": "2026-09-03T07:58:08.146Z"
     },
     {
-      "name": "To Hell and Back",
-      "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
-      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
-      "played_at": "2026-09-03T07:11:57.870Z"
+      "name": "Blow Me Away - Soundtrack Version",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
+      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
+      "played_at": "2026-09-03T07:54:23.822Z"
     },
     {
-      "name": "Beggin'",
-      "artist": "Måneskin",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
-      "played_at": "2026-09-03T07:08:36.270Z"
+      "name": "Waiting On The Sky To Change",
+      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
+      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
+      "played_at": "2026-09-03T07:51:02.966Z"
     },
     {
-      "name": "Black Box",
-      "artist": "Bear McCreary, Joe Duplantier, The Mystery Of The Bulgarian Voices",
-      "url": "https://open.spotify.com/track/2RmTYt5AVVu9ZeSCvMtxNZ",
-      "image": "https://i.scdn.co/image/ab67616d00004851a715411e3b881b520488ad3e",
-      "played_at": "2026-09-03T07:05:09.673Z"
+      "name": "Life is Beautiful",
+      "artist": "Sixx:A.M.",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS",
+      "image": "https://i.scdn.co/image/ab67616d00004851ac6e97c33626ffc56594967e",
+      "played_at": "2026-09-03T07:47:03.812Z"
+    },
+    {
+      "name": "Child in Time - 1995 Remaster",
+      "artist": "Deep Purple",
+      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr",
+      "image": "https://i.scdn.co/image/ab67616d00004851914d1e0ea2784475c457b7dc",
+      "played_at": "2026-09-03T07:43:33.783Z"
     }
   ]
 }
