@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-04T01:55:00.163Z",
+  "updated": "2026-09-04T07:30:35.970Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Ich will",
-      "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko",
-      "image": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
-      "played_at": "2026-09-03T17:56:50.930Z"
+      "name": "Trenches",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0S6yMmrKPtGwyddMQr0QDw",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-09-04T07:27:22.102Z"
     },
     {
-      "name": "Dicke Titten",
-      "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY",
-      "image": "https://i.scdn.co/image/ab67616d000048511108fef87966d83948b6a037",
-      "played_at": "2026-09-03T17:53:13.158Z"
+      "name": "Silhouette",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
+      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
+      "played_at": "2026-09-04T07:24:04.831Z"
     },
     {
-      "name": "Sonne",
-      "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/3gVhsZtseYtY1fMuyYq06F",
-      "image": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
-      "played_at": "2026-09-03T17:48:03.333Z"
+      "name": "Rave From Outer Space",
+      "artist": "W&W, Scooter",
+      "url": "https://open.spotify.com/track/6vMyEjiBfrk4qt8kQBwbEj",
+      "image": "https://i.scdn.co/image/ab67616d00004851f138e087644f80bf048426ad",
+      "played_at": "2026-09-04T07:17:51.018Z"
     },
     {
-      "name": "Miracle",
-      "artist": "Cascada",
-      "url": "https://open.spotify.com/track/26lxGeXwldBZCELoTUp0r6",
-      "image": "https://i.scdn.co/image/ab67616d00004851e0c8b75abb6704283aa645aa",
-      "played_at": "2026-09-03T17:40:32.678Z"
+      "name": "Something",
+      "artist": "Lasgo",
+      "url": "https://open.spotify.com/track/4xYQVaR2wQoS6xz0SSa5Ys",
+      "image": "https://i.scdn.co/image/ab67616d00004851567e98e17e302a5206fc9465",
+      "played_at": "2026-09-04T07:15:39.129Z"
     },
     {
-      "name": "Boten Anna - Radio edit",
+      "name": "First of the Year (Equinox)",
+      "artist": "Skrillex",
+      "url": "https://open.spotify.com/track/5i7fZq3chLyCHo3VeB6goD",
+      "image": "https://i.scdn.co/image/ab67616d00004851d3004c7f9c57d391bbdb0850",
+      "played_at": "2026-09-04T07:11:57.674Z"
+    },
+    {
+      "name": "All I Ever Wanted - Radio Edit",
       "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-09-03T17:34:03.711Z"
-    },
-    {
-      "name": "Ray Of Solar - Tiësto Remix",
-      "artist": "Swedish House Mafia, Tiësto",
-      "url": "https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW",
-      "image": "https://i.scdn.co/image/ab67616d0000485193e80a0a2aba6e4653608aec",
-      "played_at": "2026-09-03T17:29:55.035Z"
+      "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8",
+      "image": "https://i.scdn.co/image/ab67616d0000485167ba84c79a28e584194c42d9",
+      "played_at": "2026-09-04T07:07:35.671Z"
     }
   ]
 }
