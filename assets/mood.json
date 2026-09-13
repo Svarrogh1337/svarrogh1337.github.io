@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-13T19:59:01.509Z",
+  "updated": "2026-09-13T22:43:00.082Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Strife",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
+      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
+      "played_at": "2026-09-13T21:41:59.144Z"
+    },
+    {
+      "name": "In Waves",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
+      "image": "https://i.scdn.co/image/ab67616d000048511f51def2ba7d8019d747bb32",
+      "played_at": "2026-09-13T20:11:36.764Z"
+    },
+    {
+      "name": "Until the World Goes Cold",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf",
+      "image": "https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430",
+      "played_at": "2026-09-13T20:06:33.800Z"
+    },
+    {
+      "name": "The Heart from Your Hate",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
+      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
+      "played_at": "2026-09-13T20:01:12.181Z"
+    },
     {
       "name": "Colors",
       "artist": "Crossfade",
@@ -15,34 +43,6 @@
       "url": "https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa",
       "image": "https://i.scdn.co/image/ab67616d000048516bd880c441d4811f2f571645",
       "played_at": "2026-09-13T19:53:32.636Z"
-    },
-    {
-      "name": "Tricky Tricky",
-      "artist": "W&W, Timmy Trumpet, Will Sparks, DJ Sequenza",
-      "url": "https://open.spotify.com/track/3MhymzaFcj7bXVJzB0ZJb8",
-      "image": "https://i.scdn.co/image/ab67616d0000485160605009b2f5c38079b31ed6",
-      "played_at": "2026-09-13T19:49:07.785Z"
-    },
-    {
-      "name": "Kernkraft 400 - Sport Chant Stadium Remix",
-      "artist": "Zombie Nation",
-      "url": "https://open.spotify.com/track/3f2fyR55BFMl3ZWS5S3BUZ",
-      "image": "https://i.scdn.co/image/ab67616d000048511ca46901bf34a41f1e6d7bc2",
-      "played_at": "2026-09-13T19:46:24.825Z"
-    },
-    {
-      "name": "Boten Anna - Radio edit",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-09-13T19:40:53.267Z"
-    },
-    {
-      "name": "The Scarlet Dawn",
-      "artist": "Varien",
-      "url": "https://open.spotify.com/track/5Pu3GXMzlNuabTTlC8G6fj",
-      "image": "https://i.scdn.co/image/ab67616d0000485103011aad03737e5511cfe11b",
-      "played_at": "2026-09-13T19:37:23.820Z"
     }
   ]
 }
