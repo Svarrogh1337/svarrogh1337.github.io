@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-14T08:15:41.247Z",
+  "updated": "2026-09-14T15:24:11.400Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Elevate",
-      "artist": "Sub Focus",
-      "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se",
-      "image": "https://i.scdn.co/image/ab67616d00004851c7f55a59f035464b5b97b305",
-      "played_at": "2026-09-14T06:39:38.288Z"
+      "name": "Tsigounis",
+      "artist": "So Tiri",
+      "url": "https://open.spotify.com/track/3UG94JISuZp1QSdIHSdiLM",
+      "image": "https://i.scdn.co/image/ab67616d0000485103f4020fc85535ad6f55e0f4",
+      "played_at": "2026-09-14T15:14:43.977Z"
     },
     {
-      "name": "Hole",
-      "artist": "Metrik, Rou Reynolds, Filthy Pig, Enter Shikari",
-      "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY",
-      "image": "https://i.scdn.co/image/ab67616d00004851e847d97eb4d6d0bdf3e2126a",
-      "played_at": "2026-09-14T06:29:03.301Z"
+      "name": "Thes Pastichio",
+      "artist": "So Tiri",
+      "url": "https://open.spotify.com/track/7o15QBlQBje5nrKRc1ghEx",
+      "image": "https://i.scdn.co/image/ab67616d00004851e6c8b05f4538dcf8f62aa96f",
+      "played_at": "2026-09-14T15:12:23.643Z"
     },
     {
-      "name": "Strife",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
-      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
-      "played_at": "2026-09-13T21:41:59.144Z"
+      "name": "Bangaranga",
+      "artist": "DARA",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26",
+      "image": "https://i.scdn.co/image/ab67616d00004851ee6ff14d338a2af1edc2f5d2",
+      "played_at": "2026-09-14T15:09:11.464Z"
     },
     {
-      "name": "In Waves",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy",
-      "image": "https://i.scdn.co/image/ab67616d000048511f51def2ba7d8019d747bb32",
-      "played_at": "2026-09-13T20:11:36.764Z"
+      "name": "Europapa",
+      "artist": "Joost",
+      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR",
+      "image": "https://i.scdn.co/image/ab67616d0000485127b0a7b998b2c2445ca06c32",
+      "played_at": "2026-09-14T15:06:12.104Z"
     },
     {
-      "name": "Until the World Goes Cold",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf",
-      "image": "https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430",
-      "played_at": "2026-09-13T20:06:33.800Z"
+      "name": "Ferto",
+      "artist": "Akylas",
+      "url": "https://open.spotify.com/track/1w5c5tE1LEfE7kTSfY6Hbl",
+      "image": "https://i.scdn.co/image/ab67616d000048516c19fb1200763eeb537dd476",
+      "played_at": "2026-09-14T15:03:30.430Z"
     },
     {
-      "name": "The Heart from Your Hate",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
-      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
-      "played_at": "2026-09-13T20:01:12.181Z"
+      "name": "Feta Kai Psomi - Remastered 2025",
+      "artist": "So Tiri",
+      "url": "https://open.spotify.com/track/765KpTPDnRhLfMZd06ZwlW",
+      "image": "https://i.scdn.co/image/ab67616d0000485171e7333e1d8133125c164f3b",
+      "played_at": "2026-09-14T15:00:29.141Z"
     }
   ]
 }
