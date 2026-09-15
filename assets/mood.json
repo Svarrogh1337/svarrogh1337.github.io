@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T13:57:42.509Z",
+  "updated": "2026-09-15T18:34:21.748Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Thes Pastichio",
+      "artist": "So Tiri",
+      "url": "https://open.spotify.com/track/7o15QBlQBje5nrKRc1ghEx",
+      "image": "https://i.scdn.co/image/ab67616d00004851e6c8b05f4538dcf8f62aa96f",
+      "played_at": "2026-09-15T16:59:50.282Z"
+    },
+    {
+      "name": "Feta Kai Psomi - Remastered 2025",
+      "artist": "So Tiri",
+      "url": "https://open.spotify.com/track/765KpTPDnRhLfMZd06ZwlW",
+      "image": "https://i.scdn.co/image/ab67616d0000485171e7333e1d8133125c164f3b",
+      "played_at": "2026-09-15T16:59:32.382Z"
+    },
     {
       "name": "Sacred",
       "artist": "Parkway Drive",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
       "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
       "played_at": "2026-09-15T09:06:23.987Z"
-    },
-    {
-      "name": "Glitch",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-09-15T09:02:04.972Z"
-    },
-    {
-      "name": "Ghosts 'n' Stuff",
-      "artist": "deadmau5",
-      "url": "https://open.spotify.com/track/5m4taQjTIjgEBU6mWpv5OC",
-      "image": "https://i.scdn.co/image/ab67616d0000485188187e12b8a3a1063eb0dd80",
-      "played_at": "2026-09-15T08:55:22.287Z"
     }
   ]
 }
