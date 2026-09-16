@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-16T08:01:58.659Z",
+  "updated": "2026-09-16T13:50:46.156Z",
   "sample": false,
   "tracks": [
     {
-      "name": "YØU & I",
-      "artist": "GHØSTKID",
-      "url": "https://open.spotify.com/track/1Slge4L2O4k1u3mwWE17Fa",
-      "image": "https://i.scdn.co/image/ab67616d00004851916d897f9ada02fd2acf0bb9",
-      "played_at": "2026-09-16T07:27:32.238Z"
+      "name": "Hypa Hypa",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2qOmcSjOQEDIJKosonn75a",
+      "image": "https://i.scdn.co/image/ab67616d0000485192c9092dbe901151cb2784a5",
+      "played_at": "2026-09-16T12:09:00.717Z"
     },
     {
-      "name": "START A FIGHT",
-      "artist": "GHØSTKID",
-      "url": "https://open.spotify.com/track/4QAsjq0LTSxxXJ3wA4McuH",
-      "image": "https://i.scdn.co/image/ab67616d00004851916d897f9ada02fd2acf0bb9",
-      "played_at": "2026-09-16T07:23:14.591Z"
+      "name": "Divide & Betray",
+      "artist": "Will Sparks, Matthew K. Heafy",
+      "url": "https://open.spotify.com/track/11xGtTyUmpBg8WMKWTcQCk",
+      "image": "https://i.scdn.co/image/ab67616d000048515f0c4a9429faab1dd56c3045",
+      "played_at": "2026-09-16T11:31:16.857Z"
     },
     {
-      "name": "HEAVY RAIN",
-      "artist": "GHØSTKID",
-      "url": "https://open.spotify.com/track/2aNOTGXCObY6U2zblqqWA9",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2157a28a933f836253ebef0",
-      "played_at": "2026-09-16T07:19:24.475Z"
+      "name": "Unicorns",
+      "artist": "257ers, Electric Callboy",
+      "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu",
+      "image": "https://i.scdn.co/image/ab67616d000048515b97884ea2d2dcd0f26a769e",
+      "played_at": "2026-09-16T11:27:16.752Z"
+    },
+    {
+      "name": "The Way You Are",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/2zVghrvsC9DWkz3wu6TmrJ",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-09-16T11:17:34.648Z"
+    },
+    {
+      "name": "Heartclub",
+      "artist": "Electric Callboy",
+      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
+      "played_at": "2026-09-16T11:15:08.086Z"
     },
     {
       "name": "SUPERNØVA (feat. Marcus Bischoff of Heaven Shall Burn)",
       "artist": "GHØSTKID, Heaven Shall Burn",
       "url": "https://open.spotify.com/track/3JvQlscImw2A4RCWzsUDoz",
       "image": "https://i.scdn.co/image/ab67616d00004851916d897f9ada02fd2acf0bb9",
-      "played_at": "2026-09-16T07:15:34.392Z"
-    },
-    {
-      "name": "I DESTROYED YOU",
-      "artist": "GHØSTKID",
-      "url": "https://open.spotify.com/track/5w2mj0Q6CKU3rwmRT09Fr3",
-      "image": "https://i.scdn.co/image/ab67616d00004851e09184bfd8a19da5a9da8cf4",
-      "played_at": "2026-09-16T07:11:52.317Z"
-    },
-    {
-      "name": "IVORY",
-      "artist": "GHØSTKID",
-      "url": "https://open.spotify.com/track/7rOl1FYoUxcKhOSWS05ayT",
-      "image": "https://i.scdn.co/image/ab67616d000048515b9dcd20577e37f6b9f095af",
-      "played_at": "2026-09-16T07:08:23.211Z"
+      "played_at": "2026-09-16T11:10:10.377Z"
     }
   ]
 }
