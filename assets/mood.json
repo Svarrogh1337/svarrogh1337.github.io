@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-17T13:54:42.809Z",
+  "updated": "2026-09-17T18:40:35.974Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Electric Eye",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
+      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
+      "played_at": "2026-09-17T15:58:22.705Z"
+    },
+    {
+      "name": "Turbo Lover - Remastered",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH",
+      "image": "https://i.scdn.co/image/ab67616d0000485161c27985f0b03b5062942df6",
+      "played_at": "2026-09-17T15:54:05.181Z"
+    },
     {
       "name": "Elevator Operator",
       "artist": "Electric Callboy",
@@ -24,25 +38,11 @@
       "played_at": "2026-09-17T11:04:44.394Z"
     },
     {
-      "name": "Electric Eye",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
-      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-09-17T10:27:30.118Z"
-    },
-    {
       "name": "Blue (Da Ba Dee)",
       "artist": "The Browning",
       "url": "https://open.spotify.com/track/0A1spWEYSPEa21qq4QZYKL",
       "image": "https://i.scdn.co/image/ab67616d0000485124b82faa9381df9a88f032da",
       "played_at": "2026-09-17T09:27:10.542Z"
-    },
-    {
-      "name": "Turbo Lover - Remastered",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH",
-      "image": "https://i.scdn.co/image/ab67616d0000485161c27985f0b03b5062942df6",
-      "played_at": "2026-09-17T08:58:49.376Z"
     }
   ]
 }
