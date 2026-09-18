@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-18T07:43:14.084Z",
+  "updated": "2026-09-18T13:14:37.429Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Crank That (Soulja Boy)",
-      "artist": "Soulja Boy",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi",
-      "image": "https://i.scdn.co/image/ab67616d000048518a6a328ced07af494400584b",
-      "played_at": "2026-09-18T07:32:23.506Z"
+      "name": "when we were young",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus",
+      "image": "https://i.scdn.co/image/ab67616d00004851e390f0d497f2efe9d48b653a",
+      "played_at": "2026-09-18T13:02:43.462Z"
     },
     {
-      "name": "Strife",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
-      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
-      "played_at": "2026-09-18T07:22:47.241Z"
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "artist": "Fort Minor, Styles Of Beyond",
+      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
+      "image": "https://i.scdn.co/image/ab67616d00004851c5454d7ff89392760678c491",
+      "played_at": "2026-09-18T12:59:34.576Z"
     },
     {
-      "name": "Until the World Goes Cold",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf",
-      "image": "https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430",
-      "played_at": "2026-09-18T07:17:19.651Z"
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me The Horizon, BABYMETAL",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
+      "played_at": "2026-09-18T12:55:49.066Z"
     },
     {
-      "name": "The Heart from Your Hate",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
-      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
-      "played_at": "2026-09-18T07:11:57.968Z"
+      "name": "A Work of Art",
+      "artist": "Ice Nine Kills, SHAVO",
+      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
+      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
+      "played_at": "2026-09-18T12:52:14.021Z"
     },
     {
-      "name": "Satisfaction - Hardwell & Maddix Remix",
-      "artist": "David Guetta, Benny Benassi, Hardwell, Maddix",
-      "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd978394eb97dd6e66df94cc",
-      "played_at": "2026-09-18T07:00:21.987Z"
+      "name": "Temptation",
+      "artist": "Imminence",
+      "url": "https://open.spotify.com/track/53QkoELbY2Vzzb4EMkFJOB",
+      "image": "https://i.scdn.co/image/ab67616d000048513bead7dd5b1883cb7f33f238",
+      "played_at": "2026-09-18T12:48:20.933Z"
     },
     {
-      "name": "Ich will",
-      "artist": "Rammstein",
-      "url": "https://open.spotify.com/track/6PaBUMaOuWYJGR7xqkisxP",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7f04daf5e8b0fe0629161cd36",
-      "played_at": "2026-09-18T06:57:53.702Z"
+      "name": "Ded to Me",
+      "artist": "Vended",
+      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7",
+      "image": "https://i.scdn.co/image/ab67616d0000485118f02bc01ed8d81305a4400a",
+      "played_at": "2026-09-18T12:44:42.687Z"
     }
   ]
 }
