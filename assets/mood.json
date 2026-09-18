@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-18T20:18:54.784Z",
+  "updated": "2026-09-18T22:54:26.220Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "The Sentinel",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2",
+      "image": "https://i.scdn.co/image/ab67616d00004851bc22adfbb796489be45491d2",
+      "played_at": "2026-09-18T19:41:16.204Z"
+    },
     {
       "name": "Night Crawler",
       "artist": "Judas Priest",
       "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI",
       "image": "https://i.scdn.co/image/ab67616d0000485160db4ca924d17bc6754e89aa",
       "played_at": "2026-09-18T17:35:16.159Z"
-    },
-    {
-      "name": "The Sentinel",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2",
-      "image": "https://i.scdn.co/image/ab67616d00004851bc22adfbb796489be45491d2",
-      "played_at": "2026-09-18T17:18:26.143Z"
     },
     {
       "name": "Electric Eye",
