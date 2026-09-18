@@ -1,48 +1,34 @@
 {
-  "updated": "2026-09-18T13:14:37.429Z",
+  "updated": "2026-09-18T17:57:20.894Z",
   "sample": false,
   "tracks": [
     {
-      "name": "when we were young",
-      "artist": "Architects",
-      "url": "https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus",
-      "image": "https://i.scdn.co/image/ab67616d00004851e390f0d497f2efe9d48b653a",
-      "played_at": "2026-09-18T13:02:43.462Z"
+      "name": "Night Crawler",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI",
+      "image": "https://i.scdn.co/image/ab67616d0000485160db4ca924d17bc6754e89aa",
+      "played_at": "2026-09-18T17:35:16.159Z"
     },
     {
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "artist": "Fort Minor, Styles Of Beyond",
-      "url": "https://open.spotify.com/track/7ccC26pJ3aDG81sS4FwdXF",
-      "image": "https://i.scdn.co/image/ab67616d00004851c5454d7ff89392760678c491",
-      "played_at": "2026-09-18T12:59:34.576Z"
+      "name": "The Sentinel",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2",
+      "image": "https://i.scdn.co/image/ab67616d00004851bc22adfbb796489be45491d2",
+      "played_at": "2026-09-18T17:18:26.143Z"
     },
     {
-      "name": "Kingslayer (feat. BABYMETAL)",
-      "artist": "Bring Me The Horizon, BABYMETAL",
-      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
-      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
-      "played_at": "2026-09-18T12:55:49.066Z"
+      "name": "Electric Eye",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
+      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
+      "played_at": "2026-09-18T16:11:04.284Z"
     },
     {
-      "name": "A Work of Art",
-      "artist": "Ice Nine Kills, SHAVO",
-      "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc",
-      "image": "https://i.scdn.co/image/ab67616d000048512a044aa0553e062b94fcb128",
-      "played_at": "2026-09-18T12:52:14.021Z"
-    },
-    {
-      "name": "Temptation",
-      "artist": "Imminence",
-      "url": "https://open.spotify.com/track/53QkoELbY2Vzzb4EMkFJOB",
-      "image": "https://i.scdn.co/image/ab67616d000048513bead7dd5b1883cb7f33f238",
-      "played_at": "2026-09-18T12:48:20.933Z"
-    },
-    {
-      "name": "Ded to Me",
-      "artist": "Vended",
-      "url": "https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7",
-      "image": "https://i.scdn.co/image/ab67616d0000485118f02bc01ed8d81305a4400a",
-      "played_at": "2026-09-18T12:44:42.687Z"
+      "name": "Turbo Lover - Remastered",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH",
+      "image": "https://i.scdn.co/image/ab67616d0000485161c27985f0b03b5062942df6",
+      "played_at": "2026-09-18T15:51:48.580Z"
     }
   ]
 }
