@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-18T02:05:48.291Z",
+  "updated": "2026-09-18T07:43:14.084Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Electric Eye",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
-      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-09-17T15:58:22.705Z"
+      "name": "Crank That (Soulja Boy)",
+      "artist": "Soulja Boy",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi",
+      "image": "https://i.scdn.co/image/ab67616d000048518a6a328ced07af494400584b",
+      "played_at": "2026-09-18T07:32:23.506Z"
     },
     {
-      "name": "Turbo Lover - Remastered",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH",
-      "image": "https://i.scdn.co/image/ab67616d0000485161c27985f0b03b5062942df6",
-      "played_at": "2026-09-17T15:54:05.181Z"
+      "name": "Strife",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0",
+      "image": "https://i.scdn.co/image/ab67616d000048511845aeca9258f7a9aabd3fa2",
+      "played_at": "2026-09-18T07:22:47.241Z"
     },
     {
-      "name": "Elevator Operator",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7IMdcXJviU07tjoU7OlObD",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-09-17T12:49:56.081Z"
+      "name": "Until the World Goes Cold",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf",
+      "image": "https://i.scdn.co/image/ab67616d000048517a936cb18fbf6bec7127c430",
+      "played_at": "2026-09-18T07:17:19.651Z"
     },
     {
-      "name": "Waiting On The Sky To Change",
-      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
-      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
-      "played_at": "2026-09-17T12:49:56.081Z"
+      "name": "The Heart from Your Hate",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
+      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
+      "played_at": "2026-09-18T07:11:57.968Z"
     },
     {
-      "name": "Tokyo Drift X Temperature",
-      "artist": "Ferran Canales",
-      "url": "https://open.spotify.com/track/08FYG8PqUgDlf8ETjCiGI9",
-      "image": "https://i.scdn.co/image/ab67616d00004851820870c0c05db46c90602a73",
-      "played_at": "2026-09-17T11:04:44.394Z"
+      "name": "Satisfaction - Hardwell & Maddix Remix",
+      "artist": "David Guetta, Benny Benassi, Hardwell, Maddix",
+      "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd978394eb97dd6e66df94cc",
+      "played_at": "2026-09-18T07:00:21.987Z"
     },
     {
-      "name": "Blue (Da Ba Dee)",
-      "artist": "The Browning",
-      "url": "https://open.spotify.com/track/0A1spWEYSPEa21qq4QZYKL",
-      "image": "https://i.scdn.co/image/ab67616d0000485124b82faa9381df9a88f032da",
-      "played_at": "2026-09-17T09:27:10.542Z"
+      "name": "Ich will",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/6PaBUMaOuWYJGR7xqkisxP",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7f04daf5e8b0fe0629161cd36",
+      "played_at": "2026-09-18T06:57:53.702Z"
     }
   ]
 }
