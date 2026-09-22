@@ -1,48 +1,48 @@
 {
-  "updated": "2026-09-22T13:45:32.236Z",
+  "updated": "2026-09-22T18:24:17.379Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Cryin' Like A Bitch!!",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN",
-      "image": "https://i.scdn.co/image/ab67616d00004851b43a15c506be1d7ea9f0caa0",
-      "played_at": "2026-09-22T13:11:32.599Z"
+      "name": "Tormenta (feat. Bad Bunny)",
+      "artist": "Gorillaz, Bad Bunny",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL",
+      "image": "https://i.scdn.co/image/ab67616d0000485119707804f73dc50f7a29cd86",
+      "played_at": "2026-09-22T18:19:25.155Z"
     },
     {
-      "name": "Coming Undone",
-      "artist": "Korn",
-      "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR",
-      "image": "https://i.scdn.co/image/ab67616d0000485174c1560b64750a1774495144",
-      "played_at": "2026-09-22T13:04:28.121Z"
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "artist": "Gorillaz, Tame Impala, Bootie Brown",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "image": "https://i.scdn.co/image/ab67616d0000485119707804f73dc50f7a29cd86",
+      "played_at": "2026-09-22T18:16:11.173Z"
     },
     {
-      "name": "Lola Montez",
-      "artist": "Volbeat",
-      "url": "https://open.spotify.com/track/3ear11tYbMEmNDm2lxZTqL",
-      "image": "https://i.scdn.co/image/ab67616d0000485123f479dae01ad805b46272f4",
-      "played_at": "2026-09-22T13:01:07.759Z"
+      "name": "Rhinestone Eyes",
+      "artist": "Gorillaz",
+      "url": "https://open.spotify.com/track/5lCqi1duvzahzMzW7RfLDI",
+      "image": "https://i.scdn.co/image/ab67616d000048514960e8b13691e5570337d4d8",
+      "played_at": "2026-09-22T18:12:35.510Z"
     },
     {
-      "name": "Forever",
-      "artist": "Papa Roach",
-      "url": "https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb",
-      "image": "https://i.scdn.co/image/ab67616d00004851ad1a1608fbf42300845aae55",
-      "played_at": "2026-09-22T12:56:37.350Z"
+      "name": "She's My Collar (feat. Kali Uchis)",
+      "artist": "Gorillaz, Kali Uchis",
+      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2",
+      "image": "https://i.scdn.co/image/ab67616d00004851a5952c0e2e649f588603b743",
+      "played_at": "2026-09-22T18:09:14.814Z"
     },
     {
-      "name": "Call Me",
-      "artist": "Shinedown",
-      "url": "https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl",
-      "image": "https://i.scdn.co/image/ab67616d00004851a8884c298d3fc9b70c4e9196",
-      "played_at": "2026-09-22T12:52:27.432Z"
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "artist": "Gorillaz, Shaun Ryder, Roses Gabor",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
+      "image": "https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358",
+      "played_at": "2026-09-22T18:05:44.709Z"
     },
     {
-      "name": "Voodoo",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/5uGsG0LfotfWDq6hql4h53",
-      "image": "https://i.scdn.co/image/ab67616d0000485182a891641608e2f2d6c3a8b8",
-      "played_at": "2026-09-22T12:48:29.275Z"
+      "name": "Clint Eastwood",
+      "artist": "Gorillaz, Del The Funky Homosapien",
+      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx",
+      "image": "https://i.scdn.co/image/ab67616d00004851f6c46838e4425ea96e2562fe",
+      "played_at": "2026-09-22T18:01:39.192Z"
     }
   ]
 }
