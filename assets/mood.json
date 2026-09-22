@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-21T21:22:26.602Z",
+  "updated": "2026-09-22T02:20:28.106Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Yggdrasil",
+      "artist": "Brothers of Metal",
+      "url": "https://open.spotify.com/track/3V417nSM4Ilh0Tt5CqustV",
+      "image": "https://i.scdn.co/image/ab67616d0000485166a38b753013c0e66084830c",
+      "played_at": "2026-09-21T20:11:19.100Z"
+    },
     {
       "name": "MC Thunder",
       "artist": "Electric Callboy",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C",
       "image": "https://i.scdn.co/image/ab67616d00004851cd394cd849dc957ce5bbb533",
       "played_at": "2026-09-21T17:12:40.126Z"
-    },
-    {
-      "name": "To Gucci Forema",
-      "artist": "Giorgos Mazonakis",
-      "url": "https://open.spotify.com/track/4lCRX28Mg4THeZ70wyqi2U",
-      "image": "https://i.scdn.co/image/ab67616d000048517afe7eb6e4af41915e2b34f3",
-      "played_at": "2026-09-21T17:07:27.898Z"
     }
   ]
 }
