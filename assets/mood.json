@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:06:07.067Z",
+  "updated": "2026-09-26T13:28:00.076Z",
   "sample": false,
   "tracks": [
     {
@@ -7,42 +7,42 @@
       "artist": "Judas Priest",
       "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2",
       "image": "https://i.scdn.co/image/ab67616d00004851bc22adfbb796489be45491d2",
-      "played_at": "2026-09-26T08:01:06.018Z"
+      "played_at": "2026-09-26T08:52:18.527Z"
     },
     {
       "name": "Night Crawler",
       "artist": "Judas Priest",
       "url": "https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI",
       "image": "https://i.scdn.co/image/ab67616d0000485160db4ca924d17bc6754e89aa",
-      "played_at": "2026-09-26T07:54:52.992Z"
+      "played_at": "2026-09-26T08:38:46.426Z"
     },
     {
       "name": "Turbo Lover - Remastered",
       "artist": "Judas Priest",
       "url": "https://open.spotify.com/track/1i5yWGXgtFABa0czv2pbZH",
       "image": "https://i.scdn.co/image/ab67616d0000485161c27985f0b03b5062942df6",
-      "played_at": "2026-09-26T07:49:07.587Z"
+      "played_at": "2026-09-26T08:33:00.510Z"
     },
     {
       "name": "Electric Eye",
       "artist": "Judas Priest",
       "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
       "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-09-26T07:43:33.991Z"
+      "played_at": "2026-09-26T08:27:24.834Z"
     },
     {
-      "name": "Living After Midnight",
+      "name": "Heading Out to the Highway",
       "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4",
-      "image": "https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62",
-      "played_at": "2026-09-26T07:39:50.044Z"
+      "url": "https://open.spotify.com/track/7sicPw7V9SYJl3Zjme9i4p",
+      "image": "https://i.scdn.co/image/ab67616d00004851397a50d3dede88554925c717",
+      "played_at": "2026-09-26T08:19:50.675Z"
     },
     {
-      "name": "You've Got Another Thing Comin'",
+      "name": "Beyond the Realms of Death",
       "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm",
-      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-09-26T07:34:06.796Z"
+      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm",
+      "image": "https://i.scdn.co/image/ab67616d00004851a4c79ec8f98d1866d266f5af",
+      "played_at": "2026-09-26T08:16:03.826Z"
     }
   ]
 }
