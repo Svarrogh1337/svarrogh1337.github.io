@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-06T01:35:35.494Z",
+  "updated": "2026-10-06T09:34:40.861Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Without Me",
+      "artist": "Eminem",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "image": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+      "played_at": "2026-10-06T09:32:04.856Z"
+    },
+    {
+      "name": "Love The Way You Lie",
+      "artist": "Eminem, Rihanna",
+      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
+      "image": "https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100",
+      "played_at": "2026-10-06T09:27:19.575Z"
+    },
+    {
+      "name": "Self Supremacy",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/5M1mmcNwwIa41aGgBOpfyj",
+      "image": "https://i.scdn.co/image/ab67616d0000485155c4f647fc7e6dd2eb70d742",
+      "played_at": "2026-10-06T07:57:15.209Z"
+    },
+    {
+      "name": "Remain Unbeaten",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/4XPb7GCaN39roschswjghy",
+      "image": "https://i.scdn.co/image/ab67616d00004851c1b33eba2ce45b691e1c79fc",
+      "played_at": "2026-10-06T07:52:30.549Z"
+    },
     {
       "name": "So Help Me God",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
       "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-05T15:13:26.679Z"
+      "played_at": "2026-10-06T07:48:48.058Z"
     },
     {
       "name": "Silhouette",
       "artist": "Malevolence",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
       "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-10-05T15:09:13.247Z"
-    },
-    {
-      "name": "DOWN (Feat. Malevolence)",
-      "artist": "While She Sleeps, Malevolence",
-      "url": "https://open.spotify.com/track/7pGzo8w97odhO8t5du5HZe",
-      "image": "https://i.scdn.co/image/ab67616d000048514e65d0f25d6ed99fb1714e37",
-      "played_at": "2026-10-05T15:01:55.218Z"
-    },
-    {
-      "name": "Karma",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/5mIoz71HRFnFX0SMGQ0mWH",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-10-05T14:58:05.561Z"
-    },
-    {
-      "name": "Life Sentence",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4kyUqTTodgqAivqlPSmzEa",
-      "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-10-05T14:55:08.561Z"
-    },
-    {
-      "name": "Another Nail For Your Coffin (Feat. Kublai Khan TX & Malevolence)",
-      "artist": "Lamb of God, Kublai Khan TX, Malevolence",
-      "url": "https://open.spotify.com/track/4z7aaVzdW92m7gmVxrOttF",
-      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
-      "played_at": "2026-10-05T14:51:17.921Z"
+      "played_at": "2026-10-06T07:44:34.690Z"
     }
   ]
 }
