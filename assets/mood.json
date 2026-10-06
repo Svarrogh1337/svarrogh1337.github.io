@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-06T09:34:40.861Z",
+  "updated": "2026-10-06T17:34:35.902Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Without Me",
+      "name": "To Hell and Back",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
+      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
+      "played_at": "2026-10-06T17:31:54.473Z"
+    },
+    {
+      "name": "Beggin'",
+      "artist": "Måneskin",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
+      "played_at": "2026-10-06T17:28:32.976Z"
+    },
+    {
+      "name": "Black Box",
+      "artist": "Bear McCreary, Joe Duplantier, The Mystery Of The Bulgarian Voices",
+      "url": "https://open.spotify.com/track/3xrvM16sYBrs1Hc0Jy06fb",
+      "image": "https://i.scdn.co/image/ab67616d000048515d6c25fb8fb27cbaf3841614",
+      "played_at": "2026-10-06T17:25:06.339Z"
+    },
+    {
+      "name": "Blood Brothers",
+      "artist": "Papa Roach",
+      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M",
+      "image": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "played_at": "2026-10-06T17:20:14.482Z"
+    },
+    {
+      "name": "Mockingbird",
       "artist": "Eminem",
-      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
-      "image": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
-      "played_at": "2026-10-06T09:32:04.856Z"
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
+      "image": "https://i.scdn.co/image/ab67616d000048511bec21e57fff76db49e15a70",
+      "played_at": "2026-10-06T17:16:45.642Z"
     },
     {
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
-      "image": "https://i.scdn.co/image/ab67616d00004851c08d5fa5c0f1a834acef5100",
-      "played_at": "2026-10-06T09:27:19.575Z"
-    },
-    {
-      "name": "Self Supremacy",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/5M1mmcNwwIa41aGgBOpfyj",
-      "image": "https://i.scdn.co/image/ab67616d0000485155c4f647fc7e6dd2eb70d742",
-      "played_at": "2026-10-06T07:57:15.209Z"
-    },
-    {
-      "name": "Remain Unbeaten",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4XPb7GCaN39roschswjghy",
-      "image": "https://i.scdn.co/image/ab67616d00004851c1b33eba2ce45b691e1c79fc",
-      "played_at": "2026-10-06T07:52:30.549Z"
-    },
-    {
-      "name": "So Help Me God",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-06T07:48:48.058Z"
-    },
-    {
-      "name": "Silhouette",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
-      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-10-06T07:44:34.690Z"
+      "name": "The Laugh Track",
+      "artist": "Ice Nine Kills",
+      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
+      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
+      "played_at": "2026-10-06T17:12:39.891Z"
     }
   ]
 }
