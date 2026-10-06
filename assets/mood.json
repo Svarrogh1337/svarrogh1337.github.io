@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-06T17:34:35.902Z",
+  "updated": "2026-10-06T21:59:45.194Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "The Unforgiven 2",
+      "artist": "Neo Acoustix",
+      "url": "https://open.spotify.com/track/1L0E6COtw5KFd7PEb0RC3X",
+      "image": "https://i.scdn.co/image/ab67616d00004851c2b9a6d73ad1e3c4378dcb90",
+      "played_at": "2026-10-06T19:58:31.321Z"
+    },
+    {
+      "name": "No Love In LA",
+      "artist": "Palaye Royale",
+      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
+      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
+      "played_at": "2026-10-06T17:48:39.059Z"
+    },
+    {
+      "name": "Under Your Scars",
+      "artist": "Godsmack",
+      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
+      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
+      "played_at": "2026-10-06T17:45:21.845Z"
+    },
+    {
+      "name": "Like Napalm",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
+      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
+      "played_at": "2026-10-06T17:35:34.473Z"
+    },
     {
       "name": "To Hell and Back",
       "artist": "Sabaton",
@@ -15,34 +43,6 @@
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
       "image": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
       "played_at": "2026-10-06T17:28:32.976Z"
-    },
-    {
-      "name": "Black Box",
-      "artist": "Bear McCreary, Joe Duplantier, The Mystery Of The Bulgarian Voices",
-      "url": "https://open.spotify.com/track/3xrvM16sYBrs1Hc0Jy06fb",
-      "image": "https://i.scdn.co/image/ab67616d000048515d6c25fb8fb27cbaf3841614",
-      "played_at": "2026-10-06T17:25:06.339Z"
-    },
-    {
-      "name": "Blood Brothers",
-      "artist": "Papa Roach",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M",
-      "image": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
-      "played_at": "2026-10-06T17:20:14.482Z"
-    },
-    {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
-      "image": "https://i.scdn.co/image/ab67616d000048511bec21e57fff76db49e15a70",
-      "played_at": "2026-10-06T17:16:45.642Z"
-    },
-    {
-      "name": "The Laugh Track",
-      "artist": "Ice Nine Kills",
-      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
-      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
-      "played_at": "2026-10-06T17:12:39.891Z"
     }
   ]
 }
