@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-07T12:16:23.847Z",
+  "updated": "2026-10-07T20:18:01.118Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Remain Unbeaten",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4XPb7GCaN39roschswjghy",
-      "image": "https://i.scdn.co/image/ab67616d00004851c1b33eba2ce45b691e1c79fc",
-      "played_at": "2026-10-07T12:08:43.128Z"
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-10-07T15:41:38.940Z"
     },
     {
-      "name": "So Help Me God",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-07T12:04:55.106Z"
+      "name": "Curse",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
+      "played_at": "2026-10-07T15:37:24.140Z"
     },
     {
-      "name": "Silhouette",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh",
-      "image": "https://i.scdn.co/image/ab67616d00004851257e0c287703cd999fe2e368",
-      "played_at": "2026-10-07T12:00:36.226Z"
+      "name": "Victory Lap",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP",
+      "image": "https://i.scdn.co/image/ab67616d00004851bf705b821b031cefe91d7b90",
+      "played_at": "2026-10-07T15:34:01.243Z"
     },
     {
-      "name": "Salt The Wound",
+      "name": "On Broken Glass",
       "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/6Ls6liMj7XDf847UMn6TN6",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-07T11:56:06.380Z"
-    },
-    {
-      "name": "Higher Place",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/4nrUSPO6EjuUdV8GyVSVlO",
+      "url": "https://open.spotify.com/track/0SSs4eICSuntmt4TcbcFx4",
       "image": "https://i.scdn.co/image/ab67616d00004851a267cdca877b24de9b7c7492",
-      "played_at": "2026-10-07T11:51:57.388Z"
+      "played_at": "2026-10-07T15:30:22.520Z"
     },
     {
-      "name": "DOWN (Feat. Malevolence)",
-      "artist": "While She Sleeps, Malevolence",
-      "url": "https://open.spotify.com/track/7pGzo8w97odhO8t5du5HZe",
-      "image": "https://i.scdn.co/image/ab67616d000048514e65d0f25d6ed99fb1714e37",
-      "played_at": "2026-10-07T11:47:10.983Z"
+      "name": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
+      "image": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
+      "played_at": "2026-10-07T15:23:34.673Z"
+    },
+    {
+      "name": "Trenches",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/0S6yMmrKPtGwyddMQr0QDw",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-10-07T14:38:07.226Z"
     }
   ]
 }
