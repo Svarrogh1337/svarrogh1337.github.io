@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-07T20:18:01.118Z",
+  "updated": "2026-10-08T00:33:13.842Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Kingslayer (feat. BABYMETAL)",
+      "artist": "Bring Me The Horizon, BABYMETAL",
+      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
+      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
+      "played_at": "2026-10-07T20:49:05.557Z"
+    },
     {
       "name": "This Is The New Shit",
       "artist": "Marilyn Manson",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx",
       "image": "https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4",
       "played_at": "2026-10-07T15:23:34.673Z"
-    },
-    {
-      "name": "Trenches",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/0S6yMmrKPtGwyddMQr0QDw",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-07T14:38:07.226Z"
     }
   ]
 }
