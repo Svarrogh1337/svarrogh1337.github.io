@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-10T16:33:45.453Z",
+  "updated": "2026-10-10T20:51:05.663Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Liquor & Cigarettes (feat. ArrDee)",
+      "artist": "Chase & Status, Hedex, ArrDee",
+      "url": "https://open.spotify.com/track/5etN0BsaiQlp0D6ltU4BX7",
+      "image": "https://i.scdn.co/image/ab67616d000048518a7fdf2de701f3ea4cfacfc1",
+      "played_at": "2026-10-10T16:41:28.994Z"
+    },
     {
       "name": "Victory Lap",
       "artist": "Fred again.., Skepta, PlaqueBoyMax",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3",
       "image": "https://i.scdn.co/image/ab67616d00004851121c39c86d8b05c14022edfe",
       "played_at": "2026-10-10T14:21:28.434Z"
-    },
-    {
-      "name": "One (Always Hardcore)",
-      "artist": "Scooter",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL",
-      "image": "https://i.scdn.co/image/ab67616d000048511a11c170e42b507791da1151",
-      "played_at": "2026-10-10T14:17:53.729Z"
     }
   ]
 }
