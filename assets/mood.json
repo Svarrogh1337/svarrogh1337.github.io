@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-09T21:59:27.501Z",
+  "updated": "2026-10-10T03:15:53.619Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Hail to the King",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo",
+      "image": "https://i.scdn.co/image/ab67616d000048510ea1ecb2d5271c2db402b0c2",
+      "played_at": "2026-10-09T19:11:12.501Z"
+    },
     {
       "name": "Rollin' (Air Raid Vehicle)",
       "artist": "Limp Bizkit",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ",
       "image": "https://i.scdn.co/image/ab67616d000048513d49fa9efbba5f8ecc35b0df",
       "played_at": "2026-10-09T17:49:34.229Z"
-    },
-    {
-      "name": "Parasite Eve",
-      "artist": "Bring Me The Horizon",
-      "url": "https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj",
-      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
-      "played_at": "2026-10-09T17:46:16.897Z"
     }
   ]
 }
