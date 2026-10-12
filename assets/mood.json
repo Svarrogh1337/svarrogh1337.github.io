@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-12T13:50:16.261Z",
+  "updated": "2026-10-12T22:18:15.194Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Crossing The Rubicon",
+      "name": "Resist and Bite",
       "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/42XxaDrMRgaiC0JY51mz3b",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7b15aaacfb7625c873d4f5611",
-      "played_at": "2026-10-12T13:41:05.689Z"
+      "url": "https://open.spotify.com/track/3k6iqqVUBSBFXP8WLuoiCv",
+      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
+      "played_at": "2026-10-12T16:22:08.091Z"
+    },
+    {
+      "name": "Crossing the Rubicon",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/6WyfybAgLz1EceoumvVSun",
+      "image": "https://i.scdn.co/image/ab67616d000048512015d006804756df2e271b74",
+      "played_at": "2026-10-12T16:18:45.643Z"
     },
     {
       "name": "The Red Baron",
       "artist": "Sabaton",
       "url": "https://open.spotify.com/track/0ePmfd8y7g4zs3E6ew7pDB",
       "image": "https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd",
-      "played_at": "2026-10-12T13:36:18.310Z"
+      "played_at": "2026-10-12T16:15:21.807Z"
     },
     {
-      "name": "Winged Hussars",
+      "name": "The Attack of the Dead Men",
       "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/4HVuyLPE90zk19NYv55dzX",
-      "image": "https://i.scdn.co/image/ab67616d000048510c100c40bdedea776770e7aa",
-      "played_at": "2026-10-12T13:33:00.981Z"
+      "url": "https://open.spotify.com/track/2K2NeVnP853rkR5ese8ZLP",
+      "image": "https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd",
+      "played_at": "2026-10-12T15:49:56.922Z"
     },
     {
-      "name": "Yamato",
+      "name": "Ghost Division",
       "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/5RST6QQQn5s7AvQ9piBjxN",
-      "image": "https://i.scdn.co/image/ab6742d3000052b7e970edd451780f77bb977522",
-      "played_at": "2026-10-12T13:29:09.316Z"
+      "url": "https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l",
+      "image": "https://i.scdn.co/image/ab67616d00004851052d58444fff15346b74f242",
+      "played_at": "2026-10-12T15:46:06.344Z"
     },
     {
-      "name": "I, Emperor",
+      "name": "Night Witches",
       "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/3MT3xsnjKglIpVDaxg6Q1V",
-      "image": "https://i.scdn.co/image/ab6742d3000052b70dfed94357b6fe5c8839c457",
-      "played_at": "2026-10-12T13:25:13.095Z"
-    },
-    {
-      "name": "Templars (feat. Pop Evil)",
-      "artist": "Sabaton, Pop Evil",
-      "url": "https://open.spotify.com/track/58gNJGAe1LBN8735E0OWwd",
-      "image": "https://i.scdn.co/image/ab67616d000048515d7fe9b6f81f898c8a890e6f",
-      "played_at": "2026-10-12T13:19:52.247Z"
+      "url": "https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe",
+      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
+      "played_at": "2026-10-12T15:42:20.231Z"
     }
   ]
 }
