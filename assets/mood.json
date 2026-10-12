@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-12T03:12:08.996Z",
+  "updated": "2026-10-12T13:50:16.261Z",
   "sample": false,
   "tracks": [
     {
-      "name": "On Melancholy Hill",
-      "artist": "Gorillaz",
-      "url": "https://open.spotify.com/track/4ercRiJZl8kBm8vfPaNjrl",
-      "image": "https://i.scdn.co/image/ab67616d000048514960e8b13691e5570337d4d8",
-      "played_at": "2026-10-11T14:13:41.473Z"
+      "name": "Crossing The Rubicon",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/42XxaDrMRgaiC0JY51mz3b",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7b15aaacfb7625c873d4f5611",
+      "played_at": "2026-10-12T13:41:05.689Z"
     },
     {
-      "name": "Clint Eastwood",
-      "artist": "Gorillaz, Del The Funky Homosapien",
-      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx",
-      "image": "https://i.scdn.co/image/ab67616d00004851f6c46838e4425ea96e2562fe",
-      "played_at": "2026-10-11T14:01:44.609Z"
+      "name": "The Red Baron",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/0ePmfd8y7g4zs3E6ew7pDB",
+      "image": "https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd",
+      "played_at": "2026-10-12T13:36:18.310Z"
     },
     {
-      "name": "Feel Good Inc.",
-      "artist": "Gorillaz, De La Soul",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-      "image": "https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358",
-      "played_at": "2026-10-11T13:55:59.460Z"
+      "name": "Winged Hussars",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/4HVuyLPE90zk19NYv55dzX",
+      "image": "https://i.scdn.co/image/ab67616d000048510c100c40bdedea776770e7aa",
+      "played_at": "2026-10-12T13:33:00.981Z"
     },
     {
-      "name": "DotA - Radio Edit",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/6HjtZWIo0bh0KLD8Tq4ujR",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-10-11T13:49:27.518Z"
+      "name": "Yamato",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/5RST6QQQn5s7AvQ9piBjxN",
+      "image": "https://i.scdn.co/image/ab6742d3000052b7e970edd451780f77bb977522",
+      "played_at": "2026-10-12T13:29:09.316Z"
     },
     {
-      "name": "Low Again",
-      "artist": "BOVSKI",
-      "url": "https://open.spotify.com/track/7pCu8T3dNcNNt1nIMtsQqB",
-      "image": "https://i.scdn.co/image/ab67616d000048510181a890f7060ac169f0e100",
-      "played_at": "2026-10-11T11:19:04.234Z"
+      "name": "I, Emperor",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/3MT3xsnjKglIpVDaxg6Q1V",
+      "image": "https://i.scdn.co/image/ab6742d3000052b70dfed94357b6fe5c8839c457",
+      "played_at": "2026-10-12T13:25:13.095Z"
     },
     {
-      "name": "I Hate Everything About You",
-      "artist": "Three Days Grace",
-      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi",
-      "image": "https://i.scdn.co/image/ab67616d000048515d4bd2c345c95e847b586403",
-      "played_at": "2026-10-11T10:44:28.277Z"
+      "name": "Templars (feat. Pop Evil)",
+      "artist": "Sabaton, Pop Evil",
+      "url": "https://open.spotify.com/track/58gNJGAe1LBN8735E0OWwd",
+      "image": "https://i.scdn.co/image/ab67616d000048515d7fe9b6f81f898c8a890e6f",
+      "played_at": "2026-10-12T13:19:52.247Z"
     }
   ]
 }
