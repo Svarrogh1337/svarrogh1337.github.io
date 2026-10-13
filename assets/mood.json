@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-13T13:08:28.094Z",
+  "updated": "2026-10-13T20:25:23.704Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Iris",
-      "artist": "DIAMANTE, Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
-      "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-10-13T11:47:55.721Z"
+      "name": "Afterlife",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n",
+      "image": "https://i.scdn.co/image/ab67616d0000485133c52ca8309741c6999ca742",
+      "played_at": "2026-10-13T17:49:50.546Z"
     },
     {
-      "name": "No Love In LA",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-10-13T10:56:15.035Z"
+      "name": "Heavy Is the Crown",
+      "artist": "Linkin Park",
+      "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0",
+      "image": "https://i.scdn.co/image/ab67616d000048518be9eeb8f19696ef2fd3b6b4",
+      "played_at": "2026-10-13T17:44:03.154Z"
     },
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-10-13T10:52:50.367Z"
+      "name": "Always",
+      "artist": "Saliva",
+      "url": "https://open.spotify.com/track/2HerxRQish8VLHvu20oxz2",
+      "image": "https://i.scdn.co/image/ab67616d000048516c840320b77e2a7e569f24ef",
+      "played_at": "2026-10-13T17:41:21.157Z"
     },
     {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-10-13T10:49:04.215Z"
+      "name": "Gimme That Boom",
+      "artist": "Skindred",
+      "url": "https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j",
+      "image": "https://i.scdn.co/image/ab67616d0000485158bba342cc60783fff648dc0",
+      "played_at": "2026-10-13T17:37:34.660Z"
     },
     {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-10-13T10:46:04.099Z"
+      "name": "Electric Eye",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
+      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
+      "played_at": "2026-10-13T17:33:05.175Z"
     },
     {
-      "name": "Dragula",
-      "artist": "Rob Zombie",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
-      "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
-      "played_at": "2026-10-13T10:41:32.051Z"
+      "name": "Jenny",
+      "artist": "NOTHING MORE",
+      "url": "https://open.spotify.com/track/2CASGo9Wmd6Dxrq3ygnRjf",
+      "image": "https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f",
+      "played_at": "2026-10-13T17:32:56.425Z"
     }
   ]
 }
