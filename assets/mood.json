@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-14T00:01:11.189Z",
+  "updated": "2026-10-14T08:09:18.429Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Nobody Like You",
+      "artist": "Limp Bizkit",
+      "url": "https://open.spotify.com/track/5VNMlLgQdpo2ksrYzD9ANy",
+      "image": "https://i.scdn.co/image/ab67616d000048513783782de74f61e36795bf9c",
+      "played_at": "2026-10-14T07:58:29.382Z"
+    },
+    {
+      "name": "Remenissions",
+      "artist": "Avenged Sevenfold",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
+      "played_at": "2026-10-14T07:58:29.381Z"
+    },
+    {
+      "name": "Symphony Of Destruction - Remastered 2012",
+      "artist": "Megadeth",
+      "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
+      "image": "https://i.scdn.co/image/ab67616d000048514be345f026469be09f12a92e",
+      "played_at": "2026-10-14T05:54:10.804Z"
+    },
     {
       "name": "The Beautiful People",
       "artist": "Marilyn Manson",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0",
       "image": "https://i.scdn.co/image/ab67616d000048518be9eeb8f19696ef2fd3b6b4",
       "played_at": "2026-10-13T17:44:03.154Z"
-    },
-    {
-      "name": "Always",
-      "artist": "Saliva",
-      "url": "https://open.spotify.com/track/2HerxRQish8VLHvu20oxz2",
-      "image": "https://i.scdn.co/image/ab67616d000048516c840320b77e2a7e569f24ef",
-      "played_at": "2026-10-13T17:41:21.157Z"
-    },
-    {
-      "name": "Gimme That Boom",
-      "artist": "Skindred",
-      "url": "https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j",
-      "image": "https://i.scdn.co/image/ab67616d0000485158bba342cc60783fff648dc0",
-      "played_at": "2026-10-13T17:37:34.660Z"
-    },
-    {
-      "name": "Electric Eye",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
-      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-10-13T17:33:05.175Z"
     }
   ]
 }
