@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-13T20:25:23.704Z",
+  "updated": "2026-10-14T00:01:11.189Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "The Beautiful People",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR",
+      "image": "https://i.scdn.co/image/ab67616d00004851c61d3a663bd18fe8cd97c947",
+      "played_at": "2026-10-13T20:40:05.390Z"
+    },
     {
       "name": "Afterlife",
       "artist": "Avenged Sevenfold",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
       "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
       "played_at": "2026-10-13T17:33:05.175Z"
-    },
-    {
-      "name": "Jenny",
-      "artist": "NOTHING MORE",
-      "url": "https://open.spotify.com/track/2CASGo9Wmd6Dxrq3ygnRjf",
-      "image": "https://i.scdn.co/image/ab67616d00004851a6780d9c98263297fdeb544f",
-      "played_at": "2026-10-13T17:32:56.425Z"
     }
   ]
 }
