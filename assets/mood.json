@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-14T19:02:14.404Z",
+  "updated": "2026-10-14T23:32:11.338Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "You're Going Down",
+      "artist": "SICK PUPPIES",
+      "url": "https://open.spotify.com/track/5FQXMRDSTkn9fowDJ3kZo8",
+      "image": "https://i.scdn.co/image/ab67616d000048510bccc1eafb39ec9629368df6",
+      "played_at": "2026-10-14T19:56:45.487Z"
+    },
     {
       "name": "Two Weeks",
       "artist": "All That Remains",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z",
       "image": "https://i.scdn.co/image/ab67616d00004851030cda12ffbebd6561c1c0f0",
       "played_at": "2026-10-14T17:33:30.456Z"
-    },
-    {
-      "name": "Don't Stay",
-      "artist": "Linkin Park",
-      "url": "https://open.spotify.com/track/2yss0n7KmvmSr4EHvjfFpn",
-      "image": "https://i.scdn.co/image/ab67616d000048518b5b6fa1326d996181e71dd7",
-      "played_at": "2026-10-14T17:29:39.850Z"
     }
   ]
 }
