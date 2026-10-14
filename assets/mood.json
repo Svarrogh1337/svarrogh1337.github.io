@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-14T08:09:18.429Z",
+  "updated": "2026-10-14T14:09:47.841Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Nobody Like You",
-      "artist": "Limp Bizkit",
-      "url": "https://open.spotify.com/track/5VNMlLgQdpo2ksrYzD9ANy",
-      "image": "https://i.scdn.co/image/ab67616d000048513783782de74f61e36795bf9c",
-      "played_at": "2026-10-14T07:58:29.382Z"
+      "name": "Zombie",
+      "artist": "Bad Wolves",
+      "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n",
+      "image": "https://i.scdn.co/image/ab67616d0000485106cdc3d1ed5a052dd729bd7f",
+      "played_at": "2026-10-14T14:02:51.849Z"
     },
     {
-      "name": "Remenissions",
-      "artist": "Avenged Sevenfold",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd1f9d8bb6c1c9c2cb229837",
-      "played_at": "2026-10-14T07:58:29.381Z"
+      "name": "Break",
+      "artist": "Three Days Grace",
+      "url": "https://open.spotify.com/track/4urxRqBRiaH0i20OKBsgxc",
+      "image": "https://i.scdn.co/image/ab67616d0000485179ec8ec1cc30d29d4ee6ca24",
+      "played_at": "2026-10-14T14:00:10.922Z"
     },
     {
-      "name": "Symphony Of Destruction - Remastered 2012",
-      "artist": "Megadeth",
-      "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
-      "image": "https://i.scdn.co/image/ab67616d000048514be345f026469be09f12a92e",
-      "played_at": "2026-10-14T05:54:10.804Z"
+      "name": "The Kill",
+      "artist": "Thirty Seconds To Mars",
+      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq",
+      "image": "https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854",
+      "played_at": "2026-10-14T13:58:42.050Z"
     },
     {
-      "name": "The Beautiful People",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR",
-      "image": "https://i.scdn.co/image/ab67616d00004851c61d3a663bd18fe8cd97c947",
-      "played_at": "2026-10-13T20:40:05.390Z"
+      "name": "Painkiller",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08",
+      "image": "https://i.scdn.co/image/ab67616d0000485160db4ca924d17bc6754e89aa",
+      "played_at": "2026-10-14T12:28:43.667Z"
     },
     {
-      "name": "Afterlife",
-      "artist": "Avenged Sevenfold",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n",
-      "image": "https://i.scdn.co/image/ab67616d0000485133c52ca8309741c6999ca742",
-      "played_at": "2026-10-13T17:49:50.546Z"
+      "name": "Stranded",
+      "artist": "Gojira",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV",
+      "image": "https://i.scdn.co/image/ab67616d00004851422c622517ea0bd7eda33e08",
+      "played_at": "2026-10-14T12:22:42.860Z"
     },
     {
-      "name": "Heavy Is the Crown",
-      "artist": "Linkin Park",
-      "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0",
-      "image": "https://i.scdn.co/image/ab67616d000048518be9eeb8f19696ef2fd3b6b4",
-      "played_at": "2026-10-13T17:44:03.154Z"
+      "name": "Soldier of Heaven",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/2c03eSv5IkwbDty49pKg1L",
+      "image": "https://i.scdn.co/image/ab67616d000048514973c03327b47148881afe9c",
+      "played_at": "2026-10-14T12:22:05.091Z"
     }
   ]
 }
