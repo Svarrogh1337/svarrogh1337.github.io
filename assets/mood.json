@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-16T13:36:51.181Z",
+  "updated": "2026-10-16T18:30:33.702Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Whiplash",
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-10-16T18:29:28.974Z"
+    },
+    {
+      "name": "Curse",
       "artist": "Architects",
-      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
+      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad",
       "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
-      "played_at": "2026-10-16T13:34:42.046Z"
+      "played_at": "2026-10-16T18:25:14.095Z"
     },
     {
-      "name": "Iris",
-      "artist": "DIAMANTE, Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed",
-      "image": "https://i.scdn.co/image/ab67616d000048513576c7906ed972dd32301feb",
-      "played_at": "2026-10-16T13:31:00.947Z"
+      "name": "I Hate Everything About You",
+      "artist": "Three Days Grace",
+      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi",
+      "image": "https://i.scdn.co/image/ab67616d000048515d4bd2c345c95e847b586403",
+      "played_at": "2026-10-16T18:22:18.211Z"
     },
     {
-      "name": "No Love In LA",
-      "artist": "Palaye Royale",
-      "url": "https://open.spotify.com/track/5fxLDu6ZpG9TPZYWLSkNet",
-      "image": "https://i.scdn.co/image/ab67616d00004851ea00cf71bf14954c1e774643",
-      "played_at": "2026-10-16T13:27:21.062Z"
+      "name": "Two Weeks",
+      "artist": "All That Remains",
+      "url": "https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL",
+      "image": "https://i.scdn.co/image/ab67616d000048518d0bac50ac43d247cbf139df",
+      "played_at": "2026-10-16T18:18:31.476Z"
     },
     {
-      "name": "Under Your Scars",
-      "artist": "Godsmack",
-      "url": "https://open.spotify.com/track/47wJ2fVFqYGVsmaMXFkG7h",
-      "image": "https://i.scdn.co/image/ab67616d00004851760605e88288999f4db3d96d",
-      "played_at": "2026-10-16T13:24:03.903Z"
+      "name": "Heaven",
+      "artist": "DJ Sammy, Yanou, Do",
+      "url": "https://open.spotify.com/track/0V7oLs7j1j1kucu67TkVmr",
+      "image": "https://i.scdn.co/image/ab67616d00004851b444e028965f5e709947ac1a",
+      "played_at": "2026-10-16T18:14:08.511Z"
     },
     {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF",
-      "image": "https://i.scdn.co/image/ab67616d00004851fb20c4d9517ee644867b27cd",
-      "played_at": "2026-10-16T13:20:17.768Z"
-    },
-    {
-      "name": "Left Outside Alone",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3Nm61gQJ2eeO9YuSmdEGqu",
-      "image": "https://i.scdn.co/image/ab67616d0000485121ac2e5d2730276f4a933794",
-      "played_at": "2026-10-16T13:17:17.602Z"
+      "name": "Kernkraft 400 - Sport Chant Stadium Remix",
+      "artist": "Zombie Nation",
+      "url": "https://open.spotify.com/track/3f2fyR55BFMl3ZWS5S3BUZ",
+      "image": "https://i.scdn.co/image/ab67616d000048511ca46901bf34a41f1e6d7bc2",
+      "played_at": "2026-10-16T15:33:18.248Z"
     }
   ]
 }
