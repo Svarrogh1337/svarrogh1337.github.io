@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-16T02:09:42.503Z",
+  "updated": "2026-10-16T07:38:42.455Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Dragula",
-      "artist": "Rob Zombie",
-      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
-      "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
-      "played_at": "2026-10-15T21:01:47.979Z"
+      "name": "Living After Midnight",
+      "artist": "Judas Priest",
+      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4",
+      "image": "https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62",
+      "played_at": "2026-10-16T07:36:04.751Z"
     },
     {
-      "name": "So Help Me God",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-15T19:25:21.056Z"
+      "name": "Hardwired",
+      "artist": "Metallica",
+      "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1",
+      "image": "https://i.scdn.co/image/ab67616d00004851ee498e8074b8df8e375abe04",
+      "played_at": "2026-10-16T07:32:39.614Z"
     },
     {
-      "name": "TANZNEID",
-      "artist": "Electric Callboy",
-      "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
-      "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
-      "played_at": "2026-10-15T19:20:42.300Z"
+      "name": "Redneck",
+      "artist": "Lamb of God",
+      "url": "https://open.spotify.com/track/1WZVnw0YWc7OLkVijEargx",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd4ec2b2d9f36007ee69abb4",
+      "played_at": "2026-10-16T07:29:35.281Z"
     },
     {
-      "name": "This Is The New Shit",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-10-15T19:17:42.114Z"
+      "name": "Paranoid - 2009 Remaster",
+      "artist": "Black Sabbath",
+      "url": "https://open.spotify.com/track/3Jnxngdff0lVu2rza1GVx6",
+      "image": "https://i.scdn.co/image/ab67616d00004851605b25c031f809d78054a13c",
+      "played_at": "2026-10-16T07:25:59.374Z"
     },
     {
-      "name": "Curse",
-      "artist": "Architects",
-      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
-      "played_at": "2026-10-15T19:13:15Z"
+      "name": "A Tout Le Monde - Remastered 2004",
+      "artist": "Megadeth",
+      "url": "https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM",
+      "image": "https://i.scdn.co/image/ab67616d000048513171798d5cfc745f0ba24c84",
+      "played_at": "2026-10-16T07:23:16.680Z"
     },
     {
-      "name": "I Hate Everything About You",
-      "artist": "Three Days Grace",
-      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi",
-      "image": "https://i.scdn.co/image/ab67616d000048515d4bd2c345c95e847b586403",
-      "played_at": "2026-10-15T19:10:18.913Z"
+      "name": "The Devil's Bleeding Crown",
+      "artist": "Volbeat",
+      "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y",
+      "image": "https://i.scdn.co/image/ab67616d00004851af770a3e65634b9ed7b00e8c",
+      "played_at": "2026-10-16T07:18:59.547Z"
     }
   ]
 }
