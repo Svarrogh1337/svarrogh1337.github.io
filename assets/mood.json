@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-17T19:49:18.210Z",
+  "updated": "2026-10-17T22:45:32.611Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "When We Were Young (The Logical Song)",
+      "artist": "David Guetta, Kim Petras",
+      "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq",
+      "image": "https://i.scdn.co/image/ab67616d00004851debb9f22652c1898801adf01",
+      "played_at": "2026-10-17T20:41:03.324Z"
+    },
     {
       "name": "Raindrops (Encore une fois Pt. II) - Kindervater Radio Edit",
       "artist": "Sash!, Stunt, Kindervater",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg",
       "image": "https://i.scdn.co/image/ab67616d0000485166444beed09a03b28ea27d7c",
       "played_at": "2026-10-17T18:11:17.870Z"
-    },
-    {
-      "name": "Tricky Tricky",
-      "artist": "W&W, Timmy Trumpet, Will Sparks, DJ Sequenza",
-      "url": "https://open.spotify.com/track/3MhymzaFcj7bXVJzB0ZJb8",
-      "image": "https://i.scdn.co/image/ab67616d0000485160605009b2f5c38079b31ed6",
-      "played_at": "2026-10-17T18:08:37.330Z"
     }
   ]
 }
