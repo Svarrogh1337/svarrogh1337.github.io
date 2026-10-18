@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-18T17:39:14.084Z",
+  "updated": "2026-10-18T19:50:28.314Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Unfaithful",
-      "artist": "Blasterjaxx",
-      "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8",
-      "image": "https://i.scdn.co/image/ab67616d00004851d77e022c8b469f39e355b0fb",
-      "played_at": "2026-10-18T15:09:29.243Z"
+      "name": "90s Bitch",
+      "artist": "Maddix, The Rocketman",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP",
+      "image": "https://i.scdn.co/image/ab67616d000048517fe1a6c0b38c2649638eda7b",
+      "played_at": "2026-10-18T18:34:53.657Z"
     },
     {
-      "name": "WOW",
-      "artist": "Tiësto",
-      "url": "https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z",
-      "image": "https://i.scdn.co/image/ab67616d0000485196a02d0546177208698e33ec",
-      "played_at": "2026-10-18T14:30:24.971Z"
+      "name": "My Gasoline",
+      "artist": "Maddix, Fēlēs",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE",
+      "image": "https://i.scdn.co/image/ab67616d0000485199ebb63d3ccbc4115fbbdbf5",
+      "played_at": "2026-10-18T18:31:42.391Z"
+    },
+    {
+      "name": "Tell Me Why - Maddix Remix",
+      "artist": "Supermode, Maddix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C",
+      "image": "https://i.scdn.co/image/ab67616d0000485133f6afe6415e2a392f6b1247",
+      "played_at": "2026-10-18T18:27:50.394Z"
     },
     {
       "name": "Heute Nacht",
       "artist": "Maddix",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
       "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
-      "played_at": "2026-10-18T11:38:55.012Z"
+      "played_at": "2026-10-18T18:24:44.200Z"
     },
     {
-      "name": "Hooked",
-      "artist": "NOTION",
-      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM",
-      "image": "https://i.scdn.co/image/ab67616d00004851669e196874273595fb78bb1b",
-      "played_at": "2026-10-18T11:21:06.430Z"
+      "name": "Freed From Desire",
+      "artist": "WESCALATIE, The Infamous, MORY",
+      "url": "https://open.spotify.com/track/1Q9AA6bYXxJBXPxBeQsLf5",
+      "image": "https://i.scdn.co/image/ab67616d00004851b4d30417f049e76fbfab41bc",
+      "played_at": "2026-10-18T18:02:10.787Z"
     },
     {
-      "name": "All the Things She Said",
-      "artist": "Robin Schulz, Timmy Trumpet, KOPPY",
-      "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx",
-      "image": "https://i.scdn.co/image/ab67616d000048513b1e9c50f728b9a2d3e85f9f",
-      "played_at": "2026-10-18T11:17:45.160Z"
-    },
-    {
-      "name": "Renaissance",
-      "artist": "DJ Kuba, Neitan, RAVEKINGS",
-      "url": "https://open.spotify.com/track/10uIWr3PXul5WzJBy1hskO",
-      "image": "https://i.scdn.co/image/ab67616d000048513a316feadee8f09e7a57ff9a",
-      "played_at": "2026-10-18T11:15:04.867Z"
+      "name": "Kisses (feat. bbyclose)",
+      "artist": "BL3SS, CamrinWatsin, bbyclose",
+      "url": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA",
+      "image": "https://i.scdn.co/image/ab67616d00004851232a4dce4425693c25950e72",
+      "played_at": "2026-10-18T17:59:41.350Z"
     }
   ]
 }
