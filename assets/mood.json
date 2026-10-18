@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-18T07:31:13.516Z",
+  "updated": "2026-10-18T12:51:29.783Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Trust Me",
-      "artist": "Nemo Schiffman",
-      "url": "https://open.spotify.com/track/0JwQJWGGODr9uNGKDgLgYG",
-      "image": "https://i.scdn.co/image/ab67616d00004851a4d29cdcc75c0e4e4315025b",
-      "played_at": "2026-10-18T07:13:11.059Z"
+      "name": "Heute Nacht",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
+      "played_at": "2026-10-18T11:38:55.012Z"
     },
     {
-      "name": "Only",
-      "artist": "Imagine Dragons",
-      "url": "https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf",
-      "image": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
-      "played_at": "2026-10-18T07:13:05.996Z"
+      "name": "WOW",
+      "artist": "Tiësto",
+      "url": "https://open.spotify.com/track/3qPXWPkEZgUhUgPifbE99z",
+      "image": "https://i.scdn.co/image/ab67616d0000485196a02d0546177208698e33ec",
+      "played_at": "2026-10-18T11:35:09.636Z"
     },
     {
-      "name": "My Blood",
-      "artist": "AlunaGeorge, ZHU",
-      "url": "https://open.spotify.com/track/2HxaymsvYQpZLD3FWWE1NV",
-      "image": "https://i.scdn.co/image/ab67616d0000485110e8d6268527e7c76fa9f8c7",
-      "played_at": "2026-10-18T07:09:41.171Z"
+      "name": "Hooked",
+      "artist": "NOTION",
+      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM",
+      "image": "https://i.scdn.co/image/ab67616d00004851669e196874273595fb78bb1b",
+      "played_at": "2026-10-18T11:21:06.430Z"
     },
     {
-      "name": "Gia Panta",
-      "artist": "Stavento, Ivi Adamou",
-      "url": "https://open.spotify.com/track/1pmglO62owSMloIYAwVWuF",
-      "image": "https://i.scdn.co/image/ab67616d000048519b8bbb035fcfc42c5187006d",
-      "played_at": "2026-10-18T07:05:50.569Z"
+      "name": "All the Things She Said",
+      "artist": "Robin Schulz, Timmy Trumpet, KOPPY",
+      "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx",
+      "image": "https://i.scdn.co/image/ab67616d000048513b1e9c50f728b9a2d3e85f9f",
+      "played_at": "2026-10-18T11:17:45.160Z"
     },
     {
-      "name": "Rollin' (Air Raid Vehicle)",
-      "artist": "Limp Bizkit",
-      "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz",
-      "image": "https://i.scdn.co/image/ab67616d000048514a31b146c7cf07705d912efe",
-      "played_at": "2026-10-18T07:01:35.134Z"
+      "name": "Renaissance",
+      "artist": "DJ Kuba, Neitan, RAVEKINGS",
+      "url": "https://open.spotify.com/track/10uIWr3PXul5WzJBy1hskO",
+      "image": "https://i.scdn.co/image/ab67616d000048513a316feadee8f09e7a57ff9a",
+      "played_at": "2026-10-18T11:15:04.867Z"
     },
     {
-      "name": "Clint Eastwood",
-      "artist": "Gorillaz, Del The Funky Homosapien",
-      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx",
-      "image": "https://i.scdn.co/image/ab67616d00004851f6c46838e4425ea96e2562fe",
-      "played_at": "2026-10-18T06:58:00.093Z"
+      "name": "Ti Sento",
+      "artist": "Scooter",
+      "url": "https://open.spotify.com/track/56CPRuNx39ryEA5AHxaxNZ",
+      "image": "https://i.scdn.co/image/ab67616d00004851514fe7c75c6175cc8d9073d8",
+      "played_at": "2026-10-18T11:12:22.039Z"
     }
   ]
 }
