@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-19T15:59:46.842Z",
+  "updated": "2026-10-19T21:50:38.159Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Heute Nacht",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
+      "played_at": "2026-10-19T18:36:48.316Z"
+    },
+    {
+      "name": "Tell Me Why - Maddix Remix",
+      "artist": "Supermode, Maddix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C",
+      "image": "https://i.scdn.co/image/ab67616d0000485133f6afe6415e2a392f6b1247",
+      "played_at": "2026-10-19T18:27:35.814Z"
+    },
+    {
+      "name": "Cum on Feel the Noize",
+      "artist": "Quiet Riot",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla",
+      "image": "https://i.scdn.co/image/ab67616d0000485121fbdd09672c5f8bcfd66165",
+      "played_at": "2026-10-19T18:07:25.998Z"
+    },
     {
       "name": "The Hellion / Electric Eye",
       "artist": "Judas Priest",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD",
       "image": "https://i.scdn.co/image/ab67616d000048514be345f026469be09f12a92e",
       "played_at": "2026-10-19T15:02:54.449Z"
-    },
-    {
-      "name": "The Sentinel",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2",
-      "image": "https://i.scdn.co/image/ab67616d00004851bc22adfbb796489be45491d2",
-      "played_at": "2026-10-19T14:58:57.572Z"
-    },
-    {
-      "name": "Heaven and Hell",
-      "artist": "Black Sabbath",
-      "url": "https://open.spotify.com/track/5qxN63QA4Hk1zgdLCsZFE2",
-      "image": "https://i.scdn.co/image/ab67616d00004851a48447e72e8c507054c2ec2e",
-      "played_at": "2026-10-19T14:51:00.755Z"
-    },
-    {
-      "name": "The Wicker Man - Live '01",
-      "artist": "Iron Maiden",
-      "url": "https://open.spotify.com/track/1tXr6xy4msvYAQfXLUavxa",
-      "image": "https://i.scdn.co/image/ab67616d00004851f405f63cea750deafb019722",
-      "played_at": "2026-10-19T14:44:07.872Z"
     }
   ]
 }
