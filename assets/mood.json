@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-19T02:19:23.896Z",
+  "updated": "2026-10-19T08:14:48.421Z",
   "sample": false,
   "tracks": [
-    {
-      "name": "90s Bitch",
-      "artist": "Maddix, The Rocketman",
-      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP",
-      "image": "https://i.scdn.co/image/ab67616d000048517fe1a6c0b38c2649638eda7b",
-      "played_at": "2026-10-18T18:34:53.657Z"
-    },
-    {
-      "name": "My Gasoline",
-      "artist": "Maddix, Fēlēs",
-      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE",
-      "image": "https://i.scdn.co/image/ab67616d0000485199ebb63d3ccbc4115fbbdbf5",
-      "played_at": "2026-10-18T18:31:42.391Z"
-    },
-    {
-      "name": "Tell Me Why - Maddix Remix",
-      "artist": "Supermode, Maddix",
-      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C",
-      "image": "https://i.scdn.co/image/ab67616d0000485133f6afe6415e2a392f6b1247",
-      "played_at": "2026-10-18T18:27:50.394Z"
-    },
     {
       "name": "Heute Nacht",
       "artist": "Maddix",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
       "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
-      "played_at": "2026-10-18T18:24:44.200Z"
+      "played_at": "2026-10-19T07:43:48.391Z"
     },
     {
-      "name": "Freed From Desire",
-      "artist": "WESCALATIE, The Infamous, MORY",
-      "url": "https://open.spotify.com/track/1Q9AA6bYXxJBXPxBeQsLf5",
-      "image": "https://i.scdn.co/image/ab67616d00004851b4d30417f049e76fbfab41bc",
-      "played_at": "2026-10-18T18:02:10.787Z"
+      "name": "TEMPORARY FRIENDS",
+      "artist": "NOTION, Charlotte Plank",
+      "url": "https://open.spotify.com/track/2WlXPpZlL8Oy0CI67okGPw",
+      "image": "https://i.scdn.co/image/ab67616d00004851a6d6fcc8a586e6ba4966f25c",
+      "played_at": "2026-10-19T07:39:08.582Z"
+    },
+    {
+      "name": "I Don't Wanna Wait - Hardwell & Olly James Remix",
+      "artist": "David Guetta, OneRepublic, Hardwell, Olly James",
+      "url": "https://open.spotify.com/track/0GOXlShsWOp7BQ7nt9uwUL",
+      "image": "https://i.scdn.co/image/ab67616d000048519ef89c51d1fecfb07f7c90d5",
+      "played_at": "2026-10-19T07:36:11.850Z"
+    },
+    {
+      "name": "Better Off Alone",
+      "artist": "Alice Deejay",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj",
+      "image": "https://i.scdn.co/image/ab67616d000048518d897b8994ce008298200408",
+      "played_at": "2026-10-19T07:33:13.619Z"
     },
     {
       "name": "Kisses (feat. bbyclose)",
       "artist": "BL3SS, CamrinWatsin, bbyclose",
       "url": "https://open.spotify.com/track/2A1aS3mwuGuX2yk1bgxOvA",
       "image": "https://i.scdn.co/image/ab67616d00004851232a4dce4425693c25950e72",
-      "played_at": "2026-10-18T17:59:41.350Z"
+      "played_at": "2026-10-19T07:29:43.777Z"
+    },
+    {
+      "name": "Turn The Lights Off",
+      "artist": "Kato, Jon",
+      "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS",
+      "image": "https://i.scdn.co/image/ab67616d000048512046ff71c29ccec4268dcac6",
+      "played_at": "2026-10-19T07:27:30.463Z"
     }
   ]
 }
