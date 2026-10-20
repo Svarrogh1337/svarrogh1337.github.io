@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-20T13:57:12.042Z",
+  "updated": "2026-10-20T18:49:04.429Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Rolling",
-      "artist": "Maddix, Space 92",
-      "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc",
-      "image": "https://i.scdn.co/image/ab67616d00004851fea30c708cd62cdf814c49a7",
-      "played_at": "2026-10-20T13:54:37.159Z"
+      "name": "Tell Me Why - Maddix Remix",
+      "artist": "Supermode, Maddix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C",
+      "image": "https://i.scdn.co/image/ab67616d0000485133f6afe6415e2a392f6b1247",
+      "played_at": "2026-10-20T16:28:28.279Z"
     },
     {
-      "name": "Favela",
+      "name": "Heute Nacht",
       "artist": "Maddix",
-      "url": "https://open.spotify.com/track/15il8Mg8sAiy7eqISGoJK6",
-      "image": "https://i.scdn.co/image/ab67616d00004851276d722fd4fe200cbfb77b90",
-      "played_at": "2026-10-20T13:51:51.845Z"
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
+      "played_at": "2026-10-20T16:25:12.736Z"
     },
     {
-      "name": "Activating",
-      "artist": "Maddix",
-      "url": "https://open.spotify.com/track/3pazCuwZT3PIxjCiWEZdfY",
-      "image": "https://i.scdn.co/image/ab67616d000048516cb8ac4dae6d3b94263721a0",
-      "played_at": "2026-10-20T13:48:35.572Z"
+      "name": "Rave Therapy",
+      "artist": "Maddix, Bassjackers",
+      "url": "https://open.spotify.com/track/26SBh3qrxSkpVqLRQkcSbU",
+      "image": "https://i.scdn.co/image/ab67616d00004851d5ef6cf164503679acd32af2",
+      "played_at": "2026-10-20T15:52:50.294Z"
     },
     {
-      "name": "Superheroes",
-      "artist": "Maddix",
-      "url": "https://open.spotify.com/track/61Jbc8ryoXMSVc1DO8e3sV",
-      "image": "https://i.scdn.co/image/ab67616d0000485174b364dd60a1094d167f3f5d",
-      "played_at": "2026-10-20T13:45:51.665Z"
+      "name": "Satisfaction - Hardwell & Maddix Remix",
+      "artist": "David Guetta, Benny Benassi, Hardwell, Maddix",
+      "url": "https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD",
+      "image": "https://i.scdn.co/image/ab67616d00004851fd978394eb97dd6e66df94cc",
+      "played_at": "2026-10-20T15:50:17.574Z"
     },
     {
-      "name": "Transmission",
-      "artist": "Maddix, Olly James, Hannah Laing",
-      "url": "https://open.spotify.com/track/4mibonjnCp3wKEzoEphoTs",
-      "image": "https://i.scdn.co/image/ab67616d00004851b1da8b9c4467c59aa45fd60b",
-      "played_at": "2026-10-20T13:43:09.586Z"
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-10-20T15:46:47.974Z"
     },
     {
-      "name": "Never Alone",
-      "artist": "Maddix, The Rocketman, 2 Brothers On The 4th Floor",
-      "url": "https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw",
-      "image": "https://i.scdn.co/image/ab67616d00004851ca20dd44002579379bcce57b",
-      "played_at": "2026-10-20T13:40:02.297Z"
+      "name": "Bella Ciao",
+      "artist": "Hardwell, Maddix",
+      "url": "https://open.spotify.com/track/3M0NUo9eoV5otcWVIPNrwD",
+      "image": "https://i.scdn.co/image/ab67616d00004851b05ef41b5ab6622b9f331480",
+      "played_at": "2026-10-20T15:14:12.144Z"
     }
   ]
 }
