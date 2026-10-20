@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-20T18:49:04.429Z",
+  "updated": "2026-10-20T23:31:23.792Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Heute Nacht",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
+      "played_at": "2026-10-20T20:31:18.233Z"
+    },
     {
       "name": "Tell Me Why - Maddix Remix",
       "artist": "Supermode, Maddix",
       "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C",
       "image": "https://i.scdn.co/image/ab67616d0000485133f6afe6415e2a392f6b1247",
       "played_at": "2026-10-20T16:28:28.279Z"
-    },
-    {
-      "name": "Heute Nacht",
-      "artist": "Maddix",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
-      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
-      "played_at": "2026-10-20T16:25:12.736Z"
     },
     {
       "name": "Rave Therapy",
