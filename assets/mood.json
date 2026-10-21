@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-21T08:05:58.370Z",
+  "updated": "2026-10-21T14:13:21.361Z",
   "sample": false,
   "tracks": [
     {
-      "name": "The Last Stand",
-      "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/0bUgTRe5st6TMbRCEjKezX",
-      "image": "https://i.scdn.co/image/ab67616d000048510c100c40bdedea776770e7aa",
-      "played_at": "2026-10-21T07:57:03.683Z"
+      "name": "Activating",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/3pazCuwZT3PIxjCiWEZdfY",
+      "image": "https://i.scdn.co/image/ab67616d000048516cb8ac4dae6d3b94263721a0",
+      "played_at": "2026-10-21T14:06:54.170Z"
     },
     {
-      "name": "Romance Is Dead",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP",
-      "image": "https://i.scdn.co/image/ab67616d00004851e89c4f11ac3cd453856647eb",
-      "played_at": "2026-10-21T07:49:33.521Z"
+      "name": "Superheroes",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/61Jbc8ryoXMSVc1DO8e3sV",
+      "image": "https://i.scdn.co/image/ab67616d0000485174b364dd60a1094d167f3f5d",
+      "played_at": "2026-10-21T14:04:10.267Z"
     },
     {
-      "name": "Karma",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f",
-      "image": "https://i.scdn.co/image/ab67616d000048511f0517fafeb0dc29db39ffb7",
-      "played_at": "2026-10-21T07:44:20.519Z"
+      "name": "Transmission",
+      "artist": "Maddix, Olly James, Hannah Laing",
+      "url": "https://open.spotify.com/track/4mibonjnCp3wKEzoEphoTs",
+      "image": "https://i.scdn.co/image/ab67616d00004851b1da8b9c4467c59aa45fd60b",
+      "played_at": "2026-10-21T14:01:28.234Z"
     },
     {
-      "name": "Darker Still",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-10-21T07:40:36.402Z"
+      "name": "Never Alone",
+      "artist": "Maddix, The Rocketman, 2 Brothers On The 4th Floor",
+      "url": "https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw",
+      "image": "https://i.scdn.co/image/ab67616d00004851ca20dd44002579379bcce57b",
+      "played_at": "2026-10-21T13:58:20.952Z"
     },
     {
-      "name": "Bottom Feeder",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym",
-      "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
-      "played_at": "2026-10-21T07:33:50.624Z"
+      "name": "We Rave",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/2MIhR0sRGmJVBSvtkkUokk",
+      "image": "https://i.scdn.co/image/ab67616d00004851c46d1e1cc028fe7320138d1d",
+      "played_at": "2026-10-21T13:55:05.233Z"
     },
     {
-      "name": "Boneyards",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0",
-      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
-      "played_at": "2026-10-21T07:29:35.465Z"
+      "name": "Acid For Breakfast",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql",
+      "image": "https://i.scdn.co/image/ab67616d00004851702ad4ae07d2f900f75b76ce",
+      "played_at": "2026-10-21T13:52:15.266Z"
     }
   ]
 }
