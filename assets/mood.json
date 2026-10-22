@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-21T23:47:03.045Z",
+  "updated": "2026-10-22T02:23:13.094Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Prey - Live at the Sydney Opera House",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA",
+      "image": "https://i.scdn.co/image/ab67616d000048518e8206bfc87f21377b0b407f",
+      "played_at": "2026-10-22T02:21:51.542Z"
+    },
     {
       "name": "TANZNEID",
       "artist": "Electric Callboy",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/7z6NYPzC6rYN6Z0TIzwDHw",
       "image": "https://i.scdn.co/image/ab67616d00004851c2647e4c1a5695a3bc5dac78",
       "played_at": "2026-10-21T17:32:07.690Z"
-    },
-    {
-      "name": "This Is The New Shit",
-      "artist": "Marilyn Manson",
-      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
-      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
-      "played_at": "2026-10-21T17:29:07.492Z"
     }
   ]
 }
