@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-22T18:57:10.377Z",
+  "updated": "2026-10-22T23:45:47.812Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Carrion",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M",
-      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
-      "played_at": "2026-10-22T15:59:17.697Z"
+      "name": "Mein Herz brennt",
+      "artist": "Eleine",
+      "url": "https://open.spotify.com/track/2LcFM0W0vrNtpJB9GcQphU",
+      "image": "https://i.scdn.co/image/ab67616d00004851ce965578345576f348e20b96",
+      "played_at": "2026-10-22T19:37:03.364Z"
     },
     {
-      "name": "The Void",
+      "name": "Bodies",
+      "artist": "Drowning Pool",
+      "url": "https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y",
+      "image": "https://i.scdn.co/image/ab67616d0000485126d45b50f2016fed43d54320",
+      "played_at": "2026-10-22T19:24:10.283Z"
+    },
+    {
+      "name": "Mystica",
+      "artist": "Axel Rudi Pell",
+      "url": "https://open.spotify.com/track/42nqu2nIfmYF415yn3IrWI",
+      "image": "https://i.scdn.co/image/ab67616d00004851a856795ba307c14c32a6b7f5",
+      "played_at": "2026-10-22T19:17:09.288Z"
+    },
+    {
+      "name": "No Chance to Live",
+      "artist": "Axel Rudi Pell",
+      "url": "https://open.spotify.com/track/5BIG8qQEyOC0iVJJ8gruwP",
+      "image": "https://i.scdn.co/image/ab67616d000048515ed3ce77ee1ca2fd0cde8d76",
+      "played_at": "2026-10-22T19:08:41.001Z"
+    },
+    {
+      "name": "Prey - Live at the Sydney Opera House",
       "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq",
+      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA",
+      "image": "https://i.scdn.co/image/ab67616d000048518e8206bfc87f21377b0b407f",
+      "played_at": "2026-10-22T19:02:21.657Z"
+    },
+    {
+      "name": "Prey",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ",
       "image": "https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd",
-      "played_at": "2026-10-22T15:45:01.246Z"
-    },
-    {
-      "name": "Crushed",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/2BzEsfwqucjlBSFu8s74sz",
-      "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
-      "played_at": "2026-10-22T15:39:45.555Z"
-    },
-    {
-      "name": "Up To No Good",
-      "artist": "D'Angello & Francis",
-      "url": "https://open.spotify.com/track/6PuGOIAMLdSBOsxxQz7PHm",
-      "image": "https://i.scdn.co/image/ab67616d000048517570f7a935900bc3b7fd08e8",
-      "played_at": "2026-10-22T15:09:27.484Z"
-    },
-    {
-      "name": "Bottom Feeder",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym",
-      "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
-      "played_at": "2026-10-22T15:05:38.976Z"
-    },
-    {
-      "name": "Sacred",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
-      "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
-      "played_at": "2026-10-22T15:01:23.838Z"
+      "played_at": "2026-10-22T19:01:56.792Z"
     }
   ]
 }
