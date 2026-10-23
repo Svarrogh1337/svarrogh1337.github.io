@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-23T18:47:08.137Z",
+  "updated": "2026-10-23T23:38:55.794Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "The Haunting (Somewhere in Time) [feat. Simone Simons]",
+      "artist": "Kamelot, Simone Simons",
+      "url": "https://open.spotify.com/track/4riKzzeTonEgPN9OCCvMqQ",
+      "image": "https://i.scdn.co/image/ab67616d000048515b9b5d2578018c632748d8e1",
+      "played_at": "2026-10-23T20:24:09.683Z"
+    },
     {
       "name": "Ashen World (feat. Ignacia Fernández)",
       "artist": "Kamelot, Ignacia Fernandez",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R",
       "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
       "played_at": "2026-10-23T18:01:42.541Z"
-    },
-    {
-      "name": "Wild Eyes",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
-      "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
-      "played_at": "2026-10-23T17:57:23.731Z"
     }
   ]
 }
