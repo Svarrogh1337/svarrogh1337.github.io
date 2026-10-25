@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-25T02:13:37.798Z",
+  "updated": "2026-10-25T07:54:31.643Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Blade",
-      "artist": "DJ Kuba, Neitan, Bounce Inc.",
-      "url": "https://open.spotify.com/track/5oAyw9c4VvHaEdiAfLQobC",
-      "image": "https://i.scdn.co/image/ab67616d000048519a48506e257b466228bf56a5",
-      "played_at": "2026-10-25T02:08:37.691Z"
-    },
-    {
-      "name": "Russia Privjet",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/4ZW1Ghu4P0DZJwrHM3xANd",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-10-25T02:05:32.787Z"
-    },
-    {
-      "name": "Ti Sento",
+      "name": "Rebel Yell",
       "artist": "Scooter",
-      "url": "https://open.spotify.com/track/56CPRuNx39ryEA5AHxaxNZ",
-      "image": "https://i.scdn.co/image/ab67616d00004851514fe7c75c6175cc8d9073d8",
-      "played_at": "2026-10-25T02:01:30.043Z"
+      "url": "https://open.spotify.com/track/0sZ1lpLH6ISsgJNt66M1CP",
+      "image": "https://i.scdn.co/image/ab67616d00004851ff32f8fdb9aae1dc67375f96",
+      "played_at": "2026-10-25T05:31:12.500Z"
     },
     {
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "artist": "BENNETT, Mentissa",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V",
-      "image": "https://i.scdn.co/image/ab67616d00004851ee25fa304f5c99e17589b8fb",
-      "played_at": "2026-10-25T01:57:39.973Z"
+      "name": "90s Bitch",
+      "artist": "Maddix, The Rocketman",
+      "url": "https://open.spotify.com/track/2GcncPaqXotQIPokzRM5pP",
+      "image": "https://i.scdn.co/image/ab67616d000048517fe1a6c0b38c2649638eda7b",
+      "played_at": "2026-10-25T05:27:18.428Z"
     },
     {
-      "name": "Dreams (Will Come Alive)",
-      "artist": "2 Brothers On The 4th Floor",
-      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr",
-      "image": "https://i.scdn.co/image/ab67616d000048515385ba21cf892a0faefd6f19",
-      "played_at": "2026-10-25T01:54:24.268Z"
+      "name": "Stamp On The Ground",
+      "artist": "ItaloBrothers",
+      "url": "https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl",
+      "image": "https://i.scdn.co/image/ab67616d000048512016a5cf5888dbfd036872e6",
+      "played_at": "2026-10-25T05:24:07.174Z"
     },
     {
-      "name": "Forgiven",
-      "artist": "Sylver",
-      "url": "https://open.spotify.com/track/1OwStBU1hjXPPyL2XBQewF",
-      "image": "https://i.scdn.co/image/ab67616d00004851726197586622f3223a8b951d",
-      "played_at": "2026-10-25T01:50:05.287Z"
+      "name": "Awakening - Radio Edit",
+      "artist": "Rank 1",
+      "url": "https://open.spotify.com/track/5QiCJ1Uxzk1lgzbuk9WH2L",
+      "image": "https://i.scdn.co/image/ab67616d000048517a51060b747aae241cfb9ad8",
+      "played_at": "2026-10-25T05:20:54.203Z"
+    },
+    {
+      "name": "A Shaman’s Mantra",
+      "artist": "Ummet Ozcan",
+      "url": "https://open.spotify.com/track/6bPtNfftPzeFNTTtfiUgD3",
+      "image": "https://i.scdn.co/image/ab67616d0000485124fd0146c08a4527161aa841",
+      "played_at": "2026-10-25T05:18:04.096Z"
+    },
+    {
+      "name": "Gouryella",
+      "artist": "Gouryella, Ferry Corsten",
+      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4",
+      "image": "https://i.scdn.co/image/ab67616d00004851b0a05c67f856373f23a2c772",
+      "played_at": "2026-10-25T05:15:05.756Z"
     }
   ]
 }
