@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-26T02:14:01.286Z",
+  "updated": "2026-10-26T08:15:15.580Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Rhinestone Eyes",
-      "artist": "Gorillaz",
-      "url": "https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG",
-      "image": "https://i.scdn.co/image/ab67616d00004851661d019f34569f79eae9e985",
-      "played_at": "2026-10-25T18:27:24.131Z"
+      "name": "Pneuma",
+      "artist": "TOOL",
+      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ",
+      "image": "https://i.scdn.co/image/ab67616d000048511cb671469ff9fa33703410c4",
+      "played_at": "2026-10-26T08:13:57.864Z"
     },
     {
-      "name": "Heute Nacht",
-      "artist": "Maddix",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
-      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
-      "played_at": "2026-10-25T18:27:20.207Z"
+      "name": "I Am Machine",
+      "artist": "Three Days Grace",
+      "url": "https://open.spotify.com/track/2UDumaw7osnyjH7RZ2DLpB",
+      "image": "https://i.scdn.co/image/ab67616d00004851a3718617be6d4e106fbe7ad5",
+      "played_at": "2026-10-26T08:02:09.726Z"
     },
     {
-      "name": "She's My Collar (feat. Kali Uchis)",
-      "artist": "Gorillaz, Kali Uchis",
-      "url": "https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2",
-      "image": "https://i.scdn.co/image/ab67616d00004851a5952c0e2e649f588603b743",
-      "played_at": "2026-10-25T18:19:24.309Z"
+      "name": "All Out Life",
+      "artist": "Slipknot",
+      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5",
+      "image": "https://i.scdn.co/image/ab67616d00004851120ad9d866b0575b2afeeafb",
+      "played_at": "2026-10-26T07:58:53.542Z"
     },
     {
-      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
-      "artist": "Gorillaz, Shaun Ryder, Roses Gabor",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
-      "image": "https://i.scdn.co/image/ab67616d00004851622aefd794f6fe4d8e714358",
-      "played_at": "2026-10-25T18:15:53.271Z"
+      "name": "Repentless",
+      "artist": "Slayer",
+      "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu",
+      "image": "https://i.scdn.co/image/ab67616d00004851de52c3555fd297174abacdb3",
+      "played_at": "2026-10-26T07:53:18.365Z"
     },
     {
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "artist": "Gorillaz, Tame Impala, Bootie Brown",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "image": "https://i.scdn.co/image/ab67616d0000485119707804f73dc50f7a29cd86",
-      "played_at": "2026-10-25T18:11:47.086Z"
+      "name": "Rotting In Vain",
+      "artist": "Korn",
+      "url": "https://open.spotify.com/track/5jQnPdDMHOd8MdCM2avhQm",
+      "image": "https://i.scdn.co/image/ab67616d000048512c8b74b2b6e33f47188d9098",
+      "played_at": "2026-10-26T07:50:03.493Z"
     },
     {
-      "name": "On Melancholy Hill",
-      "artist": "Gorillaz",
-      "url": "https://open.spotify.com/track/4ercRiJZl8kBm8vfPaNjrl",
-      "image": "https://i.scdn.co/image/ab67616d000048514960e8b13691e5570337d4d8",
-      "played_at": "2026-10-25T18:08:10.976Z"
+      "name": "Feel Invincible",
+      "artist": "Skillet",
+      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L",
+      "image": "https://i.scdn.co/image/ab67616d000048513387bacdfd59f32e14dbe17a",
+      "played_at": "2026-10-26T07:46:35.570Z"
     }
   ]
 }
