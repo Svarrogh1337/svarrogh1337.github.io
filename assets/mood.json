@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-27T08:28:38.909Z",
+  "updated": "2026-10-27T15:00:25.877Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Like Napalm",
+      "name": "So Strung Out - Radio Edit",
+      "artist": "C-Block, Franky Miller",
+      "url": "https://open.spotify.com/track/5NpmLMMwqwhY14cpCrcxJL",
+      "image": "https://i.scdn.co/image/ab67616d000048518cd2009f7ff8b9a9c41ba94f",
+      "played_at": "2026-10-27T15:00:12.102Z"
+    },
+    {
+      "name": "Sacred",
       "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/5ALX6hYJfLLtp98KqC0Y3j",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-10-26T22:24:07.492Z"
+      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
+      "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
+      "played_at": "2026-10-27T14:56:12.712Z"
     },
     {
-      "name": "To Hell and Back",
-      "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL",
-      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
-      "played_at": "2026-10-26T19:45:28.675Z"
+      "name": "Blow Me Away - Soundtrack Version",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
+      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
+      "played_at": "2026-10-27T14:34:52.602Z"
     },
     {
-      "name": "Beggin'",
-      "artist": "Måneskin",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "image": "https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045",
-      "played_at": "2026-10-26T19:42:06.873Z"
+      "name": "Waiting On The Sky To Change",
+      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
+      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
+      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
+      "played_at": "2026-10-27T14:31:31.763Z"
     },
     {
-      "name": "Black Box",
-      "artist": "Bear McCreary, Joe Duplantier, The Mystery Of The Bulgarian Voices",
-      "url": "https://open.spotify.com/track/3xrvM16sYBrs1Hc0Jy06fb",
-      "image": "https://i.scdn.co/image/ab67616d000048515d6c25fb8fb27cbaf3841614",
-      "played_at": "2026-10-26T19:38:40.477Z"
+      "name": "Life is Beautiful",
+      "artist": "Sixx:A.M.",
+      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS",
+      "image": "https://i.scdn.co/image/ab67616d00004851ac6e97c33626ffc56594967e",
+      "played_at": "2026-10-27T11:55:50.541Z"
     },
     {
-      "name": "Mockingbird",
-      "artist": "Eminem",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
-      "image": "https://i.scdn.co/image/ab67616d000048511bec21e57fff76db49e15a70",
-      "played_at": "2026-10-26T19:29:03.470Z"
-    },
-    {
-      "name": "Blood Brothers",
-      "artist": "Papa Roach",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M",
-      "image": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
-      "played_at": "2026-10-26T13:39:25.994Z"
+      "name": "Child in Time - 1995 Remaster",
+      "artist": "Deep Purple",
+      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr",
+      "image": "https://i.scdn.co/image/ab67616d00004851914d1e0ea2784475c457b7dc",
+      "played_at": "2026-10-27T11:52:20.546Z"
     }
   ]
 }
