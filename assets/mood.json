@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-27T15:00:25.877Z",
+  "updated": "2026-10-27T21:35:03.425Z",
   "sample": false,
   "tracks": [
     {
-      "name": "So Strung Out - Radio Edit",
-      "artist": "C-Block, Franky Miller",
-      "url": "https://open.spotify.com/track/5NpmLMMwqwhY14cpCrcxJL",
-      "image": "https://i.scdn.co/image/ab67616d000048518cd2009f7ff8b9a9c41ba94f",
-      "played_at": "2026-10-27T15:00:12.102Z"
+      "name": "Shadow Boxing",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2",
+      "image": "https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd",
+      "played_at": "2026-10-27T18:35:30.323Z"
+    },
+    {
+      "name": "Soul Bleach",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0",
+      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
+      "played_at": "2026-10-27T18:31:45.513Z"
+    },
+    {
+      "name": "Prey - Live at the Sydney Opera House",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA",
+      "image": "https://i.scdn.co/image/ab67616d000048518e8206bfc87f21377b0b407f",
+      "played_at": "2026-10-27T18:26:57.780Z"
+    },
+    {
+      "name": "Bottom Feeder",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym",
+      "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
+      "played_at": "2026-10-27T18:15:15.084Z"
     },
     {
       "name": "Sacred",
       "artist": "Parkway Drive",
       "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
       "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
-      "played_at": "2026-10-27T14:56:12.712Z"
+      "played_at": "2026-10-27T18:10:59.938Z"
     },
     {
-      "name": "Blow Me Away - Soundtrack Version",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/7js2TSkQLuRWBIQ4HSTAv2",
-      "image": "https://i.scdn.co/image/ab67616d00004851d50f20cc83da1c1c156a4405",
-      "played_at": "2026-10-27T14:34:52.602Z"
-    },
-    {
-      "name": "Waiting On The Sky To Change",
-      "artist": "STARSET, Breaking Benjamin, Judge & Jury",
-      "url": "https://open.spotify.com/track/7uDMF4Ae8vqI7U1jGTewD4",
-      "image": "https://i.scdn.co/image/ab67616d00004851f98960457d4515f816f50fbc",
-      "played_at": "2026-10-27T14:31:31.763Z"
-    },
-    {
-      "name": "Life is Beautiful",
-      "artist": "Sixx:A.M.",
-      "url": "https://open.spotify.com/track/6zW2lcSvb5RDzJEauHZHPS",
-      "image": "https://i.scdn.co/image/ab67616d00004851ac6e97c33626ffc56594967e",
-      "played_at": "2026-10-27T11:55:50.541Z"
-    },
-    {
-      "name": "Child in Time - 1995 Remaster",
-      "artist": "Deep Purple",
-      "url": "https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr",
-      "image": "https://i.scdn.co/image/ab67616d00004851914d1e0ea2784475c457b7dc",
-      "played_at": "2026-10-27T11:52:20.546Z"
+      "name": "Idols and Anchors",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je",
+      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
+      "played_at": "2026-10-27T17:39:55.564Z"
     }
   ]
 }
