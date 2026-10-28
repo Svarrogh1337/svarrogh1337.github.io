@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-28T02:58:02.801Z",
+  "updated": "2026-10-28T09:17:31.563Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "The Void",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq",
+      "image": "https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd",
+      "played_at": "2026-10-28T09:15:52.419Z"
+    },
+    {
+      "name": "Vice Grip",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R",
+      "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
+      "played_at": "2026-10-28T08:53:45.365Z"
+    },
+    {
+      "name": "Wild Eyes",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/4G8EhnfKvBQVlOJ4xXCHpQ",
+      "image": "https://i.scdn.co/image/ab67616d00004851356c88f4aacba39173266b8e",
+      "played_at": "2026-10-28T08:49:21.332Z"
+    },
+    {
+      "name": "Glitch",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0",
+      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
+      "played_at": "2026-10-28T08:49:21.332Z"
+    },
     {
       "name": "Boneyards",
       "artist": "Parkway Drive",
@@ -15,34 +43,6 @@
       "url": "https://open.spotify.com/track/0IjgnngXXRb1adm4kYVeB2",
       "image": "https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd",
       "played_at": "2026-10-27T18:35:30.323Z"
-    },
-    {
-      "name": "Soul Bleach",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-10-27T18:31:45.513Z"
-    },
-    {
-      "name": "Prey - Live at the Sydney Opera House",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/2ppM3phxrwMZqyIIu0nZCA",
-      "image": "https://i.scdn.co/image/ab67616d000048518e8206bfc87f21377b0b407f",
-      "played_at": "2026-10-27T18:26:57.780Z"
-    },
-    {
-      "name": "Bottom Feeder",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/6jQu1YuisnFu36Sof5wjym",
-      "image": "https://i.scdn.co/image/ab67616d000048514ee2e3b325d7ba12edd81b1f",
-      "played_at": "2026-10-27T18:15:15.084Z"
-    },
-    {
-      "name": "Sacred",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
-      "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
-      "played_at": "2026-10-27T18:10:59.938Z"
     }
   ]
 }
