@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-27T21:35:03.425Z",
+  "updated": "2026-10-28T02:58:02.801Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Boneyards",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0",
+      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
+      "played_at": "2026-10-27T22:32:46.658Z"
+    },
     {
       "name": "Shadow Boxing",
       "artist": "Parkway Drive",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/0PJAnMvgWsrHpMfjvqMFcy",
       "image": "https://i.scdn.co/image/ab67616d00004851547075c4a68bac90dcf7008f",
       "played_at": "2026-10-27T18:10:59.938Z"
-    },
-    {
-      "name": "Idols and Anchors",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/4kJ5xTh1TyX7ECAOfKJ9Je",
-      "image": "https://i.scdn.co/image/ab67616d00004851248c3d99d296604ecd4f2c89",
-      "played_at": "2026-10-27T17:39:55.564Z"
     }
   ]
 }
