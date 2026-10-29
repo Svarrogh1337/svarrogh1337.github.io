@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-29T17:52:50.868Z",
+  "updated": "2026-10-29T22:11:53.882Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Black Box",
+      "artist": "Bear McCreary, Joe Duplantier, The Mystery Of The Bulgarian Voices",
+      "url": "https://open.spotify.com/track/3xrvM16sYBrs1Hc0Jy06fb",
+      "image": "https://i.scdn.co/image/ab67616d000048515d6c25fb8fb27cbaf3841614",
+      "played_at": "2026-10-29T21:33:46.482Z"
+    },
     {
       "name": "Blood Brothers",
       "artist": "Papa Roach",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
       "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
       "played_at": "2026-10-29T14:04:32.796Z"
-    },
-    {
-      "name": "So Help Me God",
-      "artist": "Malevolence",
-      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
-      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
-      "played_at": "2026-10-29T14:00:54.977Z"
     }
   ]
 }
