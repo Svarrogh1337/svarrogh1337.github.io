@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-29T11:56:34.740Z",
+  "updated": "2026-10-29T17:52:50.868Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Duality",
-      "artist": "Slipknot",
-      "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3",
-      "image": "https://i.scdn.co/image/ab67616d000048516b3463e7160d333ada4b175a",
-      "played_at": "2026-10-29T10:55:14.166Z"
+      "name": "Blood Brothers",
+      "artist": "Papa Roach",
+      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M",
+      "image": "https://i.scdn.co/image/ab67616d00004851985bf5ede2fe4a048ee85f28",
+      "played_at": "2026-10-29T14:54:33.320Z"
     },
     {
-      "name": "For Whom The Bell Tolls - Remastered",
-      "artist": "Metallica",
-      "url": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v",
-      "image": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
-      "played_at": "2026-10-29T10:51:06.550Z"
-    },
-    {
-      "name": "512",
-      "artist": "Lamb of God",
-      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv",
-      "image": "https://i.scdn.co/image/ab67616d00004851b2b64e70b382b72df11cb76b",
-      "played_at": "2026-10-29T10:46:01.542Z"
-    },
-    {
-      "name": "Electric Eye",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
-      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-10-29T10:41:21.775Z"
-    },
-    {
-      "name": "On The Move",
-      "artist": "Barthezz",
-      "url": "https://open.spotify.com/track/4YVhEkXMT3vMWmXYHpRZ3Q",
-      "image": "https://i.scdn.co/image/ab67616d00004851ba34e4db0949e7ffea5a2e01",
-      "played_at": "2026-10-29T09:55:25.927Z"
-    },
-    {
-      "name": "The Way I Am",
+      "name": "Mockingbird",
       "artist": "Eminem",
-      "url": "https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J",
-      "image": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
-      "played_at": "2026-10-29T09:51:54.478Z"
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s",
+      "image": "https://i.scdn.co/image/ab67616d000048511bec21e57fff76db49e15a70",
+      "played_at": "2026-10-29T14:50:58.615Z"
+    },
+    {
+      "name": "The Laugh Track",
+      "artist": "Ice Nine Kills",
+      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx",
+      "image": "https://i.scdn.co/image/ab67616d00004851431bf484483ceb807c4fa1e4",
+      "played_at": "2026-10-29T14:46:52.804Z"
+    },
+    {
+      "name": "Whiplash",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/5c3Nd8XUPfsO8MLUM1oa7O",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
+      "played_at": "2026-10-29T14:38:32.821Z"
+    },
+    {
+      "name": "Dragula",
+      "artist": "Rob Zombie",
+      "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF",
+      "image": "https://i.scdn.co/image/ab67616d0000485113d4adf9e4b938f88266f4e4",
+      "played_at": "2026-10-29T14:04:32.796Z"
+    },
+    {
+      "name": "So Help Me God",
+      "artist": "Malevolence",
+      "url": "https://open.spotify.com/track/3tkBA0ct7h0EQ3XmR4y9bp",
+      "image": "https://i.scdn.co/image/ab67616d0000485190a8df163c98f79f5f3579f7",
+      "played_at": "2026-10-29T14:00:54.977Z"
     }
   ]
 }
