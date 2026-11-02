@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-01T19:16:22.578Z",
+  "updated": "2026-11-02T00:01:36.200Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Crossing the Rubicon",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/6WyfybAgLz1EceoumvVSun",
+      "image": "https://i.scdn.co/image/ab67616d000048512015d006804756df2e271b74",
+      "played_at": "2026-11-01T20:48:58.397Z"
+    },
+    {
+      "name": "Moth Into Flame",
+      "artist": "Metallica",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A",
+      "image": "https://i.scdn.co/image/ab67616d000048517b10c20f959932a6c790c074",
+      "played_at": "2026-11-01T20:45:34.601Z"
+    },
+    {
+      "name": "Breath",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/4JXfNOePhdgMOI7KZ1L25U",
+      "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
+      "played_at": "2026-11-01T20:39:17.599Z"
+    },
     {
       "name": "Dance with the Devil - Aurora Version",
       "artist": "Breaking Benjamin, Adam Gontier",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG",
       "image": "https://i.scdn.co/image/ab67616d00004851eae389f411e0a8d740d03561",
       "played_at": "2026-11-01T18:23:22.753Z"
-    },
-    {
-      "name": "Redneck",
-      "artist": "Lamb of God",
-      "url": "https://open.spotify.com/track/1WZVnw0YWc7OLkVijEargx",
-      "image": "https://i.scdn.co/image/ab67616d00004851fd4ec2b2d9f36007ee69abb4",
-      "played_at": "2026-11-01T18:18:23.099Z"
-    },
-    {
-      "name": "The Safety of Disbelief",
-      "artist": "Light The Torch",
-      "url": "https://open.spotify.com/track/49ylH81Y53wUOlTHqXK1J2",
-      "image": "https://i.scdn.co/image/ab67616d00004851556907ad2ae80d3e1b21845a",
-      "played_at": "2026-11-01T18:14:47.178Z"
-    },
-    {
-      "name": "Sky",
-      "artist": "Sonique",
-      "url": "https://open.spotify.com/track/5Dw2ZtZJRDDJpFgDkgNBUi",
-      "image": "https://i.scdn.co/image/ab67616d0000485163af3e2cb3ce89362489982c",
-      "played_at": "2026-11-01T18:12:52.773Z"
     }
   ]
 }
