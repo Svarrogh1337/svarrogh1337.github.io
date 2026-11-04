@@ -4,18 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hristo Hristov - Platform Engineer · Kubernetes Multi-Tenancy</title>
-  <meta name="description" content="Platform Engineer and Project Capsule maintainer working on Kubernetes multi-tenancy, cluster security, and platform reliability. Kubestronaut and KubeCon EU 2026 speaker." />
+  <meta name="description" content="Platform Engineer and Project Capsule maintainer working on Kubernetes multi-tenancy, cluster security, and platform reliability. Kubestronaut, KubeCon EU 2026 and KCD Sofia 2026 speaker." />
 
   <!-- Open Graph / social -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Hristo Hristov - Kubernetes Multi-Tenancy" />
-  <meta property="og:description" content="I make Kubernetes safe to share. Project Capsule maintainer · Kubestronaut · KubeCon EU 2026 speaker." />
+  <meta property="og:description" content="I make Kubernetes safe to share. Project Capsule maintainer · Kubestronaut · KubeCon EU and KCD Sofia 2026 speaker." />
   <meta property="og:url" content="https://hhristov.info" />
   <meta property="og:image" content="https://hhristov.info/assets/og-avatar.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:image" content="https://hhristov.info/assets/og-avatar.png" />
 
-  <link rel="preconnect" href="https://images.credly.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Besley:ital,wght@0,800;0,900;1,700&display=swap" />
   <link rel="stylesheet" href="./assets/style.css" />
   <link rel="icon" type="image/png" href="./assets/favicon.png" />
   <link rel="apple-touch-icon" href="./assets/favicon.png" />
@@ -25,11 +27,11 @@
 
   <header class="site-nav">
     <div class="wrap nav-inner">
-      <a class="brand" href="#top"><span class="brand-mark">HH</span> Hristo Hristov</a>
+      <a class="brand" href="#top"><img src="./assets/favicon.png" alt="" width="28" height="28" /> Hristo Hristov</a>
       <nav aria-label="Primary">
         <a href="#work">Work</a>
         <a href="#experience">Experience</a>
-        <a href="#opensource">Open Source</a>
+        <a href="#opensource">Open source</a>
         <a href="#speaking">Speaking</a>
         <a href="#certs">Certifications</a>
         <a href="#mood">Mood</a>
@@ -45,14 +47,13 @@
     <section id="top" class="hero">
       <div class="wrap hero-inner">
         <div class="hero-text">
-          <p class="eyebrow">// platform engineer · sofia, bulgaria</p>
           <h1>Hristo Hristov</h1>
           <p class="typewriter" aria-hidden="true"><span id="tw"></span><span class="caret">▍</span></p>
           <p class="sr-only">Platform Engineer. Kubernetes Multi-Tenancy at Project Capsule. Making shared clusters safe, scalable and boring.</p>
-          <p class="lead"><strong>I make Kubernetes safe to share.</strong> Maintainer of
-            <a href="https://projectcapsule.dev/">Project Capsule</a>, Kubestronaut, and CNCF
-            community contributor working at the intersection of <em>multi-tenancy, cluster
-            security, and platform reliability</em>.</p>
+          <p class="tagline">I make Kubernetes safe to share.</p>
+          <p class="lead">Maintainer of <a href="https://projectcapsule.dev/">Project Capsule</a>, Kubestronaut, and
+            CNCF community contributor working where multi-tenancy, cluster security, and platform
+            reliability meet. Based in Sofia, Bulgaria.</p>
           <div class="cta-row">
             <a class="btn btn-primary" href="#contact">Get in touch</a>
             <a class="btn" href="https://github.com/Svarrogh1337" rel="me">GitHub</a>
@@ -68,240 +69,284 @@
           <img src="./assets/avatar.png" alt="Svarog emblem - Hristo Hristov's avatar" width="300" height="300" />
         </div>
       </div>
+      <div class="stitch" aria-hidden="true"></div>
     </section>
 
     <!-- WHAT I WORK ON -->
     <section id="work" class="section">
-      <div class="wrap">
-        <h2><span class="hash">#</span> What I work on</h2>
-        <p class="section-lead">The hard part of platform engineering: letting many teams share
-          infrastructure without stepping on each other or breaking isolation.</p>
-        <div class="cards">
-          <article class="card">
-            <div class="card-icon">🏢</div>
-            <h3>Multi-Tenancy</h3>
-            <p>Turning single clusters into safe, self-service platforms for many teams - the
-              core problem Project Capsule solves.</p>
-          </article>
-          <article class="card">
-            <div class="card-icon">🔐</div>
-            <h3>Cluster Security</h3>
-            <p>Policy, isolation, and least-privilege by default. Backed by CKS and KCSA.</p>
-          </article>
-          <article class="card">
-            <div class="card-icon">⚙️</div>
-            <h3>Platform Reliability</h3>
-            <p>Scalable, boring-in-a-good-way infrastructure that teams can actually trust.</p>
-          </article>
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>What I work on</h2>
+          <p class="sec-lead">The hard part of platform engineering: letting many teams share
+            infrastructure without stepping on each other or breaking isolation.</p>
+        </header>
+        <div class="sec-body">
+          <div class="pillars">
+            <div class="pillar">
+              <h3>Multi-tenancy</h3>
+              <p>Turning single clusters into safe, self-service platforms for many teams. The
+                core problem Project Capsule solves.</p>
+            </div>
+            <div class="pillar">
+              <h3>Cluster security</h3>
+              <p>Policy, isolation, and least privilege by default. Backed by CKS and KCSA.</p>
+            </div>
+            <div class="pillar">
+              <h3>Platform reliability</h3>
+              <p>Scalable, boring-in-a-good-way infrastructure that teams can actually trust.</p>
+            </div>
+          </div>
         </div>
       </div>
     </section>
 
     <!-- EXPERIENCE -->
-    <section id="experience" class="section section-alt">
-      <div class="wrap">
-        <h2><span class="hash">#</span> Experience</h2>
-        <p class="section-lead">A decade-plus from Linux operations to cloud-native platform engineering.</p>
-        <ol class="timeline">
-          <li class="tl-item">
-            <span class="tl-dot"></span>
-            <div class="tl-body">
-              <div class="tl-head"><h3>Staff Cloud Engineer</h3><span class="tl-co">Tide</span></div>
-              <p class="tl-meta">Dec 2025 - Present · Sofia, Bulgaria · Remote</p>
-              <p class="tl-desc">Building cloud-native platform infrastructure in Go for a global business-banking platform - ArgoCD, Kubernetes, and the tooling that keeps its clusters reliable.</p>
-            </div>
-          </li>
-          <li class="tl-item">
-            <span class="tl-dot"></span>
-            <div class="tl-body">
-              <div class="tl-head"><h3>Technology Lead</h3><span class="tl-co">Vaerolabs</span></div>
-              <p class="tl-meta">Jun 2024 - Sep 2025 · Sofia, Bulgaria</p>
-              <p class="tl-desc">Led design and delivery of cloud-native applications and infrastructure on OpenShift, ArgoCD, and AWX, with a focus on high availability, security, and performance.</p>
-            </div>
-          </li>
-          <li class="tl-item">
-            <span class="tl-dot"></span>
-            <div class="tl-body">
-              <div class="tl-head"><h3>Site Reliability Engineer</h3><span class="tl-co">VMware</span></div>
-              <p class="tl-meta">Apr 2022 - Feb 2024 · Sofia, Bulgaria · Hybrid</p>
-              <p class="tl-desc">Owned ArgoCD/Kubernetes deployments and enterprise CI/CD across VMware private cloud and AWS (including FedRAMP), holding a 99.99% SLA. Doubled as Scrum Master.</p>
-            </div>
-          </li>
-          <li class="tl-item">
-            <span class="tl-dot"></span>
-            <div class="tl-body">
-              <div class="tl-head"><h3>Technology Team Lead</h3><span class="tl-co">DXC Technology</span></div>
-              <p class="tl-meta">Jan 2018 - Apr 2022 · Sofia, Bulgaria</p>
-              <p class="tl-desc">Drove Linux automation (SaltStack, SUSE Manager) across a 50+ engineer organization, reaching 100% patch compliance and cutting operational overhead by ~20%.</p>
-            </div>
-          </li>
-          <li class="tl-item">
-            <span class="tl-dot"></span>
-            <div class="tl-body">
-              <div class="tl-head"><h3>Senior Linux / SRE / NOC roles</h3><span class="tl-co">Miss Hosting · FFW · Zertios</span></div>
-              <p class="tl-meta">2015 - 2018 · Bulgaria</p>
-              <p class="tl-desc">Ran large-scale Linux infrastructure, automation, and high-availability hosting environments across thousands of physical and virtual servers.</p>
-            </div>
-          </li>
-        </ol>
-        <p class="tl-more"><a href="https://www.linkedin.com/in/svarrogh1337/">Full history on LinkedIn ↗</a></p>
+    <section id="experience" class="section">
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Experience</h2>
+          <p class="sec-lead">A decade-plus from Linux operations to cloud-native platform engineering.</p>
+        </header>
+        <div class="sec-body">
+          <ol class="ledger">
+            <li class="row is-now">
+              <div class="row-when">Dec 2025 – now</div>
+              <div class="row-body">
+                <h3>Staff Cloud Engineer</h3>
+                <p class="row-org">Tide, remote from Sofia</p>
+                <p class="desc">Building cloud-native platform infrastructure in Go for a global business-banking platform: ArgoCD, Kubernetes, and the tooling that keeps its clusters reliable.</p>
+              </div>
+            </li>
+            <li class="row">
+              <div class="row-when">Jun 2024 – Sep 2025</div>
+              <div class="row-body">
+                <h3>Technology Lead</h3>
+                <p class="row-org">Vaerolabs, Sofia</p>
+                <p class="desc">Led design and delivery of cloud-native applications and infrastructure on OpenShift, ArgoCD, and AWX, with a focus on high availability, security, and performance.</p>
+              </div>
+            </li>
+            <li class="row">
+              <div class="row-when">Apr 2022 – Feb 2024</div>
+              <div class="row-body">
+                <h3>Site Reliability Engineer</h3>
+                <p class="row-org">VMware, Sofia (hybrid)</p>
+                <p class="desc">Owned ArgoCD/Kubernetes deployments and enterprise CI/CD across VMware private cloud and AWS (including FedRAMP), holding a 99.99% SLA. Doubled as Scrum Master.</p>
+              </div>
+            </li>
+            <li class="row">
+              <div class="row-when">Jan 2018 – Apr 2022</div>
+              <div class="row-body">
+                <h3>Technology Team Lead</h3>
+                <p class="row-org">DXC Technology, Sofia</p>
+                <p class="desc">Drove Linux automation (SaltStack, SUSE Manager) across a 50+ engineer organization, reaching 100% patch compliance and cutting operational overhead by ~20%.</p>
+              </div>
+            </li>
+            <li class="row">
+              <div class="row-when">2015 – 2018</div>
+              <div class="row-body">
+                <h3>Senior Linux, SRE and NOC roles</h3>
+                <p class="row-org">Miss Hosting, FFW, Zertios</p>
+                <p class="desc">Ran large-scale Linux infrastructure, automation, and high-availability hosting environments across thousands of physical and virtual servers.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="more"><a href="https://www.linkedin.com/in/svarrogh1337/">Full history on LinkedIn</a></p>
+        </div>
       </div>
     </section>
 
     <!-- OPEN SOURCE -->
     <section id="opensource" class="section">
-      <div class="wrap">
-        <h2><span class="hash">#</span> Open Source</h2>
-        <p class="section-lead">I build in the open. Maintainer and contributor across the
-          cloud-native ecosystem.</p>
-
-        <article class="spotlight">
-          <div class="spotlight-head">
-            <h3><a href="https://github.com/projectcapsule/capsule">projectcapsule/capsule</a></h3>
-            <span class="tag">Maintainer</span>
-          </div>
-          <p>A CNCF Sandbox operator that brings <strong>native multi-tenancy</strong> to
-            Kubernetes - letting platform teams host many isolated tenants on shared clusters
-            with strong guardrails around namespaces, network policies, RBAC and quotas.</p>
-          <div class="links-row">
-            <a href="https://github.com/projectcapsule/capsule">Repository ↗</a>
-            <a href="https://projectcapsule.dev/">Documentation ↗</a>
-          </div>
-        </article>
-
-        <div class="repo-grid">
-          <a class="repo" href="https://github.com/projectcapsule/capsule-proxy">
-            <h4>capsule-proxy</h4>
-            <p>An API-server proxy that filters cluster resources per tenant.</p>
-          </a>
-          <a class="repo" href="https://github.com/Svarrogh1337">
-            <h4>@Svarrogh1337</h4>
-            <p>More open-source work and contributions on GitHub.</p>
-          </a>
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Open source</h2>
+          <p class="sec-lead">I build in the open. Maintainer and contributor across the cloud-native ecosystem.</p>
+        </header>
+        <div class="sec-body">
+          <article class="project-main">
+            <h3><a href="https://github.com/projectcapsule/capsule">projectcapsule/capsule</a> <span class="role">maintainer</span></h3>
+            <p>A CNCF Sandbox operator that brings native multi-tenancy to Kubernetes: platform
+              teams host many isolated tenants on shared clusters with strong guardrails around
+              namespaces, network policies, RBAC and quotas.</p>
+            <p class="links">
+              <a href="https://github.com/projectcapsule/capsule">Repository</a>
+              <a href="https://projectcapsule.dev/">Documentation</a>
+            </p>
+          </article>
+          <ul class="project-list">
+            <li>
+              <a href="https://github.com/projectcapsule/capsule-proxy">projectcapsule/capsule-proxy</a>
+              <span>An API-server proxy that filters cluster resources per tenant.</span>
+            </li>
+            <li>
+              <a href="https://github.com/Svarrogh1337">github.com/Svarrogh1337</a>
+              <span>More open-source work and contributions.</span>
+            </li>
+          </ul>
         </div>
       </div>
     </section>
 
     <!-- SPEAKING -->
-    <section id="speaking" class="section section-alt">
-      <div class="wrap">
-        <h2><span class="hash">#</span> Speaking</h2>
-        <p class="section-lead">Making multi-tenancy and cluster security approachable - on stage.</p>
-        <ul class="talks">
-          <li class="talk">
-            <div class="talk-date">2026</div>
-            <div class="talk-body">
-              <h3>KubeCon + CloudNativeCon Europe 2026</h3>
-              <p class="talk-role">Speaker</p>
-              <a href="https://www.credly.com/badges/1f407e77-a62d-4de4-acb6-d236c7fb62ec/public_url">View credential ↗</a>
-            </div>
-          </li>
-        </ul>
-        <p class="cta-line">📣 Want me to speak at your event or meetup?
-          <a href="mailto:me@hhristov.info">me@hhristov.info</a></p>
+    <section id="speaking" class="section">
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Speaking</h2>
+          <p class="sec-lead">Making multi-tenancy and cluster security approachable, on stage.</p>
+        </header>
+        <div class="sec-body">
+          <ol class="ledger">
+            <li class="row">
+              <div class="row-when">Sep 2026</div>
+              <div class="row-body">
+                <h3>KCD Sofia 2026</h3>
+                <p class="row-org">Kubernetes Community Days Bulgaria, Sofia Event Center</p>
+                <p class="talk-title">Project Capsule: Why Namespaces Alone Don't Give You Multi-Tenancy</p>
+                <p class="desc">Lightning talk.</p>
+                <p class="links">
+                  <a href="https://kcd.bg/agenda/">Agenda</a>
+                  <a href="https://www.youtube.com/@kcdsofia">Recordings</a>
+                </p>
+              </div>
+            </li>
+            <li class="row">
+              <div class="row-when">Mar 2026</div>
+              <div class="row-body">
+                <h3>KubeCon + CloudNativeCon Europe 2026</h3>
+                <p class="row-org">Amsterdam</p>
+                <p class="desc">Speaker.</p>
+                <p class="links">
+                  <a href="https://www.credly.com/badges/1f407e77-a62d-4de4-acb6-d236c7fb62ec/public_url">View credential</a>
+                </p>
+              </div>
+            </li>
+          </ol>
+          <p class="more">Want me to speak at your event or meetup?
+            <a href="mailto:me@hhristov.info">me@hhristov.info</a></p>
+        </div>
       </div>
     </section>
 
     <!-- CERTIFICATIONS -->
     <section id="certs" class="section">
-      <div class="wrap">
-        <h2><span class="hash">#</span> Certifications</h2>
-        <p class="section-lead"><strong>Kubestronaut</strong> - earned the full stack of CNCF
-          Kubernetes certifications.</p>
-        <div class="badges">
-          <a class="badge" href="https://www.credly.com/badges/d4353a7d-4ade-4af5-8b67-d1976825b0ac/public_url" title="Kubestronaut">
-            <img src="./assets/badges/kubestronaut.png" alt="Kubestronaut badge" loading="lazy" width="110" height="110" />
-            <span>Kubestronaut</span>
-          </a>
-          <a class="badge" href="https://www.credly.com/badges/38526f68-d9cc-44b4-8a34-67c092588333/public_url" title="Certified Kubernetes Administrator" data-expires="2026-05-25">
-            <img src="./assets/badges/cka.png" alt="CKA badge" loading="lazy" width="110" height="110" />
-            <span>CKA</span>
-          </a>
-          <a class="badge" href="https://www.credly.com/badges/464335c8-947d-4161-b483-d8a3a8275b94/public_url" title="Certified Kubernetes Application Developer" data-expires="2028-03-01">
-            <img src="./assets/badges/ckad.png" alt="CKAD badge" loading="lazy" width="110" height="110" />
-            <span>CKAD</span>
-          </a>
-          <a class="badge" href="https://www.credly.com/badges/ec497faf-7d88-467e-850a-59829e8dac6d/public_url" title="Certified Kubernetes Security Specialist" data-expires="2028-01-19">
-            <img src="./assets/badges/cks.png" alt="CKS badge" loading="lazy" width="110" height="110" />
-            <span>CKS</span>
-          </a>
-          <a class="badge" href="https://www.credly.com/badges/4209b74a-615e-4c50-8347-1372d59ff848/public_url" title="Kubernetes and Cloud Native Associate" data-expires="2028-02-29">
-            <img src="./assets/badges/kcna.png" alt="KCNA badge" loading="lazy" width="110" height="110" />
-            <span>KCNA</span>
-          </a>
-          <a class="badge" href="https://www.credly.com/badges/b446001e-2a92-4770-8987-7c6a35eefe9c/public_url" title="Kubernetes and Cloud Native Security Associate" data-expires="2028-02-23">
-            <img src="./assets/badges/kcsa.png" alt="KCSA badge" loading="lazy" width="110" height="110" />
-            <span>KCSA</span>
-          </a>
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Certifications</h2>
+          <p class="sec-lead">Kubestronaut: the full stack of CNCF Kubernetes certifications.</p>
+        </header>
+        <div class="sec-body">
+          <ul class="medals">
+            <li><a class="badge" href="https://www.credly.com/badges/d4353a7d-4ade-4af5-8b67-d1976825b0ac/public_url" title="Kubestronaut">
+              <img src="./assets/badges/kubestronaut.png" alt="Kubestronaut badge" loading="lazy" width="96" height="96" />
+              <span>Kubestronaut</span>
+            </a></li>
+            <li><a class="badge" href="https://www.credly.com/badges/38526f68-d9cc-44b4-8a34-67c092588333/public_url" title="Certified Kubernetes Administrator" data-expires="2026-05-25">
+              <img src="./assets/badges/cka.png" alt="CKA badge" loading="lazy" width="96" height="96" />
+              <span>CKA</span>
+            </a></li>
+            <li><a class="badge" href="https://www.credly.com/badges/464335c8-947d-4161-b483-d8a3a8275b94/public_url" title="Certified Kubernetes Application Developer" data-expires="2028-03-01">
+              <img src="./assets/badges/ckad.png" alt="CKAD badge" loading="lazy" width="96" height="96" />
+              <span>CKAD</span>
+            </a></li>
+            <li><a class="badge" href="https://www.credly.com/badges/ec497faf-7d88-467e-850a-59829e8dac6d/public_url" title="Certified Kubernetes Security Specialist" data-expires="2028-01-19">
+              <img src="./assets/badges/cks.png" alt="CKS badge" loading="lazy" width="96" height="96" />
+              <span>CKS</span>
+            </a></li>
+            <li><a class="badge" href="https://www.credly.com/badges/4209b74a-615e-4c50-8347-1372d59ff848/public_url" title="Kubernetes and Cloud Native Associate" data-expires="2028-02-29">
+              <img src="./assets/badges/kcna.png" alt="KCNA badge" loading="lazy" width="96" height="96" />
+              <span>KCNA</span>
+            </a></li>
+            <li><a class="badge" href="https://www.credly.com/badges/b446001e-2a92-4770-8987-7c6a35eefe9c/public_url" title="Kubernetes and Cloud Native Security Associate" data-expires="2028-02-23">
+              <img src="./assets/badges/kcsa.png" alt="KCSA badge" loading="lazy" width="96" height="96" />
+              <span>KCSA</span>
+            </a></li>
+          </ul>
         </div>
       </div>
     </section>
 
     <!-- MOOD -->
-    <section id="mood" class="section section-alt">
-      <div class="wrap">
-        <h2><span class="hash">#</span> Current Mood</h2>
-        <p class="section-lead">What's fueling the commits right now, piped straight from Spotify. No skips, no shame.</p>
-        <div id="mood-content" class="mood" aria-live="polite">
-          <p class="mood-loading">Consulting the gods of shuffle...</p>
+    <section id="mood" class="section">
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Current mood</h2>
+          <p class="sec-lead">What's fueling the commits right now, piped straight from Spotify. No skips, no shame.</p>
+        </header>
+        <div class="sec-body">
+          <div id="mood-content" class="mood" aria-live="polite">
+            <p class="mood-loading">Consulting the gods of shuffle...</p>
+          </div>
         </div>
       </div>
     </section>
 
     <!-- OFF THE CLOCK -->
     <section id="offclock" class="section">
-      <div class="wrap">
-        <h2><span class="hash">#</span> Off the Clock</h2>
-        <p class="section-lead">When the clusters are green, the grind is on. Public Steam stats, zero shame.</p>
-        <div class="stats">
-          <div class="stat stat-level">
-            <span class="level-badge"><span>114</span></span>
-            <span class="stat-label">Steam level</span><span class="stat-quip">higher than my on-call stress</span>
-          </div>
-          <div class="stat">
-            <span class="stat-icon" aria-hidden="true">🎮</span>
-            <span class="stat-num">346</span><span class="stat-label">Games owned</span><span class="stat-quip">~340 more than I have time for</span>
-          </div>
-          <div class="stat">
-            <span class="stat-icon" aria-hidden="true">🏆</span>
-            <span class="stat-num">2,159</span><span class="stat-label">Achievements</span><span class="stat-quip">100% patch-compliance energy</span>
-          </div>
-          <div class="stat">
-            <span class="stat-icon" aria-hidden="true">💯</span>
-            <span class="stat-num">15</span><span class="stat-label">Perfect games</span><span class="stat-quip">closed every ticket, twice</span>
-          </div>
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Off the clock</h2>
+          <p class="sec-lead">When the clusters are green, the grind is on. Public Steam stats, zero shame.</p>
+        </header>
+        <div class="sec-body">
+          <ul class="figures">
+            <li class="figure">
+              <span class="fig-num">114</span>
+              <span class="fig-label">Steam level</span>
+              <span class="fig-quip">higher than my on-call stress</span>
+            </li>
+            <li class="figure">
+              <span class="fig-num">346</span>
+              <span class="fig-label">Games owned</span>
+              <span class="fig-quip">~340 more than I have time for</span>
+            </li>
+            <li class="figure">
+              <span class="fig-num">2,159</span>
+              <span class="fig-label">Achievements</span>
+              <span class="fig-quip">100% patch-compliance energy</span>
+            </li>
+            <li class="figure">
+              <span class="fig-num">15</span>
+              <span class="fig-label">Perfect games</span>
+              <span class="fig-quip">closed every ticket, twice</span>
+            </li>
+          </ul>
+          <h3 class="sub">Recently grinding</h3>
+          <ul class="games">
+            <li><span>Path of Exile 2</span><span class="hrs">128 h</span></li>
+            <li><span>Orcs Must Die! Deathtrap</span><span class="hrs">67 h</span></li>
+            <li><span>Where Winds Meet</span><span class="hrs">38 h</span></li>
+          </ul>
+          <p class="quip-line">128 hours into Path of Exile 2 and it still restarts less than a CrashLoopBackOff.
+            <a href="https://steamcommunity.com/id/svarrogh1337">Full profile</a></p>
         </div>
-        <h3 class="mini-h">Recently grinding</h3>
-        <ul class="game-list">
-          <li><span class="g-name">Path of Exile 2</span><span class="g-hrs">128 h</span></li>
-          <li><span class="g-name">Orcs Must Die! Deathtrap</span><span class="g-hrs">67 h</span></li>
-          <li><span class="g-name">Where Winds Meet</span><span class="g-hrs">38 h</span></li>
-        </ul>
-        <p class="offclock-quip">128 hours into Path of Exile 2 and it still restarts less than a CrashLoopBackOff.
-          <a href="https://steamcommunity.com/id/svarrogh1337">Full profile ↗</a></p>
       </div>
     </section>
 
     <!-- CONTACT -->
-    <section id="contact" class="section section-alt">
-      <div class="wrap contact">
-        <h2><span class="hash">#</span> Get in touch</h2>
-        <p class="section-lead">Open to speaking invitations, open-source collaboration, and
-          conversations about platform engineering.</p>
-        <div class="contact-links">
-          <a class="btn btn-primary" href="mailto:me@hhristov.info">me@hhristov.info</a>
-          <a class="btn" href="https://github.com/Svarrogh1337">GitHub</a>
-          <a class="btn" href="https://www.linkedin.com/in/svarrogh1337/">LinkedIn</a>
-          <a class="btn" href="https://kubernetes.slack.com/team/U07BVSYJC64">Kubernetes Slack</a>
+    <section id="contact" class="section">
+      <div class="wrap sec">
+        <header class="sec-head">
+          <h2>Get in touch</h2>
+          <p class="sec-lead">Open to speaking invitations, open-source collaboration, and
+            conversations about platform engineering.</p>
+        </header>
+        <div class="sec-body">
+          <div class="cta-row">
+            <a class="btn btn-primary" href="mailto:me@hhristov.info">me@hhristov.info</a>
+            <a class="btn" href="https://github.com/Svarrogh1337">GitHub</a>
+            <a class="btn" href="https://www.linkedin.com/in/svarrogh1337/">LinkedIn</a>
+            <a class="btn" href="https://kubernetes.slack.com/team/U07BVSYJC64">Kubernetes Slack</a>
+          </div>
         </div>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
+    <div class="stitch stitch-thin" aria-hidden="true"></div>
     <div class="wrap footer-inner">
       <span>© <span id="year">2026</span> Hristo Hristov</span>
-      <span class="footer-quote">Built in the open · hosted on GitHub Pages</span>
+      <span>Built in the open, hosted on GitHub Pages</span>
     </div>
   </footer>
 
