@@ -198,6 +198,7 @@ a:hover { text-decoration-color: currentColor; }
 .project-main h3 a:hover { text-decoration: underline; }
 .role { font-family: var(--sans); font-size: 0.85rem; font-weight: 600; color: var(--accent); margin-left: 10px; }
 .project-main > p { color: var(--muted); max-width: 62ch; margin-top: 8px; }
+.project-main + .project-main { margin-top: 30px; padding-top: 26px; border-top: 1px solid var(--rule); }
 .project-list { list-style: none; margin: 28px 0 0; padding: 0; border-top: 1px solid var(--rule); }
 .project-list li {
   display: grid; grid-template-columns: minmax(0, 280px) minmax(0, 1fr); gap: 16px;
@@ -301,7 +302,7 @@ a:hover { text-decoration-color: currentColor; }
 #fire-backdrop.active { opacity: 1; }
 #fire-canvas {
   position: fixed; inset: 0; z-index: 999; pointer-events: none;
-  mix-blend-mode: screen; opacity: 0; transition: opacity 0.4s ease;
+  opacity: 0; transition: opacity 0.4s ease;
 }
 #fire-canvas.active { opacity: 1; }
 /* Reduced-motion fallback: a static warm wash instead of the animated fire */

@@ -208,8 +208,13 @@ document.getElementById("year").textContent = new Date().getFullYear();
     }, 200);
   }
 
-  // Canvas particle fire with additive ("lighter") blending: a white-hot base
-  // fading through yellow and orange to red at the tips, plus rising sparks.
+  // ----- Canvas fire -----
+  // Sprite-based particle fire. Flames advect through one shared noise field
+  // (so tongues lick and swirl together instead of jittering), taper and cool
+  // along a blackbody-ish ramp, shed sparks and smoke, and light the page with
+  // a flickering glow. Frames fade instead of clearing, leaving short trails
+  // that join the tongues up. The fire starts on the avatar - it is the thing
+  // that was clicked - and spreads along the floor.
   function startFire() {
     const backdrop = document.createElement("div");
     backdrop.id = "fire-backdrop";
@@ -232,79 +237,232 @@ document.getElementById("year").textContent = new Date().getFullYear();
     window.addEventListener("resize", resize);
     requestAnimationFrame(() => canvas.classList.add("active"));
 
-    const flames = [];
-    const embers = [];
-    const MAX = 640;
-
-    // Hottest (white/yellow) when young at the base, cooling to red with age.
-    function tint(t) {
-      if (t < 0.22) return "255,250,214";
-      if (t < 0.45) return "255,214,108";
-      if (t < 0.72) return "255,122,26";
-      return "206,48,52";
+    // Coherent 2D value noise: hashed lattice, smoothstep interpolation, 0..1.
+    const PERM = new Uint8Array(512);
+    for (let i = 0; i < 256; i++) PERM[i] = i;
+    for (let i = 255; i > 0; i--) { const j = (Math.random() * (i + 1)) | 0; const t = PERM[i]; PERM[i] = PERM[j]; PERM[j] = t; }
+    for (let i = 0; i < 256; i++) PERM[256 + i] = PERM[i];
+    const fade = (t) => t * t * (3 - 2 * t);
+    function noise(x, y) {
+      const X = Math.floor(x), Y = Math.floor(y);
+      const xf = x - X, yf = y - Y, xi = X & 255, yi = Y & 255;
+      const a = PERM[PERM[xi] + yi], b = PERM[PERM[xi + 1] + yi];
+      const c = PERM[PERM[xi] + yi + 1], d = PERM[PERM[xi + 1] + yi + 1];
+      const u = fade(xf), v = fade(yf);
+      return ((a + (b - a) * u) * (1 - v) + (c + (d - c) * u) * v) / 255;
     }
 
-    function emit() {
-      if (performance.now() > igniteUntil) return;
-      for (let i = 0; i < 16 && flames.length < MAX; i++) {
-        flames.push({
-          x: (Math.random() * 0.6 + Math.random() * 0.4) * W, // slight center bias
-          y: H + Math.random() * 12 * dpr,
-          vx: (Math.random() - 0.5) * 0.9 * dpr,
-          vy: -(1.3 + Math.random() * 2.4) * dpr,
-          life: 0, max: 42 + Math.random() * 46,
-          size: (16 + Math.random() * 30) * dpr,
-        });
+    // Blackbody-ish ramp: white-hot core, through yellow and orange, to dark
+    // red at the tips. Baked into soft sprites so a frame is just blits.
+    const RAMP = [
+      [255, 252, 232], [255, 240, 170], [255, 214, 92], [255, 170, 40],
+      [255, 120, 20], [240, 76, 20], [200, 40, 24], [130, 18, 16], [60, 8, 8],
+    ];
+    const STEPS = 32;
+    function rampColor(t) {
+      const f = Math.min(0.9999, Math.max(0, t)) * (RAMP.length - 1);
+      const i = Math.floor(f), k = f - i, A = RAMP[i], B = RAMP[i + 1];
+      return [0, 1, 2].map((c) => Math.round(A[c] + (B[c] - A[c]) * k)).join(",");
+    }
+    function softSprite(rgb, stops) {
+      const s = 64, c = document.createElement("canvas");
+      c.width = c.height = s;
+      const g = c.getContext("2d");
+      const grad = g.createRadialGradient(s / 2, s / 2, 0, s / 2, s / 2, s / 2);
+      stops.forEach(([at, a]) => grad.addColorStop(at, `rgba(${rgb},${a})`));
+      g.fillStyle = grad; g.fillRect(0, 0, s, s);
+      return c;
+    }
+    const FLAME_STOPS = [[0, 1], [0.25, 0.7], [0.6, 0.16], [1, 0]];
+    const SPRITES = Array.from({ length: STEPS }, (_, i) => softSprite(rampColor(i / (STEPS - 1)), FLAME_STOPS));
+    const SMOKE = softSprite("28,22,20", [[0, 0.5], [0.5, 0.2], [1, 0]]);
+
+    const flames = [], sparks = [], smoke = [];
+    const MAX_FLAMES = 900, MAX_SPARKS = 220, MAX_SMOKE = 160;
+    const t0 = performance.now();
+    let last = t0, time = 0, accFloor = 0, accCrown = 0;
+
+    // A few hot spots wander along the floor so the fire has a shape rather
+    // than a uniform curtain.
+    const spots = Array.from({ length: 5 }, (_, i) => ({ u: (i + 0.5) / 5, seed: Math.random() * 100 }));
+    function floorX() {
+      if (Math.random() < 0.65) {
+        const s = spots[(Math.random() * spots.length) | 0];
+        const wander = (noise(s.seed, time * 0.25) - 0.5) * 0.25;
+        return (s.u + wander + (Math.random() - 0.5) * 0.12) * W;
       }
-      if (Math.random() < 0.7 && embers.length < 160) {
-        embers.push({
-          x: Math.random() * W, y: H,
-          vx: (Math.random() - 0.5) * 1.4 * dpr,
-          vy: -(2.6 + Math.random() * 3.4) * dpr,
-          life: 0, max: 90 + Math.random() * 90,
-          size: (1.3 + Math.random() * 2.4) * dpr,
-        });
+      return Math.random() * W;
+    }
+    function avatarRect() {
+      const r = avatar.getBoundingClientRect();
+      return {
+        cx: (r.left + r.width / 2) * dpr, cy: (r.top + r.height / 2) * dpr, r: (r.width / 2) * dpr,
+        onScreen: r.bottom > 0 && r.top < window.innerHeight,
+      };
+    }
+
+    // Velocities are device px per second; life is in seconds.
+    function spawnFlame(x, y, vx, vy, scale) {
+      if (flames.length >= MAX_FLAMES) return;
+      flames.push({ x, y, vx, vy, life: 0, max: 0.8 + Math.random() * 0.8,
+        size: (14 + Math.random() * 22) * dpr * scale, seed: Math.random() * 1000 });
+    }
+    function spawnSpark(x, y, burst) {
+      if (sparks.length >= MAX_SPARKS) return;
+      const ang = -Math.PI / 2 + (Math.random() - 0.5) * 1.3 * burst;
+      const sp = (160 + Math.random() * 320) * dpr * (0.6 + burst * 0.6);
+      sparks.push({ x, y, px: x, py: y, vx: Math.cos(ang) * sp, vy: Math.sin(ang) * sp,
+        life: 0, max: 0.8 + Math.random() * 1.4, seed: Math.random() * 10, size: (1 + Math.random() * 1.6) * dpr });
+    }
+    function emit(dt, k) {
+      // Floor: emission scales with viewport width so phones get a smaller fire.
+      accFloor += (W / dpr) * 0.7 * k * dt;
+      while (accFloor >= 1) {
+        accFloor--;
+        spawnFlame(floorX(), H + Math.random() * 10 * dpr,
+          (Math.random() - 0.5) * 30 * dpr, -(120 + Math.random() * 180) * dpr, 1);
       }
+      // Crown of fire on the avatar, the thing that was clicked.
+      const a = avatarRect();
+      if (a.onScreen) {
+        accCrown += 140 * k * dt;
+        while (accCrown >= 1) {
+          accCrown--;
+          const ang = -Math.PI * (0.1 + Math.random() * 0.8); // top half of the ring
+          const rr = a.r * (0.85 + Math.random() * 0.15);
+          spawnFlame(a.cx + Math.cos(ang) * rr, a.cy + Math.sin(ang) * rr,
+            Math.cos(ang) * 20 * dpr + (Math.random() - 0.5) * 20 * dpr,
+            -(60 + Math.random() * 90) * dpr, 0.55);
+        }
+      }
+      // Sparks: a steady trickle plus the odd crackle burst.
+      if (Math.random() < 0.08 * k) {
+        const bx = floorX(), n = 4 + ((Math.random() * 8) | 0);
+        for (let i = 0; i < n; i++) spawnSpark(bx, H, 1);
+      }
+      if (Math.random() < 0.5 * k) spawnSpark(floorX(), H, 0.5);
+    }
+
+    function step(dt) {
+      time += dt;
+      const ns = 0.004 / dpr; // noise feature size, roughly 250 css px
+      for (let i = flames.length - 1; i >= 0; i--) {
+        const p = flames[i];
+        p.life += dt;
+        const t = p.life / p.max;
+        if (t >= 1) { flames[i] = flames[flames.length - 1]; flames.pop(); continue; }
+        const n = noise(p.x * ns + p.seed * 0.01, p.y * ns - time * 0.8);
+        p.vx += (n - 0.5) * 900 * dpr * dt;  // shared swirl
+        p.vy -= 200 * dpr * dt;              // buoyancy
+        p.vx *= Math.exp(-2.2 * dt);
+        p.vy *= Math.exp(-0.6 * dt);
+        p.x += p.vx * dt; p.y += p.vy * dt;
+        if (t > 0.75 && Math.random() < 0.05 && smoke.length < MAX_SMOKE) {
+          smoke.push({ x: p.x, y: p.y, vx: p.vx * 0.3, vy: p.vy * 0.25, life: 0,
+            max: 1.6 + Math.random() * 1.6, size: p.size * 1.2, seed: Math.random() * 1000 });
+        }
+      }
+      for (let i = smoke.length - 1; i >= 0; i--) {
+        const s = smoke[i];
+        s.life += dt;
+        if (s.life >= s.max) { smoke[i] = smoke[smoke.length - 1]; smoke.pop(); continue; }
+        const n = noise(s.x * ns * 0.6 + s.seed * 0.01, s.y * ns * 0.6 - time * 0.3);
+        s.vx += (n - 0.5) * 300 * dpr * dt;
+        s.vy -= 40 * dpr * dt;
+        s.vx *= Math.exp(-1.5 * dt); s.vy *= Math.exp(-1.2 * dt);
+        s.x += s.vx * dt; s.y += s.vy * dt;
+      }
+      for (let i = sparks.length - 1; i >= 0; i--) {
+        const e = sparks[i];
+        e.life += dt;
+        if (e.life >= e.max || e.y < -20) { sparks[i] = sparks[sparks.length - 1]; sparks.pop(); continue; }
+        e.px = e.x; e.py = e.y;
+        const n = noise(e.x * ns + e.seed, e.y * ns - time * 0.8);
+        e.vx += (n - 0.5) * 700 * dpr * dt;
+        e.vy += 120 * dpr * dt;              // sparks arc and fall
+        e.vx *= Math.exp(-1.2 * dt); e.vy *= Math.exp(-0.8 * dt);
+        e.x += e.vx * dt; e.y += e.vy * dt;
+      }
+    }
+
+    function draw(dt, k) {
+      // Fade the last frame rather than clearing it. Every draw below scales
+      // its alpha by the same factor, so steady-state brightness equals the
+      // particle's intensity whatever the frame rate.
+      const fadeA = 1 - Math.exp(-30 * dt);
+      ctx.globalCompositeOperation = "destination-out";
+      ctx.globalAlpha = 1;
+      ctx.fillStyle = `rgba(0,0,0,${fadeA})`;
+      ctx.fillRect(0, 0, W, H);
+
+      ctx.globalCompositeOperation = "lighter";
+
+      // Firelight on the page: a broad flickering glow from the floor, and a
+      // halo on the avatar while it burns.
+      const flick = 0.7 + 0.3 * noise(time * 3, 7.3);
+      const g = ctx.createRadialGradient(W / 2, H, 0, W / 2, H, W * 0.75);
+      g.addColorStop(0, `rgba(255,140,50,${0.3 * k * flick * fadeA})`);
+      g.addColorStop(0.5, `rgba(255,90,30,${0.12 * k * flick * fadeA})`);
+      g.addColorStop(1, "rgba(255,90,30,0)");
+      ctx.fillStyle = g; ctx.fillRect(0, 0, W, H);
+      const a = avatarRect();
+      if (a.onScreen && k > 0) {
+        const h = ctx.createRadialGradient(a.cx, a.cy, a.r * 0.5, a.cx, a.cy, a.r * 2.2);
+        h.addColorStop(0, `rgba(255,150,60,${0.35 * k * flick * fadeA})`);
+        h.addColorStop(1, "rgba(255,150,60,0)");
+        ctx.fillStyle = h; ctx.fillRect(a.cx - a.r * 2.2, a.cy - a.r * 2.2, a.r * 4.4, a.r * 4.4);
+      }
+
+      // Flames: tall soft sprites that grow, then taper and cool with age.
+      for (let i = 0; i < flames.length; i++) {
+        const p = flames[i];
+        const t = p.life / p.max;
+        const idx = Math.min(STEPS - 1, (t * STEPS) | 0);
+        const w = p.size * (0.5 + 1.1 * t) * Math.sqrt(1 - t);
+        const stretch = 1.3 + Math.min(1, Math.abs(p.vy) / (300 * dpr)) * 0.9;
+        ctx.globalAlpha = Math.pow(1 - t, 1.4) * 0.85 * fadeA;
+        ctx.drawImage(SPRITES[idx], p.x - w / 2, p.y - (w * stretch) / 2, w, w * stretch);
+      }
+
+      // Sparks: short bright streaks that twinkle.
+      ctx.lineCap = "round";
+      for (let i = 0; i < sparks.length; i++) {
+        const e = sparks[i];
+        const t = e.life / e.max;
+        const tw = 0.55 + 0.45 * Math.sin(e.life * 40 + e.seed);
+        ctx.globalAlpha = (1 - t) * tw * fadeA;
+        ctx.strokeStyle = t < 0.5 ? "rgb(255,236,170)" : "rgb(255,150,60)";
+        ctx.lineWidth = e.size * (1 - t * 0.5);
+        ctx.beginPath(); ctx.moveTo(e.px, e.py); ctx.lineTo(e.x, e.y); ctx.stroke();
+      }
+
+      // Smoke: drawn normally so it can darken what is behind it.
+      ctx.globalCompositeOperation = "source-over";
+      for (let i = 0; i < smoke.length; i++) {
+        const s = smoke[i];
+        const t = s.life / s.max;
+        const w = s.size * (1 + 2.2 * t);
+        ctx.globalAlpha = 0.4 * (1 - t) * Math.min(1, t * 4) * fadeA;
+        ctx.drawImage(SMOKE, s.x - w / 2, s.y - w / 2, w, w);
+      }
+      ctx.globalAlpha = 1;
     }
 
     let raf;
-    function frame() {
-      ctx.clearRect(0, 0, W, H);
-      ctx.globalCompositeOperation = "lighter";
-      emit();
+    function frame(now) {
+      const dt = Math.min(0.05, Math.max(0.001, (now - last) / 1000));
+      last = now;
+      // Intensity envelope: ramps up over half a second, holds while clicks
+      // keep extending igniteUntil, then dies down instead of cutting off.
+      const up = Math.min(1, (now - t0) / 500);
+      const down = Math.max(0, Math.min(1, (igniteUntil - now) / 600));
+      const k = up * down;
 
-      for (let i = flames.length - 1; i >= 0; i--) {
-        const p = flames[i];
-        p.life++;
-        p.vx += (Math.random() - 0.5) * 0.5 * dpr; // turbulence
-        p.vy -= 0.03 * dpr;                        // buoyancy
-        p.vx *= 0.98;
-        p.x += p.vx; p.y += p.vy;
-        const t = p.life / p.max;
-        if (t >= 1) { flames.splice(i, 1); continue; }
-        const rgb = tint(t);
-        const a = (1 - t) * 0.42;
-        const size = p.size * (0.5 + (1 - t) * 0.9);
-        const grad = ctx.createRadialGradient(p.x, p.y, 0, p.x, p.y, size);
-        grad.addColorStop(0, `rgba(${rgb},${a})`);
-        grad.addColorStop(1, `rgba(${rgb},0)`);
-        ctx.fillStyle = grad;
-        ctx.beginPath(); ctx.arc(p.x, p.y, size, 0, 6.2832); ctx.fill();
-      }
+      emit(dt, k);
+      step(dt);
+      draw(dt, k);
 
-      for (let i = embers.length - 1; i >= 0; i--) {
-        const e = embers[i];
-        e.life++;
-        e.vx += (Math.random() - 0.5) * 0.4 * dpr;
-        e.vy *= 0.99;
-        e.x += e.vx; e.y += e.vy;
-        const t = e.life / e.max;
-        if (t >= 1 || e.y < -20) { embers.splice(i, 1); continue; }
-        ctx.fillStyle = `rgba(255,${Math.round(200 - t * 130)},90,${1 - t})`;
-        ctx.beginPath(); ctx.arc(e.x, e.y, e.size * (1 - t * 0.5), 0, 6.2832); ctx.fill();
-      }
-
-      if (flames.length || embers.length || performance.now() < igniteUntil) {
+      if (flames.length || sparks.length || smoke.length || now < igniteUntil) {
         raf = requestAnimationFrame(frame);
       } else {
         window.removeEventListener("resize", resize);
