@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Social card source</title>
+  <!--
+    Source for assets/og-card.png, the 1200x630 image used for link previews
+    (Open Graph / Twitter cards). Regenerate after changing it:
+
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new \
+        --hide-scrollbars --window-size=1200,630 --virtual-time-budget=8000 \
+        --screenshot=assets/og-card.png "file://$PWD/scripts/og-card.html"
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600&family=Besley:ital,wght@0,900;1,700&display=block" />
+  <style>
+    html, body { margin: 0; }
+    body {
+      width: 1200px; height: 630px; overflow: hidden; position: relative;
+      background: #1A1512; color: #F2E9DC; font-family: "Archivo", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    .card { position: absolute; inset: 0 0 27px 0; display: flex; align-items: center; gap: 56px; padding: 0 84px; }
+    .text { flex: 1 1 auto; min-width: 0; }
+    h1 {
+      font-family: "Besley", serif; font-weight: 900; font-size: 112px;
+      line-height: 0.92; letter-spacing: -0.015em; margin: 0 0 30px;
+    }
+    .tag {
+      font-family: "Besley", serif; font-style: italic; font-weight: 700;
+      font-size: 40px; line-height: 1.2; margin: 0 0 22px; max-width: 14ch;
+    }
+    .sub { font-size: 23px; font-weight: 500; line-height: 1.45; color: #A89C8E; margin: 0; }
+    .sub strong { color: #F2E9DC; font-weight: 600; }
+    .avatar { flex: 0 0 auto; width: 360px; height: 360px; filter: drop-shadow(0 10px 36px rgba(230, 57, 70, 0.42)); }
+    .stitch {
+      position: absolute; left: 0; right: 0; bottom: 0; height: 27px; background-color: #E63946;
+      -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 9' shape-rendering='crispEdges'%3E%3Cpath fill='%23fff' d='M4 0h1v1H4zM3 1h1v1H3zM5 1h1v1H5zM2 2h1v1H2zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM0 4h1v1H0zM4 4h1v1H4zM1 5h1v1H1zM7 5h1v1H7zM2 6h1v1H2zM6 6h1v1H6zM3 7h1v1H3zM5 7h1v1H5zM4 8h1v1H4z'/%3E%3C/svg%3E") repeat-x left center / auto 100%;
+      mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 9' shape-rendering='crispEdges'%3E%3Cpath fill='%23fff' d='M4 0h1v1H4zM3 1h1v1H3zM5 1h1v1H5zM2 2h1v1H2zM6 2h1v1H6zM1 3h1v1H1zM7 3h1v1H7zM0 4h1v1H0zM4 4h1v1H4zM1 5h1v1H1zM7 5h1v1H7zM2 6h1v1H2zM6 6h1v1H6zM3 7h1v1H3zM5 7h1v1H5zM4 8h1v1H4z'/%3E%3C/svg%3E") repeat-x left center / auto 100%;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="text">
+      <h1>Hristo<br />Hristov</h1>
+      <p class="tag">I make Kubernetes safe to share.</p>
+      <p class="sub"><strong>Platform engineer in Sofia.</strong><br />Project Capsule maintainer. Kubernetes org member.<br />hhristov.info</p>
+    </div>
+    <img class="avatar" src="../assets/avatar.png" alt="" />
+  </div>
+  <div class="stitch"></div>
+</body>
+</html>
