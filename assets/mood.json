@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-05T10:01:23.549Z",
+  "updated": "2026-11-05T19:13:08.450Z",
   "sample": false,
   "tracks": [
     {
-      "name": "HOPE",
-      "artist": "Her Last Sight",
-      "url": "https://open.spotify.com/track/6l7JVGCzzS3dKk4Uf0vDEd",
-      "image": "https://i.scdn.co/image/ab67616d00004851ff18ba248715ef891635254b",
-      "played_at": "2026-11-05T10:00:26.171Z"
+      "name": "This Is The New Shit",
+      "artist": "Marilyn Manson",
+      "url": "https://open.spotify.com/track/5P13mfqn9o3ToFPTxowEgO",
+      "image": "https://i.scdn.co/image/ab67616d00004851dcca264f538d015a1c9733a5",
+      "played_at": "2026-11-05T17:14:52.744Z"
     },
     {
-      "name": "Just Dance",
-      "artist": "Sable",
-      "url": "https://open.spotify.com/track/4KDyFUGlYCv2hyG5YAAAXd",
-      "image": "https://i.scdn.co/image/ab67616d00004851ace707b997afff13bcda4266",
-      "played_at": "2026-11-05T09:56:12.232Z"
+      "name": "Curse",
+      "artist": "Architects",
+      "url": "https://open.spotify.com/track/6DLaYITCfzaNEAj0ZyGRad",
+      "image": "https://i.scdn.co/image/ab67616d00004851fa9cf0435132ff2a17ce9d86",
+      "played_at": "2026-11-05T17:10:38.047Z"
     },
     {
-      "name": "4 Words (To Choke Upon)",
-      "artist": "Bullet For My Valentine",
-      "url": "https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8",
-      "image": "https://i.scdn.co/image/ab67616d0000485140deaedd1bc625494819049b",
-      "played_at": "2026-11-05T09:53:22.705Z"
+      "name": "I Hate Everything About You",
+      "artist": "Three Days Grace",
+      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi",
+      "image": "https://i.scdn.co/image/ab67616d000048515d4bd2c345c95e847b586403",
+      "played_at": "2026-11-05T17:07:41.950Z"
     },
     {
-      "name": "Through Struggle",
-      "artist": "As I Lay Dying",
-      "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1",
-      "image": "https://i.scdn.co/image/ab67616d00004851772204d7b92f44ef85f258fd",
-      "played_at": "2026-11-05T09:49:44.008Z"
+      "name": "Two Weeks",
+      "artist": "All That Remains",
+      "url": "https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL",
+      "image": "https://i.scdn.co/image/ab67616d000048518d0bac50ac43d247cbf139df",
+      "played_at": "2026-11-05T17:03:55.729Z"
     },
     {
-      "name": "Warrior",
-      "artist": "Dead by April",
-      "url": "https://open.spotify.com/track/3lPSaYAvlmzNxkOKo79zps",
-      "image": "https://i.scdn.co/image/ab67616d00004851387e3fe93a12844cf969399e",
-      "played_at": "2026-11-05T09:45:50.865Z"
+      "name": "Heute Nacht",
+      "artist": "Maddix",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH",
+      "image": "https://i.scdn.co/image/ab67616d00004851a13e6d8af4a37e8a2547c8f4",
+      "played_at": "2026-11-05T16:59:43.045Z"
     },
     {
-      "name": "IVORY",
-      "artist": "GHØSTKID",
-      "url": "https://open.spotify.com/track/5zEpRjX759Gp1JN3jojret",
-      "image": "https://i.scdn.co/image/ab67616d000048516285bc73d3ebd536a1e7e42e",
-      "played_at": "2026-11-05T09:42:54.313Z"
+      "name": "The Void",
+      "artist": "Parkway Drive",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq",
+      "image": "https://i.scdn.co/image/ab67616d0000485196b4163add6c85325f8961fd",
+      "played_at": "2026-11-05T16:55:52.488Z"
     }
   ]
 }
