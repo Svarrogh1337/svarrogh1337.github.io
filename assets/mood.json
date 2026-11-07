@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-07T09:24:18.629Z",
+  "updated": "2026-11-07T17:09:08.087Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Turn The Lights Off",
+      "artist": "Justė, Jaxstyle, Jon",
+      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb",
+      "image": "https://i.scdn.co/image/ab67616d00004851c1d3b2dc6aac8d565acf7526",
+      "played_at": "2026-11-07T14:51:31.648Z"
+    },
+    {
+      "name": "My Beat Goes",
+      "artist": "Ummet Ozcan",
+      "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK",
+      "image": "https://i.scdn.co/image/ab67616d00004851b507bdd7e32bb56468a457ce",
+      "played_at": "2026-11-07T14:21:22.659Z"
+    },
     {
       "name": "Impermanence",
       "artist": "Architects, Winston McCall",
       "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI",
       "image": "https://i.scdn.co/image/ab67616d00004851c78b2edbc9407cea20ccfb9f",
-      "played_at": "2026-11-06T16:13:20.767Z"
+      "played_at": "2026-11-07T14:17:33.623Z"
+    },
+    {
+      "name": "The Sin and the Sentence",
+      "artist": "Trivium",
+      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K",
+      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
+      "played_at": "2026-11-06T16:18:09.317Z"
     },
     {
       "name": "DOWN (Feat. Malevolence)",
@@ -22,27 +43,6 @@
       "url": "https://open.spotify.com/track/4XOv6rpg0td5pPwlXLxnDS",
       "image": "https://i.scdn.co/image/ab67616d00004851c052c381821d46bf16716528",
       "played_at": "2026-11-06T16:05:33.891Z"
-    },
-    {
-      "name": "Black Flame - Single Edit",
-      "artist": "Bury Tomorrow",
-      "url": "https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF",
-      "image": "https://i.scdn.co/image/ab67616d00004851224a33715423265a54f068cd",
-      "played_at": "2026-11-06T16:01:25.891Z"
-    },
-    {
-      "name": "Infectious",
-      "artist": "Imminence",
-      "url": "https://open.spotify.com/track/7Aq4xs7pcJzKHczATqmiOY",
-      "image": "https://i.scdn.co/image/ab67616d00004851d55b4aa69f38d9a27179cec9",
-      "played_at": "2026-11-06T15:57:36.908Z"
-    },
-    {
-      "name": "Glitch",
-      "artist": "Parkway Drive",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0",
-      "image": "https://i.scdn.co/image/ab67616d00004851e4551f6b8bdde8aaeaed85cd",
-      "played_at": "2026-11-06T15:53:49.377Z"
     }
   ]
 }
