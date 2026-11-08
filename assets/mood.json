@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-08T03:15:55.183Z",
+  "updated": "2026-11-08T12:24:44.557Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Vois sur ton chemin - Techno Mix",
+      "name": "Hotel Room Service",
+      "artist": "BAYZY",
+      "url": "https://open.spotify.com/track/393AnTxOgODcFmHoVwY7qF",
+      "image": "https://i.scdn.co/image/ab67616d000048514979a29d8e6273c80972037a",
+      "played_at": "2026-11-08T11:46:40.248Z"
+    },
+    {
+      "name": "No Sleep",
+      "artist": "FOVOS, Trancemaster Krause",
+      "url": "https://open.spotify.com/track/7anWw402ymjZCv8yDlxg5s",
+      "image": "https://i.scdn.co/image/ab67616d00004851a627d72ff98c0ea26355a204",
+      "played_at": "2026-11-08T11:44:08.450Z"
+    },
+    {
+      "name": "Era",
+      "artist": "Ummet Ozcan",
+      "url": "https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6",
+      "image": "https://i.scdn.co/image/ab67616d00004851b220c2a8ff1536c6f7e605bc",
+      "played_at": "2026-11-08T11:42:00.838Z"
+    },
+    {
+      "name": "Holy Place",
       "artist": "BENNETT",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5",
-      "image": "https://i.scdn.co/image/ab67616d000048511c4b40593176f9b7b7be23b8",
-      "played_at": "2026-11-08T01:48:41.961Z"
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL",
+      "image": "https://i.scdn.co/image/ab67616d00004851f210d62940fab0db721c5b18",
+      "played_at": "2026-11-08T11:37:21.445Z"
     },
     {
-      "name": "Levels - Skrillex Remix",
-      "artist": "Avicii, Skrillex",
-      "url": "https://open.spotify.com/track/5f6igUw1asUL4AGXSvgTW8",
-      "image": "https://i.scdn.co/image/ab67616d0000485198b2942df06b3ec74223920c",
-      "played_at": "2026-11-08T01:45:48.796Z"
+      "name": "Are You Ready (Radio Edit)",
+      "artist": "Pakito",
+      "url": "https://open.spotify.com/track/0IUf09SenABQYF0WjTY6sW",
+      "image": "https://i.scdn.co/image/ab67616d000048512aba27d5cff4e7703256408f",
+      "played_at": "2026-11-08T11:34:13.122Z"
     },
     {
-      "name": "Konye",
-      "artist": "DJSM",
-      "url": "https://open.spotify.com/track/1jskS0QmpYtvf9yNcN9qzg",
-      "image": "https://i.scdn.co/image/ab67616d0000485166444beed09a03b28ea27d7c",
-      "played_at": "2026-11-08T01:41:12.619Z"
-    },
-    {
-      "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
-      "artist": "James Hype, Sam Harper, Bobby Harvey",
-      "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3",
-      "image": "https://i.scdn.co/image/ab67616d00004851f60d7f051679fab1ecb2a381",
-      "played_at": "2026-11-08T01:38:32.897Z"
-    },
-    {
-      "name": "Runaway (U & I)",
-      "artist": "Ian Asher, Galantis",
-      "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW",
-      "image": "https://i.scdn.co/image/ab67616d000048514699b5cefc4ea67c17743346",
-      "played_at": "2026-11-08T01:36:37.296Z"
-    },
-    {
-      "name": "Turn The Lights Off",
-      "artist": "Justė, Jaxstyle, Jon",
-      "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb",
-      "image": "https://i.scdn.co/image/ab67616d00004851c1d3b2dc6aac8d565acf7526",
-      "played_at": "2026-11-07T14:51:31.648Z"
+      "name": "Russia Privjet",
+      "artist": "Basshunter",
+      "url": "https://open.spotify.com/track/4ZW1Ghu4P0DZJwrHM3xANd",
+      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
+      "played_at": "2026-11-08T11:30:51.434Z"
     }
   ]
 }
