@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-08T12:24:44.557Z",
+  "updated": "2026-11-08T19:14:00.204Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Scream & Shout",
+      "artist": "NIVEK, JKRS",
+      "url": "https://open.spotify.com/track/6qp7v30y8KoXatHEy0lcYH",
+      "image": "https://i.scdn.co/image/ab67616d000048514739ed69808dfa25650a18ab",
+      "played_at": "2026-11-08T15:25:40.777Z"
+    },
     {
       "name": "Hotel Room Service",
       "artist": "BAYZY",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/0IUf09SenABQYF0WjTY6sW",
       "image": "https://i.scdn.co/image/ab67616d000048512aba27d5cff4e7703256408f",
       "played_at": "2026-11-08T11:34:13.122Z"
-    },
-    {
-      "name": "Russia Privjet",
-      "artist": "Basshunter",
-      "url": "https://open.spotify.com/track/4ZW1Ghu4P0DZJwrHM3xANd",
-      "image": "https://i.scdn.co/image/ab67616d000048514699e8c0e35827c9249d1618",
-      "played_at": "2026-11-08T11:30:51.434Z"
     }
   ]
 }
