@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-17T15:07:37.441Z",
+  "updated": "2026-11-18T00:10:50.106Z",
   "sample": false,
   "tracks": [
     {
-      "name": "Stranded",
-      "artist": "Gojira",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV",
-      "image": "https://i.scdn.co/image/ab67616d00004851422c622517ea0bd7eda33e08",
-      "played_at": "2026-11-17T15:02:19.498Z"
+      "name": "Is There Anybody Out There?",
+      "artist": "Machine Head",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk",
+      "image": "https://i.scdn.co/image/ab67616d000048511e76eaa664f5b71699066c72",
+      "played_at": "2026-11-17T22:12:23.556Z"
     },
     {
-      "name": "Electric Eye",
+      "name": "Hallowed Be Thy Name - Live '01",
+      "artist": "Iron Maiden",
+      "url": "https://open.spotify.com/track/2U2uyIRJOFG3g8zTbcwHfJ",
+      "image": "https://i.scdn.co/image/ab67616d00004851f405f63cea750deafb019722",
+      "played_at": "2026-11-17T22:07:55.858Z"
+    },
+    {
+      "name": "Laid to Rest",
+      "artist": "Lamb of God",
+      "url": "https://open.spotify.com/track/4VdQBhm4dnvBPgZfFNjSzH",
+      "image": "https://i.scdn.co/image/ab67616d00004851cc7d6e8e70f06be8f91757bf",
+      "played_at": "2026-11-17T15:57:09.779Z"
+    },
+    {
+      "name": "Wash It All Away",
+      "artist": "Five Finger Death Punch",
+      "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g",
+      "image": "https://i.scdn.co/image/ab67616d000048514804f1513736e5e2b3e053dc",
+      "played_at": "2026-11-17T15:53:24.359Z"
+    },
+    {
+      "name": "Living After Midnight",
       "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
-      "image": "https://i.scdn.co/image/ab67616d00004851475bd4fb40ba687fbf002c82",
-      "played_at": "2026-11-17T14:57:54.877Z"
+      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4",
+      "image": "https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62",
+      "played_at": "2026-11-17T15:49:44.743Z"
     },
     {
-      "name": "Kernkraft 400 - DJ Gius Mix, Radio Edit",
-      "artist": "Zombie Nation",
-      "url": "https://open.spotify.com/track/7g8cjrj0sXScNE727685JE",
-      "image": "https://i.scdn.co/image/ab67616d00004851916e34ccc44c2b56cdd0d7e4",
-      "played_at": "2026-11-17T14:53:12.027Z"
-    },
-    {
-      "name": "ACCIDENT",
-      "artist": "MY FIRST STORY",
-      "url": "https://open.spotify.com/track/3elIRsmkUWTGrqEuAasoRt",
-      "image": "https://i.scdn.co/image/ab67616d0000485194dbc96009e8a77db2698496",
-      "played_at": "2026-11-17T13:31:40.807Z"
-    },
-    {
-      "name": "Dance with the Devil - Aurora Version",
-      "artist": "Breaking Benjamin, Adam Gontier",
-      "url": "https://open.spotify.com/track/6earA3oIunGQs95h7UwcHQ",
-      "image": "https://i.scdn.co/image/ab67616d00004851f664171476d7718731fb121a",
-      "played_at": "2026-11-17T13:28:11.709Z"
-    },
-    {
-      "name": "Kingslayer (feat. BABYMETAL)",
-      "artist": "Bring Me The Horizon, BABYMETAL",
-      "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7",
-      "image": "https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684",
-      "played_at": "2026-11-17T12:54:08.409Z"
+      "name": "Far From Home",
+      "artist": "Five Finger Death Punch",
+      "url": "https://open.spotify.com/track/70WpP83384wgKixTKbt3Nb",
+      "image": "https://i.scdn.co/image/ab67616d00004851021dd6fc31a42ac4e4ab778c",
+      "played_at": "2026-11-17T15:36:21.778Z"
     }
   ]
 }
