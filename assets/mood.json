@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-18T00:10:50.106Z",
+  "updated": "2026-11-18T10:51:58.620Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "18 and Life",
+      "artist": "Skid Row",
+      "url": "https://open.spotify.com/track/3620P9KJS2PDebJ9ABFitc",
+      "image": "https://i.scdn.co/image/ab67616d00004851bb639863b7b716acf67bfa64",
+      "played_at": "2026-11-18T09:01:41.037Z"
+    },
+    {
+      "name": "Breath",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/4JXfNOePhdgMOI7KZ1L25U",
+      "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
+      "played_at": "2026-11-18T09:01:08.514Z"
+    },
     {
       "name": "Is There Anybody Out There?",
       "artist": "Machine Head",
@@ -29,20 +43,6 @@
       "url": "https://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g",
       "image": "https://i.scdn.co/image/ab67616d000048514804f1513736e5e2b3e053dc",
       "played_at": "2026-11-17T15:53:24.359Z"
-    },
-    {
-      "name": "Living After Midnight",
-      "artist": "Judas Priest",
-      "url": "https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4",
-      "image": "https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62",
-      "played_at": "2026-11-17T15:49:44.743Z"
-    },
-    {
-      "name": "Far From Home",
-      "artist": "Five Finger Death Punch",
-      "url": "https://open.spotify.com/track/70WpP83384wgKixTKbt3Nb",
-      "image": "https://i.scdn.co/image/ab67616d00004851021dd6fc31a42ac4e4ab778c",
-      "played_at": "2026-11-17T15:36:21.778Z"
     }
   ]
 }
