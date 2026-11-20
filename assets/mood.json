@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-19T19:43:37.840Z",
+  "updated": "2026-11-20T01:56:38.325Z",
   "sample": false,
   "tracks": [
     {
-      "name": "The Kill",
-      "artist": "Thirty Seconds To Mars",
-      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq",
-      "image": "https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854",
-      "played_at": "2026-11-19T19:39:23.364Z"
-    },
-    {
-      "name": "The Heart from Your Hate",
-      "artist": "Trivium",
-      "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS",
-      "image": "https://i.scdn.co/image/ab67616d0000485149297ff523b7098a50195711",
-      "played_at": "2026-11-19T19:35:36.862Z"
-    },
-    {
-      "name": "The Diary of Jane - Single Version",
+      "name": "Anthem Of The Angels",
       "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ",
-      "image": "https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149",
-      "played_at": "2026-11-19T19:31:37.961Z"
-    },
-    {
-      "name": "Give Me A Sign",
-      "artist": "Breaking Benjamin",
-      "url": "https://open.spotify.com/track/6BWrIaoodtt7EX6kToWZw0",
+      "url": "https://open.spotify.com/track/0qmmx55Ei3i75ViWcY6mEp",
       "image": "https://i.scdn.co/image/ab67616d0000485108cdafd988bd04d9b14159d3",
-      "played_at": "2026-11-19T19:28:22.459Z"
+      "played_at": "2026-11-20T01:55:43.985Z"
     },
     {
-      "name": "Hero (feat. Josey Scott)",
-      "artist": "Chad Kroeger, Josey Scott",
-      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo",
-      "image": "https://i.scdn.co/image/ab67616d000048518f969abf0a46070cf66ece6d",
-      "played_at": "2026-11-19T19:24:09.756Z"
+      "name": "Ten Thousand Fists",
+      "artist": "Disturbed",
+      "url": "https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu",
+      "image": "https://i.scdn.co/image/ab67616d00004851bbdafec608fc5329ec2ad831",
+      "played_at": "2026-11-20T01:51:46.187Z"
     },
     {
-      "name": "Painkiller",
-      "artist": "Three Days Grace",
-      "url": "https://open.spotify.com/track/6OMO6WdRhSfjMPAiPT94wH",
-      "image": "https://i.scdn.co/image/ab67616d00004851a3718617be6d4e106fbe7ad5",
-      "played_at": "2026-11-19T19:20:54.211Z"
+      "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
+      "artist": "Five Finger Death Punch",
+      "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP",
+      "image": "https://i.scdn.co/image/ab67616d0000485176df46a3fd82c419a2dc0a43",
+      "played_at": "2026-11-20T01:48:19.180Z"
+    },
+    {
+      "name": "Tourniquet",
+      "artist": "Breaking Benjamin",
+      "url": "https://open.spotify.com/track/5xgXG5BfCNO6KJrQOHKprg",
+      "image": "https://i.scdn.co/image/ab67616d000048511522bd2a4ea3d69e17f19429",
+      "played_at": "2026-11-20T01:44:17.979Z"
+    },
+    {
+      "name": "End Of Me",
+      "artist": "Apocalyptica, Gavin Rossdale",
+      "url": "https://open.spotify.com/track/1Ye7F8n34xcdotZxt0z99O",
+      "image": "https://i.scdn.co/image/ab67616d000048515eff76a50afb7c477e1f1e34",
+      "played_at": "2026-11-20T01:40:13.478Z"
+    },
+    {
+      "name": "Help Is On The Way",
+      "artist": "Rise Against",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO",
+      "image": "https://i.scdn.co/image/ab67616d0000485198f415abb90d728279f056ac",
+      "played_at": "2026-11-20T01:36:49.877Z"
     }
   ]
 }
