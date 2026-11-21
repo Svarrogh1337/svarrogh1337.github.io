@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-21T10:25:42.041Z",
+  "updated": "2026-11-21T18:26:07.687Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Ich will",
+      "artist": "Rammstein",
+      "url": "https://open.spotify.com/track/3X0K6fII7VIwL1URPrp8Ko",
+      "image": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+      "played_at": "2026-11-21T16:16:16.223Z"
+    },
     {
       "name": "Twisted Transistor",
       "artist": "Korn",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/6xtQ23d8GEXgcxyUKPtwc5",
       "image": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a",
       "played_at": "2026-11-20T15:32:00.096Z"
-    },
-    {
-      "name": "Toxicity",
-      "artist": "System Of A Down",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn",
-      "image": "https://i.scdn.co/image/ab67616d0000485107bc7d2a745636c356b4d0aa",
-      "played_at": "2026-11-20T15:29:01.183Z"
     }
   ]
 }
