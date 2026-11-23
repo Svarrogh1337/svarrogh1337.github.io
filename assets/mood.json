@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-22T18:48:49.739Z",
+  "updated": "2026-11-23T01:14:05.917Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Slow Chemical",
+      "artist": "Finger Eleven",
+      "url": "https://open.spotify.com/track/2h5Kce0Vt3PWgMYkYuUL3E",
+      "image": "https://i.scdn.co/image/ab67616d0000485145361efb0f85789c2b3a311c",
+      "played_at": "2026-11-22T21:35:33.790Z"
+    },
     {
       "name": "Scars",
       "artist": "Papa Roach",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/6Lah64e21cUytn0QXfuOoF",
       "image": "https://i.scdn.co/image/ab67616d00004851fff4c1e4c2e0534e6bfbde5b",
       "played_at": "2026-11-22T18:00:13.566Z"
-    },
-    {
-      "name": "Babylon Feeling (feat. Carlos Santana)",
-      "artist": "Everlast, Carlos Santana",
-      "url": "https://open.spotify.com/track/3RFRwZgFj8rAoVrab0cf1f",
-      "image": "https://i.scdn.co/image/ab67616d00004851059c7b8d07b902ddd2a97932",
-      "played_at": "2026-11-22T17:55:09.014Z"
     }
   ]
 }
