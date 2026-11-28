@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-27T15:47:39.555Z",
+  "updated": "2026-11-28T00:49:26.817Z",
   "sample": false,
   "tracks": [
+    {
+      "name": "Carolus Rex - English Version",
+      "artist": "Sabaton",
+      "url": "https://open.spotify.com/track/65WiP6G7rRBTLNxDzwam3M",
+      "image": "https://i.scdn.co/image/ab67616d00004851c25072f03b658eb007dceb83",
+      "played_at": "2026-11-27T21:12:59.654Z"
+    },
     {
       "name": "Yamato",
       "artist": "Sabaton",
@@ -36,13 +43,6 @@
       "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw",
       "image": "https://i.scdn.co/image/ab67616d000048514973c03327b47148881afe9c",
       "played_at": "2026-11-27T11:45:00.252Z"
-    },
-    {
-      "name": "Night Witches",
-      "artist": "Sabaton",
-      "url": "https://open.spotify.com/track/1xBRGN41DWx2vwNFY5CvGe",
-      "image": "https://i.scdn.co/image/ab67616d00004851735eecca68d3bb03e2e35a75",
-      "played_at": "2026-11-27T11:40:48.186Z"
     }
   ]
 }
